@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 15 Nov 2026 10:06:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:13:05 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Італія оштрафувала Meta на 805 млн євро через доступ до фотографій</title>
+      <link>https://yomaxxxi.github.io/news/italiya-oshtrafuvala-meta-na-805-mln-yevro-cherez-dostup-do-fotoh/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/italiya-oshtrafuvala-meta-na-805-mln-yevro-cherez-dostup-do-fotoh/</guid>
+      <pubDate>Sun, 15 Nov 2026 11:13:05 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Масштабний штраф від італійського регулятора за автоматичний збір мультимедіа.</description>
+    </item>
     <item>
       <title>Повний треклист Grand Theft Auto VI: The Album злито в мережу</title>
       <link>https://yomaxxxi.github.io/news/povnyy-treklyst-grand-theft-auto-vi-the-album-zlyto-v-merezhu/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 13 Nov 2026 08:41:27 +0000</pubDate>
       <category>Техніка</category>
       <description>Як український ринок оренди пройшов шлях від газетних сторінок до повноцінних цифрових екосистем.</description>
-    </item>
-    <item>
-      <title>Google Messages оновлює пошук: масштабний редизайн для бета-тестерів</title>
-      <link>https://yomaxxxi.github.io/news/google-messages-onovlyuye-poshuk-masshtabnyy-redyzayn-dlya-beta-t/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-messages-onovlyuye-poshuk-masshtabnyy-redyzayn-dlya-beta-t/</guid>
-      <pubDate>Fri, 13 Nov 2026 07:37:53 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Команда Google почала розгортати велике оновлення пошукового інтерфейсу для месенджера, яке має спростити пошук старого контенту.</description>
     </item>
   </channel>
 </rss>
