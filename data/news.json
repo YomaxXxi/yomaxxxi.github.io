@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19460,
+      "slug": "github-perlyna-dnya-qwenlmqwen-code-potuzhnyy-vidkrytyy-ai-ahent-",
+      "title": "GitHub-перлина дня: QwenLM/qwen-code — Потужний відкритий AI-агент для термінала, який замінює закриті підписки на Cursor та GitHub Copilot",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-15T09:22:49Z",
+      "date_formatted": "15 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/QwenLM/qwen-code",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Розробники втомилися від дорогих проприєтарних SaaS-рішень та прив'язки до одного вендора. Qwen Code закриває цей біль, пропонуючи повноцінного автономного AI-агента прямо у вашому терміналі з повною підтримкою відкритих моделей та повною незалежністю від закритих екосистем.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/QwenLM/qwen-code",
+      "github_repo": "QwenLM/qwen-code"
+    },
+    {
       "id": 19446,
       "slug": "tyzhden-u-rozrizi-makety-galaxy-s27-prybuttya-xiaomi-18-ta-novi-v",
       "title": "Тиждень у розрізі: макети Galaxy S27, прибуття Xiaomi 18 та нові витоки",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
       "summary": "Цього тижня техноіндустрія принесла чимало обговорень: від свіжих макетів майбутньої лінійки Samsung до глобального запуску флагманів Xiaomi та деталей про майбутні iPhone.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Новий аксесуар від ESR покликаний розв'язати одразу дві головні проблеми використання великого складногó пристрою завдяки продуманій конструкції та активному охолодженню.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/addyosmani/agent-skills",
       "github_repo": "addyosmani/agent-skills"
-    },
-    {
-      "id": 16312,
-      "slug": "gta-6-vzhe-dostupna-dlya-poperednoho-zavantazhennya-hotuyte-vilni",
-      "title": "GTA 6 вже доступна для попереднього завантаження: готуйте вільні гігабайти!",
-      "category": "Геймінг",
-      "category_slug": "gaming",
-      "date": "2026-11-10T08:35:23Z",
-      "date_formatted": "10 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.engadget.com/img/gallery/gta-6-is-now-available-for-preload-if-you-have-a-spare-212gb/l-intro-1794304763.jpg",
-      "image_caption": "Матеріали Engadget / Офіційний реліз",
-      "summary": "До довгоочікуваного релізу залишаються лічені дні, і видавець Rockstar Games офіційно відкрив попереднє завантаження гри для власників консолей Xbox Series X|S та PlayStation 5 у більшості регіонів світу. Тепер гравці, які вже оформили передзамовлення, можуть заздалегідь встановити тайтл на накопичувач і не витрачати час у день прем'єри.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }

@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 15 Nov 2026 08:58:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 09:22:49 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: QwenLM/qwen-code — Потужний відкритий AI-агент для термінала, який замінює закриті підписки на Cursor та GitHub Copilot</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-qwenlmqwen-code-potuzhnyy-vidkrytyy-ai-ahent-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-qwenlmqwen-code-potuzhnyy-vidkrytyy-ai-ahent-/</guid>
+      <pubDate>Sun, 15 Nov 2026 09:22:49 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Розробники втомилися від дорогих проприєтарних SaaS-рішень та прив&#x27;язки до одного вендора. Qwen Code закриває цей біль, пропонуючи повноцінного автономного AI-агента прямо у вашому терміналі з повною підтримкою відкритих моделей та повною незалежністю від закритих екосистем.</description>
+    </item>
     <item>
       <title>Тиждень у розрізі: макети Galaxy S27, прибуття Xiaomi 18 та нові витоки</title>
       <link>https://yomaxxxi.github.io/news/tyzhden-u-rozrizi-makety-galaxy-s27-prybuttya-xiaomi-18-ta-novi-v/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 13 Nov 2026 06:19:13 +0000</pubDate>
       <category>Геймінг</category>
       <description>Новий звіт організаторів GDC Festival of Gaming оголив масштабну кризу на ринку праці у сфері розробки відеоігор за останні два роки.</description>
-    </item>
-    <item>
-      <title>Oppo розкрила деталі про лінійку Reno17: чипи, камери та батареї</title>
-      <link>https://yomaxxxi.github.io/news/oppo-rozkryla-detali-pro-liniyku-reno17-chypy-kamery-ta-batareyi/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/oppo-rozkryla-detali-pro-liniyku-reno17-chypy-kamery-ta-batareyi/</guid>
-      <pubDate>Fri, 13 Nov 2026 04:29:36 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія Oppo готується до повноцінного анонсу нових смартфонів Reno17 та Reno17 Pro у Китаї, який відбудеться вже 16 листопада.</description>
     </item>
   </channel>
 </rss>
