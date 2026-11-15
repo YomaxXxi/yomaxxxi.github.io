@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19466,
+      "slug": "povnyy-treklyst-grand-theft-auto-vi-the-album-zlyto-v-merezhu",
+      "title": "Повний треклист Grand Theft Auto VI: The Album злито в мережу",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-15T10:06:42Z",
+      "date_formatted": "15 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://img.mezha.ua/mezha/images/doc/1/6/334747/16ee59f7db3a097f7d209edd7f321272.jpeg",
+      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
+      "summary": "Мережа розбуркана новиною: за кілька днів до офіційного релізу бази даних та релізу саму гру спіткав гучний витік. У соцмережах з'явився повний список композицій та ціни фізичних носіїв.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19460,
       "slug": "github-perlyna-dnya-qwenlmqwen-code-potuzhnyy-vidkrytyy-ai-ahent-",
       "title": "GitHub-перлина дня: QwenLM/qwen-code — Потужний відкритий AI-агент для термінала, який замінює закриті підписки на Cursor та GitHub Copilot",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Розробники втомилися від дорогих проприєтарних SaaS-рішень та прив'язки до одного вендора. Qwen Code закриває цей біль, пропонуючи повноцінного автономного AI-агента прямо у вашому терміналі з повною підтримкою відкритих моделей та повною незалежністю від закритих екосистем.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/QwenLM/qwen-code",
       "github_repo": "QwenLM/qwen-code"
@@ -59,7 +80,7 @@
       "summary": "Історичний момент для аерокосмічної галузі: корабель компанії Ілона Маска успішно завершив складну орбітальну місію.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 16346,
-      "slug": "github-perlyna-dnya-addyosmaniagent-skills-production-grade-inzhe",
-      "title": "GitHub-перлина дня: addyosmani/agent-skills — Production-grade інженерні навички для AI-агентів кодування",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-10T09:23:10Z",
-      "date_formatted": "10 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/addyosmani/agent-skills",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "AI-агенти пишуть код швидко, але часто ігнорують правила чистої архітектури та перевірки якості, що змушує нас постійно правити баги вручну.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "github_repo": "addyosmani/agent-skills"
     }
   ]
 }

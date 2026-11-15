@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 15 Nov 2026 09:22:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 10:06:42 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Повний треклист Grand Theft Auto VI: The Album злито в мережу</title>
+      <link>https://yomaxxxi.github.io/news/povnyy-treklyst-grand-theft-auto-vi-the-album-zlyto-v-merezhu/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/povnyy-treklyst-grand-theft-auto-vi-the-album-zlyto-v-merezhu/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:06:42 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Мережа розбуркана новиною: за кілька днів до офіційного релізу бази даних та релізу саму гру спіткав гучний витік. У соцмережах з&#x27;явився повний список композицій та ціни фізичних носіїв.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: QwenLM/qwen-code — Потужний відкритий AI-агент для термінала, який замінює закриті підписки на Cursor та GitHub Copilot</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-qwenlmqwen-code-potuzhnyy-vidkrytyy-ai-ahent-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 13 Nov 2026 07:37:53 +0000</pubDate>
       <category>Техніка</category>
       <description>Команда Google почала розгортати велике оновлення пошукового інтерфейсу для месенджера, яке має спростити пошук старого контенту.</description>
-    </item>
-    <item>
-      <title>Криза у геймдеві: понад половина звільнених розробників досі шукають роботу</title>
-      <link>https://yomaxxxi.github.io/news/kryza-u-heymdevi-ponad-polovyna-zvilnenykh-rozrobnykiv-dosi-shuka/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/kryza-u-heymdevi-ponad-polovyna-zvilnenykh-rozrobnykiv-dosi-shuka/</guid>
-      <pubDate>Fri, 13 Nov 2026 06:19:13 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Новий звіт організаторів GDC Festival of Gaming оголив масштабну кризу на ринку праці у сфері розробки відеоігор за останні два роки.</description>
     </item>
   </channel>
 </rss>
