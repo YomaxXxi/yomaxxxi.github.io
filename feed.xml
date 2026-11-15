@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 15 Nov 2026 12:53:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:43:57 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Скільки насправді електроенергії споживає ваша домашня аудіосистема?</title>
+      <link>https://yomaxxxi.github.io/news/skilky-naspravdi-elektroenerhiyi-spozhyvaye-vasha-domashnya-audio/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/skilky-naspravdi-elektroenerhiyi-spozhyvaye-vasha-domashnya-audio/</guid>
+      <pubDate>Sun, 15 Nov 2026 13:43:57 +0000</pubDate>
+      <category>Техніка</category>
+      <description>У період зростання комунальних тарифів варто розібратися, скільки коштує робота улюблених колонок, підсилювачів та провідних аудіокомпонентів.</description>
+    </item>
     <item>
       <title>Технології, які ми втратили: Трансфлективні екрани Memory LCD</title>
       <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-transflektyvni-ekrany-memory-lcd/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 13 Nov 2026 10:47:22 +0000</pubDate>
       <category>Техніка</category>
       <description>Студія Pixar представила яскравий трейлер нової анімаційної стрічки, події якої розгортаються на канальних вулицях італійського міста.</description>
-    </item>
-    <item>
-      <title>MSI Crosshair A16 HX MLG Edition: продуктивність AMD та NVIDIA у білому корпусі</title>
-      <link>https://yomaxxxi.github.io/news/msi-crosshair-a16-hx-mlg-edition-produktyvnist-amd-ta-nvidia-u-bi/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/msi-crosshair-a16-hx-mlg-edition-produktyvnist-amd-ta-nvidia-u-bi/</guid>
-      <pubDate>Fri, 13 Nov 2026 09:43:04 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Свіжий ігровий ноутбук пропонує потужну комбінацію заліза, швидкий дисплей та розширений комплект постачання у яскравому виконанні Stellar White.</description>
     </item>
   </channel>
 </rss>
