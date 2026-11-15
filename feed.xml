@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:43:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:01:55 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple активно працює над інтеграцією Face ID у зовнішній дисплей iPhone Duo 2</title>
+      <link>https://yomaxxxi.github.io/news/apple-aktyvno-pratsyuye-nad-intehratsiyeyu-face-id-u-zovnishniy-d/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/apple-aktyvno-pratsyuye-nad-intehratsiyeyu-face-id-u-zovnishniy-d/</guid>
+      <pubDate>Sun, 15 Nov 2026 15:01:55 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Інженери компанії роблять біометрію пріоритетом для наступних поколінь складної лінійки, хоча терміни залишаються дуже жорсткими.</description>
+    </item>
     <item>
       <title>Скільки насправді електроенергії споживає ваша домашня аудіосистема?</title>
       <link>https://yomaxxxi.github.io/news/skilky-naspravdi-elektroenerhiyi-spozhyvaye-vasha-domashnya-audio/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 13 Nov 2026 12:07:22 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія відкрила новий заклад із інноваційним форматом отримання їжі без прямого контакту з працівниками.</description>
-    </item>
-    <item>
-      <title>Котяча мафія у Венеції: Pixar показала трейлер мультфільму «Ґатто: Дев&#x27;ять життів Неро» / Gatto</title>
-      <link>https://yomaxxxi.github.io/news/kotyacha-mafiya-u-venetsiyi-pixar-pokazala-treyler-multfilmu-gatt/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/kotyacha-mafiya-u-venetsiyi-pixar-pokazala-treyler-multfilmu-gatt/</guid>
-      <pubDate>Fri, 13 Nov 2026 10:47:22 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Студія Pixar представила яскравий трейлер нової анімаційної стрічки, події якої розгортаються на канальних вулицях італійського міста.</description>
     </item>
   </channel>
 </rss>
