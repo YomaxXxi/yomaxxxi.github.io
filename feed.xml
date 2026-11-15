@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 15 Nov 2026 06:29:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:45:07 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SpaceX Starship уперше повернувся з орбіти прямо в «обійми» Mechazilla</title>
+      <link>https://yomaxxxi.github.io/news/spacex-starship-upershe-povernuvsya-z-orbity-pryamo-v-obiymy-mech/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/spacex-starship-upershe-povernuvsya-z-orbity-pryamo-v-obiymy-mech/</guid>
+      <pubDate>Sun, 15 Nov 2026 07:45:07 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Історичний момент для аерокосмічної галузі: корабель компанії Ілона Маска успішно завершив складну орбітальну місію.</description>
+    </item>
     <item>
       <title>Зарядний пристрій ESR MagSafe із підставкою: рішення для iPhone Duo</title>
       <link>https://yomaxxxi.github.io/news/zaryadnyy-prystriy-esr-magsafe-iz-pidstavkoyu-rishennya-dlya-ipho/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 12 Nov 2026 15:39:46 +0000</pubDate>
       <category>Open Source</category>
       <description>Розробники знають біль, коли різні проєкти вимагають несумісних версій Node.js. Глобальне встановлення ламає продакшн-скрипти та змушує страждати від прав суперкористувача. nvm повністю закриває цей біль, дозволяючи тримати десятки ізольованих середовищ у домашній директорії.</description>
-    </item>
-    <item>
-      <title>«Легенда замінює легенду»: відставка Дженсена Хуанга з посади CEO Nvidia та несподівані кадрові зміни у техгіганті</title>
-      <link>https://yomaxxxi.github.io/news/lehenda-zaminyuye-lehendu-vidstavka-dzhensena-khuanha-z-posady-ce/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/lehenda-zaminyuye-lehendu-vidstavka-dzhensena-khuanha-z-posady-ce/</guid>
-      <pubDate>Thu, 12 Nov 2026 14:37:39 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Співзасновник та багаторічний керівник Nvidia Дженсен Хуанг залишив усі ключові посади в компанії, спровокувавши масовий резонанс на ринку та оригінальну реакцію Білого дому.</description>
     </item>
   </channel>
 </rss>

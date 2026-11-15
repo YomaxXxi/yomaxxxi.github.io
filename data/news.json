@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19435,
+      "slug": "spacex-starship-upershe-povernuvsya-z-orbity-pryamo-v-obiymy-mech",
+      "title": "SpaceX Starship уперше повернувся з орбіти прямо в «обійми» Mechazilla",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-15T07:45:07Z",
+      "date_formatted": "15 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/10/79/76/75/derived/ebb3b37c11b60fe157ae331fc567c2bc.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Історичний момент для аерокосмічної галузі: корабель компанії Ілона Маска успішно завершив складну орбітальну місію.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19391,
       "slug": "zaryadnyy-prystriy-esr-magsafe-iz-pidstavkoyu-rishennya-dlya-ipho",
       "title": "Зарядний пристрій ESR MagSafe із підставкою: рішення для iPhone Duo",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
       "summary": "Новий аксесуар від ESR покликаний розв'язати одразу дві головні проблеми використання великого складногó пристрою завдяки продуманій конструкції та активному охолодженню.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Комерційні AI-агенти на кшталт Claude Code чи GitHub Copilot змушують розробників платити шалені гроші за зайвий «ввічливий» контекст. Проєкт Caveman вирішує цей біль, змушуючи AI спілкуватися у стилі caveman: без зайвої води, тегів та форматувань, зберігаючи ідентичну якість написання коду.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/JuliusBrussee/caveman",
       "github_repo": "JuliusBrussee/caveman"
     },
@@ -1233,27 +1254,6 @@
       "image": "https://dev.ua/storage/images/21/94/29/56/derived/555c7553677705ef0a3f45f15a7d3528.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Американська фінтех-компанія Ramp вирішила змінити підхід до найму, зробивши ставку на надмотивованих розробників-самоучок без огляду на класичні дипломи та резюме.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 16242,
-      "slug": "vytoky-kamer-galaxy-s27-shcho-chekaye-na-novu-seriyu-samsung",
-      "title": "Витоки камер Galaxy S27: що чекає на нову серію Samsung?",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-10T06:27:49Z",
-      "date_formatted": "10 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-backs-1.jpg",
-      "image_caption": "Матеріали Android Authority / Офіційний реліз",
-      "summary": "Мережеві інсайдери розкрили деталі про камерні модулі майбутньої лінійки смарт-пристроїв Galaxy S27 series.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
