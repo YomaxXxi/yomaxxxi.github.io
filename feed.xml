@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 15 Nov 2026 07:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 08:58:00 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Тиждень у розрізі: макети Galaxy S27, прибуття Xiaomi 18 та нові витоки</title>
+      <link>https://yomaxxxi.github.io/news/tyzhden-u-rozrizi-makety-galaxy-s27-prybuttya-xiaomi-18-ta-novi-v/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tyzhden-u-rozrizi-makety-galaxy-s27-prybuttya-xiaomi-18-ta-novi-v/</guid>
+      <pubDate>Sun, 15 Nov 2026 08:58:00 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Цього тижня техноіндустрія принесла чимало обговорень: від свіжих макетів майбутньої лінійки Samsung до глобального запуску флагманів Xiaomi та деталей про майбутні iPhone.</description>
+    </item>
     <item>
       <title>SpaceX Starship уперше повернувся з орбіти прямо в «обійми» Mechazilla</title>
       <link>https://yomaxxxi.github.io/news/spacex-starship-upershe-povernuvsya-z-orbity-pryamo-v-obiymy-mech/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 13 Nov 2026 04:29:36 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія Oppo готується до повноцінного анонсу нових смартфонів Reno17 та Reno17 Pro у Китаї, який відбудеться вже 16 листопада.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: nvm-sh/nvm — Стандарт де-факто для ізольованого менеджменту версій Node.js без конфліктів та болю</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-nvm-shnvm-standart-de-fakto-dlya-izolovanoho-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-nvm-shnvm-standart-de-fakto-dlya-izolovanoho-/</guid>
-      <pubDate>Thu, 12 Nov 2026 15:39:46 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Розробники знають біль, коли різні проєкти вимагають несумісних версій Node.js. Глобальне встановлення ламає продакшн-скрипти та змушує страждати від прав суперкористувача. nvm повністю закриває цей біль, дозволяючи тримати десятки ізольованих середовищ у домашній директорії.</description>
     </item>
   </channel>
 </rss>
