@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 14 Nov 2026 15:52:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 04:13:01 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Штучний інтелект без переплат: як додати локальну нейромережу у вільний рідер PDF</title>
+      <link>https://yomaxxxi.github.io/news/shtuchnyy-intelekt-bez-pereplat-yak-dodaty-lokalnu-neyromerezhu-u/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shtuchnyy-intelekt-bez-pereplat-yak-dodaty-lokalnu-neyromerezhu-u/</guid>
+      <pubDate>Sun, 15 Nov 2026 04:13:01 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Аби не сплачувати підписку від Adobe, розробник обійшов обмеження за допомогою відкритого софту та локальної моделі.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: JuliusBrussee/caveman — вірусний проксі для AI-агентів, що скорочує витрати токенів на 65% через «печерну» мову</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-juliusbrusseecaveman-virusnyy-proksi-dlya-ai-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 12 Nov 2026 14:12:50 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Розберемося, чому фронтальна камера Pixel іноді грішить надмірним «милом» на обличчі та які налаштування повернути в норму, щоб знімки стали різкими й деталізованими.</description>
-    </item>
-    <item>
-      <title>Потужний павербанк від Ecoflow: швидка зарядка трьох пристроїв всього за $49</title>
-      <link>https://yomaxxxi.github.io/news/potuzhnyy-paverbank-vid-ecoflow-shvydka-zaryadka-trokh-prystroyiv/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/potuzhnyy-paverbank-vid-ecoflow-shvydka-zaryadka-trokh-prystroyiv/</guid>
-      <pubDate>Thu, 12 Nov 2026 13:30:53 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Бренд Ecoflow випустив функціональний пристрій для тих, хто постійно в дорозі та має кілька гаджетів одночасно. Цей ультраємний павербанк здатен одночасно живити до трьох пристроїв на максимальній швидкості.</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19408,
+      "slug": "shtuchnyy-intelekt-bez-pereplat-yak-dodaty-lokalnu-neyromerezhu-u",
+      "title": "Штучний інтелект без переплат: як додати локальну нейромережу у вільний рідер PDF",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-15T04:13:01Z",
+      "date_formatted": "15 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/main-fi-adobe.jpg",
+      "image_caption": "Матеріали XDA Developers / Офіційний реліз",
+      "summary": "Аби не сплачувати підписку від Adobe, розробник обійшов обмеження за допомогою відкритого софту та локальної моделі.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19269,
       "slug": "github-perlyna-dnya-juliusbrusseecaveman-virusnyy-proksi-dlya-ai-",
       "title": "GitHub-перлина дня: JuliusBrussee/caveman — вірусний проксі для AI-агентів, що скорочує витрати токенів на 65% через «печерну» мову",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Комерційні AI-агенти на кшталт Claude Code чи GitHub Copilot змушують розробників платити шалені гроші за зайвий «ввічливий» контекст. Проєкт Caveman вирішує цей біль, змушуючи AI спілкуватися у стилі caveman: без зайвої води, тегів та форматувань, зберігаючи ідентичну якість написання коду.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/JuliusBrussee/caveman",
       "github_repo": "JuliusBrussee/caveman"
@@ -80,7 +101,7 @@
       "summary": "Старт продажів однієї з найочікуваніших ігор десятиліття супроводжується великим неприємним сюрпризом для гравців.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 16018,
-      "slug": "github-perlyna-dnya-vercel-labsagent-browser-natyvna-cli-utylita-",
-      "title": "GitHub-перлина дня: vercel-labs/agent-browser — Нативна CLI-утиліта на Rust для керування браузером штучним інтелектом (заміна повільним Puppeteer/Playwright скриптам)",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-09T17:03:10Z",
-      "date_formatted": "9 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/vercel-labs/agent-browser",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Розробники AI-агентів знають біль: змусити LLM клікати по сайтах через важкі обгортки на кшталт Puppeteer чи Selenium — це повільно, дорого по токенах і постійно ламається. Vercel Labs випустила нативний інструмент, який дає агенту повноцінний браузер прямо через CLI.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/vercel-labs/agent-browser",
-      "github_repo": "vercel-labs/agent-browser"
     }
   ]
 }
