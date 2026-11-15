@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 15 Nov 2026 15:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:52:49 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: dream-num/univer — Потужний Office SDK з відкритим кодом для створення власних редакторів та AI-агентів</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-dream-numuniver-potuzhnyy-office-sdk-z-vidkry/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-dream-numuniver-potuzhnyy-office-sdk-z-vidkry/</guid>
+      <pubDate>Sun, 15 Nov 2026 15:52:49 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Потрібно вбудувати повноцінні таблиці чи документи у свій SaaS, але писати все з нуля занадто довго, а закриті платні аналоги коштують шалені гроші? Univer закриває цей біль. Це потужний open-source Office SDK, який повністю замінює дорогі комерційні компоненти та дозволяє розгорнути власні таблиці, документи та презентації прямо у вашому продукті.</description>
+    </item>
     <item>
       <title>Apple активно працює над інтеграцією Face ID у зовнішній дисплей iPhone Duo 2</title>
       <link>https://yomaxxxi.github.io/news/apple-aktyvno-pratsyuye-nad-intehratsiyeyu-face-id-u-zovnishniy-d/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 13 Nov 2026 12:40:13 +0000</pubDate>
       <category>Геймінг</category>
       <description>У 2011 році Sony об&#x27;єднала культовий бренд PlayStation і телефон у кишеньковому шедеврі Xperia Play. Висувна панель дарувала реальні тактильні кнопки управління, що назавжди змінило мобільний геймінг того часу.</description>
-    </item>
-    <item>
-      <title>McDonald’s в Україні вперше запустив ресторан із шафкою для самовидачі</title>
-      <link>https://yomaxxxi.github.io/news/mcdonalds-v-ukrayini-vpershe-zapustyv-restoran-iz-shafkoyu-dlya-s/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mcdonalds-v-ukrayini-vpershe-zapustyv-restoran-iz-shafkoyu-dlya-s/</guid>
-      <pubDate>Fri, 13 Nov 2026 12:07:22 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія відкрила новий заклад із інноваційним форматом отримання їжі без прямого контакту з працівниками.</description>
     </item>
   </channel>
 </rss>

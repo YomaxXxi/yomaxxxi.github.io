@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19609,
+      "slug": "github-perlyna-dnya-dream-numuniver-potuzhnyy-office-sdk-z-vidkry",
+      "title": "GitHub-перлина дня: dream-num/univer — Потужний Office SDK з відкритим кодом для створення власних редакторів та AI-агентів",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-15T15:52:49Z",
+      "date_formatted": "15 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/dream-num/univer",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Потрібно вбудувати повноцінні таблиці чи документи у свій SaaS, але писати все з нуля занадто довго, а закриті платні аналоги коштують шалені гроші? Univer закриває цей біль. Це потужний open-source Office SDK, який повністю замінює дорогі комерційні компоненти та дозволяє розгорнути власні таблиці, документи та презентації прямо у вашому продукті.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/dream-num/univer",
+      "github_repo": "dream-num/univer"
+    },
+    {
       "id": 19583,
       "slug": "apple-aktyvno-pratsyuye-nad-intehratsiyeyu-face-id-u-zovnishniy-d",
       "title": "Apple активно працює над інтеграцією Face ID у зовнішній дисплей iPhone Duo 2",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
       "summary": "Інженери компанії роблять біометрію пріоритетом для наступних поколінь складної лінійки, хоча терміни залишаються дуже жорсткими.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Легендарний антивідчит-сервіс нарешті готується повноцінно зайти на Linux-платформу, а популярний дистрибутив вже адаптується під нові реалії.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/TheAlgorithms/Java",
       "github_repo": "TheAlgorithms/Java"
-    },
-    {
-      "id": 16997,
-      "slug": "naykrashcha-alternatyva-nova-launcher-shcho-take-supernova-i-yak-",
-      "title": "Найкраща альтернатива Nova Launcher: що таке Supernova і як її встановити",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-11T08:58:23Z",
-      "date_formatted": "11 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/supernova-launcher-home-screen-2.jpg",
-      "image_caption": "Матеріали Android Authority / Офіційний реліз",
-      "summary": "Через часті зміни власників, появу трекерів та сумнівні інтеграції Nova Launcher втратив колишню довіру частини користувачів, які тепер шукають відкриту та чисту заміну для своїх смартфонів на Android 17 та старіших версіях.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }
