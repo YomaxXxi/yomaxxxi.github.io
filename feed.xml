@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 15 Nov 2026 04:13:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:29:51 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Зарядний пристрій ESR MagSafe із підставкою: рішення для iPhone Duo</title>
+      <link>https://yomaxxxi.github.io/news/zaryadnyy-prystriy-esr-magsafe-iz-pidstavkoyu-rishennya-dlya-ipho/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/zaryadnyy-prystriy-esr-magsafe-iz-pidstavkoyu-rishennya-dlya-ipho/</guid>
+      <pubDate>Sun, 15 Nov 2026 06:29:51 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Новий аксесуар від ESR покликаний розв&#x27;язати одразу дві головні проблеми використання великого складногó пристрою завдяки продуманій конструкції та активному охолодженню.</description>
+    </item>
     <item>
       <title>Штучний інтелект без переплат: як додати локальну нейромережу у вільний рідер PDF</title>
       <link>https://yomaxxxi.github.io/news/shtuchnyy-intelekt-bez-pereplat-yak-dodaty-lokalnu-neyromerezhu-u/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 12 Nov 2026 14:37:39 +0000</pubDate>
       <category>Техніка</category>
       <description>Співзасновник та багаторічний керівник Nvidia Дженсен Хуанг залишив усі ключові посади в компанії, спровокувавши масовий резонанс на ринку та оригінальну реакцію Білого дому.</description>
-    </item>
-    <item>
-      <title>Шпаргалка / Гайд: Як прибрати розмиття та покращити селфі на Google Pixel</title>
-      <link>https://yomaxxxi.github.io/news/shparhalka-hayd-yak-prybraty-rozmyttya-ta-pokrashchyty-selfi-na-g/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shparhalka-hayd-yak-prybraty-rozmyttya-ta-pokrashchyty-selfi-na-g/</guid>
-      <pubDate>Thu, 12 Nov 2026 14:12:50 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Розберемося, чому фронтальна камера Pixel іноді грішить надмірним «милом» на обличчі та які налаштування повернути в норму, щоб знімки стали різкими й деталізованими.</description>
     </item>
   </channel>
 </rss>
