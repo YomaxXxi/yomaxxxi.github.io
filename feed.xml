@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 15 Nov 2026 12:29:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:53:17 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Технології, які ми втратили: Трансфлективні екрани Memory LCD</title>
+      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-transflektyvni-ekrany-memory-lcd/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-transflektyvni-ekrany-memory-lcd/</guid>
+      <pubDate>Sun, 15 Nov 2026 12:53:17 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Чим яскравіше палюче сонце світило над головою, тим контрастніше і чіткіше читався такий дисплей без жодної сліпоти чи бліків. На відміну від сучасних OLED-панелей, які сліпнуть на вулиці, ці екрани використовували зовнішнє світло як природну підсвітку.</description>
+    </item>
     <item>
       <title>Epic Games готує Easy Anti-Cheat для Linux: що відомо про EAC Linux v2 та готовність Bazzite</title>
       <link>https://yomaxxxi.github.io/news/epic-games-hotuye-easy-anti-cheat-dlya-linux-shcho-vidomo-pro-eac/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 13 Nov 2026 09:43:04 +0000</pubDate>
       <category>Геймінг</category>
       <description>Свіжий ігровий ноутбук пропонує потужну комбінацію заліза, швидкий дисплей та розширений комплект постачання у яскравому виконанні Stellar White.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: louislam/uptime-kuma — витончений self-hosted інструмент моніторингу, який замінює дорогі SaaS-сервіси типу Statuspage та Pingdom.</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-louislamuptime-kuma-vytonchenyy-self-hosted-i/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-louislamuptime-kuma-vytonchenyy-self-hosted-i/</guid>
-      <pubDate>Fri, 13 Nov 2026 09:09:47 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Розробникам і сисадмінам постійно потрібен надійний контроль доступності сервісів, проте комерційні платформи коштують чималих грошей або вимагають передачі даних стороннім компаніям. Uptime Kuma закриває цей біль повністю самостійно.</description>
     </item>
   </channel>
 </rss>
