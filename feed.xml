@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 16 Nov 2026 10:40:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:42:15 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Пишете лонгріди в коментарях? Час оформити це в повноцінну статтю!</title>
+      <link>https://yomaxxxi.github.io/news/pyshete-lonhridy-v-komentaryakh-chas-oformyty-tse-v-povnotsinnu-s/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/pyshete-lonhridy-v-komentaryakh-chas-oformyty-tse-v-povnotsinnu-s/</guid>
+      <pubDate>Mon, 16 Nov 2026 11:42:15 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Якщо вас тригерить новий реліз Apple, дивні тренди в софті чи оптимізація свіжих ігор — не зливайте аргументи в гілки коментарів, де вони зникнуть за добу.</description>
+    </item>
     <item>
       <title>Відеоподкасти незабаром з&#x27;являться в додатку Apple TV</title>
       <link>https://yomaxxxi.github.io/news/videopodkasty-nezabarom-zyavlyatsya-v-dodatku-apple-tv/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 14 Nov 2026 08:25:25 +0000</pubDate>
       <category>Техніка</category>
       <description>Huawei випустила nova Flip S у Китаї ще в жовтні минулого року, і це був переважно nova Flip з новими кольорами, нижчою ціною та іншим чіпсетом. Його наступник, за чутками, стане набагато більшою зміною.</description>
-    </item>
-    <item>
-      <title>FAA відновила польоти після загальнонаціонального збою в США</title>
-      <link>https://yomaxxxi.github.io/news/faa-vidnovyla-poloty-pislya-zahalnonatsionalnoho-zboyu-v-ssha/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/faa-vidnovyla-poloty-pislya-zahalnonatsionalnoho-zboyu-v-ssha/</guid>
-      <pubDate>Sat, 14 Nov 2026 07:09:09 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Федеральне авіаційне управління США скасувало загальнонаціональну заборону на польоти, яка зупинила весь повітряний рух на кілька годин 13 листопада 2026 року. Сотні рейсів були скасовані, а мільйони пасажирів заблоковані в аеропортах.</description>
     </item>
   </channel>
 </rss>

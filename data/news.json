@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19987,
+      "slug": "pyshete-lonhridy-v-komentaryakh-chas-oformyty-tse-v-povnotsinnu-s",
+      "title": "Пишете лонгріди в коментарях? Час оформити це в повноцінну статтю!",
+      "category": "Геймінг",
+      "category_slug": "gaming",
+      "date": "2026-11-16T11:42:15Z",
+      "date_formatted": "16 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn4.telesco.pe/file/lvwQb6BoJhBatl46i5TJnzZefHD3azVey7bYQvyOhCe2BY4tCQu0lHH66o-BFnIk91adcHRMdvaScl-w7cVzCDG7xpmtsX9pDy1GK1hrdV0NC2aQjeIx8kJr1iFeHckdyDAszlF6CM-LMf6OqA1dMGr_DD5Jg38YjeZDnkmh7Xgi-BZ9GmGXjvURX2Ei3yNm0EvJ_m1_yEnsTFLYj6oCP-p_W-n9-9OGdMxxFLMgRsOkb4ZLfRMM_Ps-HnjRwKQILI8k1rAUVtWKOeHgceQFtXWmxz2BGJZB22ieiJDkHtxrnxYHv_GsgueBU7o_NWLrKixIXIbC0IlBUwqLf_CB4w.jpg",
+      "image_caption": "Матеріали ITC.ua (TG) (Telegram) / Офіційний реліз",
+      "summary": "Якщо вас тригерить новий реліз Apple, дивні тренди в софті чи оптимізація свіжих ігор — не зливайте аргументи в гілки коментарів, де вони зникнуть за добу.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19936,
       "slug": "videopodkasty-nezabarom-zyavlyatsya-v-dodatku-apple-tv",
       "title": "Відеоподкасти незабаром з'являться в додатку Apple TV",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
       "summary": "Компанія Apple готується суттєво розширити можливості своїх сервісів, додавши спеціальний розділ для відеоподкастів безпосередньо в Apple TV та фірмовий додаток Apple TV app на сторонніх пристроях, включаючи сучасні Smart TV.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Розробники ШІ-додатків знають цей біль: інтеграція автономних агентів у вебдодатки перетворюється на кастомний велосіпедобудівний ад через нестандартизовані асинхронні відповіді та відсутність єдиної шини подій.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/ag-ui-protocol/ag-ui",
       "github_repo": "ag-ui-protocol/ag-ui"
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/meta/astryx",
       "github_repo": "meta/astryx"
-    },
-    {
-      "id": 17346,
-      "slug": "korystuvachi-google-chrome-zitknulysya-z-bahom-google-lens-blokuy",
-      "title": "Користувачі Google Chrome зіткнулися з багом: Google Lens блокує закриття бічної панелі",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-11T15:31:36Z",
-      "date_formatted": "11 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/clever-use-cases-for-google-lens-1.jpg",
-      "image_caption": "Матеріали Android Authority / Офіційний реліз",
-      "summary": "Неприємний технічний збій у браузері залишав юзерів без можливості закрити вікно пошукового інструменту.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }
