@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:22:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:37:44 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google Messages готує інтеграцію сторонніх редакторів медіа</title>
+      <link>https://yomaxxxi.github.io/news/google-messages-hotuye-intehratsiyu-storonnikh-redaktoriv-media/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-messages-hotuye-intehratsiyu-storonnikh-redaktoriv-media/</guid>
+      <pubDate>Mon, 16 Nov 2026 09:37:44 +0000</pubDate>
+      <category>Техніка</category>
+      <description>У популярному месенджері від Google з&#x27;явиться довгоочікувана можливість редагувати фото та відео безпосередньо перед відправкою.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: ag-ui-protocol/ag-ui — відкритий легкий протокол взаємодії агентів з користувацькими інтерфейсами, який усуває хаос при підключенні ШІ-агентів до фронтенду.</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-ag-ui-protocolag-ui-vidkrytyy-lehkyy-protokol/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 14 Nov 2026 06:18:26 +0000</pubDate>
       <category>Техніка</category>
       <description>Стильний, яскравий, але дещо поверхневий кримінальний бойовик від режисера Девіда Літча, який перетворює пограбування банків на вірусне шоу для YouTube та TikTok.</description>
-    </item>
-    <item>
-      <title>Найкращий і НАЙГІРШИЙ смартфони року! Скандал NVIDIA та новини Apple. KeddrNews</title>
-      <link>https://yomaxxxi.github.io/news/naykrashchyy-i-nayhirshyy-smartfony-roku-skandal-nvidia-ta-novyny/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/naykrashchyy-i-nayhirshyy-smartfony-roku-skandal-nvidia-ta-novyny/</guid>
-      <pubDate>Sat, 14 Nov 2026 04:49:21 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Свіжий випуск техно-новин уже на каналі — розбираємо головні анонси, гучні скандали індустрії та найкращі мобільні пристрої поточного періоду.</description>
     </item>
   </channel>
 </rss>

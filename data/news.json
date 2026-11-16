@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19892,
+      "slug": "google-messages-hotuye-intehratsiyu-storonnikh-redaktoriv-media",
+      "title": "Google Messages готує інтеграцію сторонніх редакторів медіа",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-16T09:37:44Z",
+      "date_formatted": "16 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-messages-2026-redesign-hero-2-scaled.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "У популярному месенджері від Google з'явиться довгоочікувана можливість редагувати фото та відео безпосередньо перед відправкою.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19888,
       "slug": "github-perlyna-dnya-ag-ui-protocolag-ui-vidkrytyy-lehkyy-protokol",
       "title": "GitHub-перлина дня: ag-ui-protocol/ag-ui — відкритий легкий протокол взаємодії агентів з користувацькими інтерфейсами, який усуває хаос при підключенні ШІ-агентів до фронтенду.",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Розробники ШІ-додатків знають цей біль: інтеграція автономних агентів у вебдодатки перетворюється на кастомний велосіпедобудівний ад через нестандартизовані асинхронні відповіді та відсутність єдиної шини подій.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/ag-ui-protocol/ag-ui",
       "github_repo": "ag-ui-protocol/ag-ui"
@@ -59,7 +80,7 @@
       "summary": "В індустрії розробки з'явився новий цікавий інструмент для вузькоспеціалізованих задач. VennDB — це компактна append-only база даних, яка працює повністю в оперативній пам'яті та створена мовою Rust. Проєкт розроблений спеціально для сценаріїв, де робочі набори даних є переважно статичними, завантажуються під час старту програми та постійно опитуються за допомогою простих фільтрів. Спочатку рішення створювалося в рамках екосистеми проєкту rama, наприклад для роботи в якості пам'яті апстрім-проксі.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/plabayo/venndb",
       "github_repo": "plabayo/venndb"
     },
@@ -1233,27 +1254,6 @@
       "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/Xenova/whisper-web.png",
       "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
       "summary": "Перестаньте платити за хмарні сервіси транскрипції на кшталт Otter заради переведення голосових записів, подкастів чи інтерв'ю у текст. Цей інструмент робить всю роботу локально у вашому браузері за лічені секунди і гарантує повну конфіденційність.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 17235,
-      "slug": "google-rozkryla-vsi-detali-pro-funktsiyu-create-my-widget-dlya-sm",
-      "title": "Google розкрила всі деталі про функцію Create My Widget для смартфонів Pixel",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-11T13:57:36Z",
-      "date_formatted": "11 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-fold-hands-on-5-scaled.jpg",
-      "image_caption": "Матеріали Android Authority / Офіційний реліз",
-      "summary": "Компанія Google поділилася новими подробицями про роботу інструменту Create My Widget на базі штучного інтелекту, який дозволяє створювати персоналізовані віджети за допомогою природного мовлення.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
