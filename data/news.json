@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19846,
+      "slug": "venndb-nadshvydka-in-memory-baza-danykh-na-rust-dlya-bit-flahiv",
+      "title": "VennDB: надшвидка in-memory база даних на Rust для біт-флагів",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-16T08:07:06Z",
+      "date_formatted": "16 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://repository-images.githubusercontent.com/618452402/843c8829-6a4a-467d-8aea-2271df08ceec",
+      "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
+      "summary": "В індустрії розробки з'явився новий цікавий інструмент для вузькоспеціалізованих задач. VennDB — це компактна append-only база даних, яка працює повністю в оперативній пам'яті та створена мовою Rust. Проєкт розроблений спеціально для сценаріїв, де робочі набори даних є переважно статичними, завантажуються під час старту програми та постійно опитуються за допомогою простих фільтрів. Спочатку рішення створювалося в рамках екосистеми проєкту rama, наприклад для роботи в якості пам'яті апстрім-проксі.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/plabayo/venndb",
+      "github_repo": "plabayo/venndb"
+    },
+    {
       "id": 19831,
       "slug": "sud-v-odesi-oshtrafuvav-prohramista-na-51-000-hrn-za-kastet-znayd",
       "title": "Суд в Одесі оштрафував програміста на 51 000 грн за кастет, знайдений на пляжі",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Незвична судова справа завершилася обвинувальним вироком для IT-спеціаліста, який намагався «здати знахідку поліції».",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Потрібно вбудувати повноцінні таблиці чи документи у свій SaaS, але писати все з нуля занадто довго, а закриті платні аналоги коштують шалені гроші? Univer закриває цей біль. Це потужний open-source Office SDK, який повністю замінює дорогі комерційні компоненти та дозволяє розгорнути власні таблиці, документи та презентації прямо у вашому продукті.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/dream-num/univer",
       "github_repo": "dream-num/univer"
     },
@@ -1233,27 +1254,6 @@
       "image": "https://dev.ua/storage/images/39/73/88/56/derived/4cdc3aa715648f85e985805c4884424c.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Інноваційний застосунок одночасно зчитує міміку, погляд, голос, пульс із камери смартфона, а також дані з Apple Watch і смарт-каблучки.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 17110,
-      "slug": "kultovyy-ukrayinskyy-shuter-znykaye-z-mahazynu-skandal-navkolo-yo",
-      "title": "Культовий український шутер зникає з магазину: скандал навколо You Are Empty",
-      "category": "Геймінг",
-      "category_slug": "gaming",
-      "date": "2026-11-11T11:34:32Z",
-      "date_formatted": "11 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/5/e/334085/5e5fc4779618cab610f6fdd93a4c7b79.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Історія з поверненням класичного українського шутера You Are Empty: Absolute Edition у Steam отримала неочікуваний поворот: проєкт повністю прибрали з продажу після жорсткого конфлікту між авторами та видавцями.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

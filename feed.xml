@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 16 Nov 2026 07:26:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 08:07:06 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>VennDB: надшвидка in-memory база даних на Rust для біт-флагів</title>
+      <link>https://yomaxxxi.github.io/news/venndb-nadshvydka-in-memory-baza-danykh-na-rust-dlya-bit-flahiv/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/venndb-nadshvydka-in-memory-baza-danykh-na-rust-dlya-bit-flahiv/</guid>
+      <pubDate>Mon, 16 Nov 2026 08:07:06 +0000</pubDate>
+      <category>Open Source</category>
+      <description>В індустрії розробки з&#x27;явився новий цікавий інструмент для вузькоспеціалізованих задач. VennDB — це компактна append-only база даних, яка працює повністю в оперативній пам&#x27;яті та створена мовою Rust. Проєкт розроблений спеціально для сценаріїв, де робочі набори даних є переважно статичними, завантажуються під час старту програми та постійно опитуються за допомогою простих фільтрів. Спочатку рішення створювалося в рамках екосистеми проєкту rama, наприклад для роботи в якості пам&#x27;яті апстрім-проксі.</description>
+    </item>
     <item>
       <title>Суд в Одесі оштрафував програміста на 51 000 грн за кастет, знайдений на пляжі</title>
       <link>https://yomaxxxi.github.io/news/sud-v-odesi-oshtrafuvav-prohramista-na-51-000-hrn-za-kastet-znayd/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 13 Nov 2026 14:40:46 +0000</pubDate>
       <category>Техніка</category>
       <description>Дослідник під псевдонімом Nightmare Eclipse опублікував новий zero-day exploit під назвою SignDrop, який дозволяє місцевим користувачам отримувати повні права System на деяких версіях Windows. Атака використовує взаємодію між компонентом CLFS та Windows Defender.</description>
-    </item>
-    <item>
-      <title>Мікро-ШІ дня: Tripo3D — створення 3D-моделей з фото за 60 секунд</title>
-      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-tripo3d-stvorennya-3d-modeley-z-foto-za-60-sekund/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-tripo3d-stvorennya-3d-modeley-z-foto-za-60-sekund/</guid>
-      <pubDate>Fri, 13 Nov 2026 14:40:42 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Потрібно терміново додати 3D-об&#x27;єкт у проєкт, а на ручне моделювання та розгортку немає годин? Цей інструмент генерує повноцінну текстуровану 3D-модель за кілька секунд з одного фото або текстового опису, повністю замінюючи важкі платні 3D-редактори.</description>
     </item>
   </channel>
 </rss>
