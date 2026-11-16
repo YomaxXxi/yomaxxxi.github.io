@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 16 Nov 2026 14:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:53:46 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Мікро-ШІ дня: HuggingChat — доступ до найкращих відкритих моделей без підписок</title>
+      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-huggingchat-dostup-do-naykrashchykh-vidkrytykh-mod/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-huggingchat-dostup-do-naykrashchykh-vidkrytykh-mod/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:53:46 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Хочете користуватися провідними моделями штучного інтелекту без обмежень та дорогих платних підписок? Цей сервіс надає зручний веб-інтерфейс до найкращих open-source рішень на ринку в одному місці.</description>
+    </item>
     <item>
       <title>Amazon Echo для Home Assistant: як позбутися Alexa та отримати ідеальний локальний динамік</title>
       <link>https://yomaxxxi.github.io/news/amazon-echo-dlya-home-assistant-yak-pozbutysya-alexa-ta-otrymaty-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 14 Nov 2026 11:45:37 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Приватний сервер на базі старих відеокарт отримав масштабне оновлення, що дозволило значно покращити точність роботи моделі для юридичної практики.</description>
-    </item>
-    <item>
-      <title>Як звільнити 36 ГБ на Android без видалення фотографій</title>
-      <link>https://yomaxxxi.github.io/news/yak-zvilnyty-36-hb-na-android-bez-vydalennya-fotohrafiy/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yak-zvilnyty-36-hb-na-android-bez-vydalennya-fotohrafiy/</guid>
-      <pubDate>Sat, 14 Nov 2026 10:41:16 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Більшість сучасних смартфонів, як-от Galaxy S26 із 256 ГБ пам&#x27;яті, швидко заповнюються файлами. Проте звільнити гігабайти простору можна без видалення дорогоцінних знімків чи відео.</description>
     </item>
   </channel>
 </rss>
