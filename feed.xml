@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 15 Nov 2026 15:52:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:21:58 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>10 речей, які може зробити додаток Notes на вашому iPhone, крім записів</title>
+      <link>https://yomaxxxi.github.io/news/10-rechey-yaki-mozhe-zrobyty-dodatok-notes-na-vashomu-iphone-krim/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/10-rechey-yaki-mozhe-zrobyty-dodatok-notes-na-vashomu-iphone-krim/</guid>
+      <pubDate>Mon, 16 Nov 2026 06:21:58 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Apple Notes має багато прийомів, які можливо не досліджувалии в повному обсязі. Для більшості людей, прикладом Notes є місце для зберігання суперечок, розсипних ідей та різних кодів.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: dream-num/univer — Потужний Office SDK з відкритим кодом для створення власних редакторів та AI-агентів</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-dream-numuniver-potuzhnyy-office-sdk-z-vidkry/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 13 Nov 2026 13:31:13 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>ШІ-ентузіаст зміг налаштувати свій класичний позашляховик 1994 року випуску за допомогою штучного інтелекту та бюджетної електроніки.</description>
-    </item>
-    <item>
-      <title>Технології, які ми втратили: Sony Ericsson Xperia Play</title>
-      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-sony-ericsson-xperia-play/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-sony-ericsson-xperia-play/</guid>
-      <pubDate>Fri, 13 Nov 2026 12:40:13 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>У 2011 році Sony об&#x27;єднала культовий бренд PlayStation і телефон у кишеньковому шедеврі Xperia Play. Висувна панель дарувала реальні тактильні кнопки управління, що назавжди змінило мобільний геймінг того часу.</description>
     </item>
   </channel>
 </rss>
