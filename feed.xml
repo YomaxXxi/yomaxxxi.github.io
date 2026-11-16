@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 16 Nov 2026 12:52:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:53:18 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Технології, які ми втратили: Фізичний трипозиційний перемикач звуку</title>
+      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-fizychnyy-trypozytsiynyy-peremykach/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-fizychnyy-trypozytsiynyy-peremykach/</guid>
+      <pubDate>Mon, 16 Nov 2026 12:53:18 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Уявіть момент: ви заходите в темний кінотеатр або на важливу нараду. Достатньо сунути руку в кишеню і одним легким рухом пальця клацнути перемикач, гарантовано знаючи, що телефон тепер у беззвучному режимі. Ніяких зайвих рухів, розблокування екрана та заглядання в шторку налаштувань. Це давало абсолютний тактильний контроль і неймовірний комфорт у щоденному користуванні.</description>
+    </item>
     <item>
       <title>Американська система управління повітряним рухом не витримала збою одного роутера</title>
       <link>https://yomaxxxi.github.io/news/amerykanska-systema-upravlinnya-povitryanym-rukhom-ne-vytrymala-z/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 14 Nov 2026 09:35:59 +0000</pubDate>
       <category>Техніка</category>
       <description>Новий виток популярності жанру survivors-like приносить свіжі експерименти: від творців стратегії Songs of Conquest вийшов затишний спіноф упізнаваному всесвіті.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: alibaba/open-code-review — AI-асистент для рев&#x27;ю коду корпоративного рівня з точністю до рядка</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-alibabaopen-code-review-ai-asystent-dlya-revy/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-alibabaopen-code-review-ai-asystent-dlya-revy/</guid>
-      <pubDate>Sat, 14 Nov 2026 09:22:49 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Ручне code review забирає годинник робочого часу сеньйорів, а типові AI-асистенти часто залишають купу шуму та галюцинацій на рівні diff-файлів. Alibaba open-source&#x27;нула свій внутрішній інструмент, який два роки перевіряв мільйони рядків коду у виробничому середовищі.</description>
     </item>
   </channel>
 </rss>
