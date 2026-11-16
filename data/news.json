@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19936,
+      "slug": "videopodkasty-nezabarom-zyavlyatsya-v-dodatku-apple-tv",
+      "title": "Відеоподкасти незабаром з'являться в додатку Apple TV",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-16T10:40:08Z",
+      "date_formatted": "16 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Video-podcasts-coming-soon-to-Apple-TV-and-other-devices.jpg?quality=82&strip=all&w=1600",
+      "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
+      "summary": "Компанія Apple готується суттєво розширити можливості своїх сервісів, додавши спеціальний розділ для відеоподкастів безпосередньо в Apple TV та фірмовий додаток Apple TV app на сторонніх пристроях, включаючи сучасні Smart TV.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19892,
       "slug": "google-messages-hotuye-intehratsiyu-storonnikh-redaktoriv-media",
       "title": "Google Messages готує інтеграцію сторонніх редакторів медіа",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "У популярному месенджері від Google з'явиться довгоочікувана можливість редагувати фото та відео безпосередньо перед відправкою.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Український розробник під ніком rimjoeh представив безплатну утиліту WPods з відкритим вихідним кодом (ліцензія GPL 3.0), яка переносить екосистемні функції навушників Apple на ПК з Windows 11.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/clever-use-cases-for-google-lens-1.jpg",
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Неприємний технічний збій у браузері залишав юзерів без можливості закрити вікно пошукового інструменту.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 17308,
-      "slug": "mikro-shi-dnya-whisper-web-rozshyfrovka-audio-u-tekst-pryamo-v-br",
-      "title": "Мікро-ШІ дня: Whisper Web — Розшифровка аудіо у текст прямо в браузері без передачі даних на сервери",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-11T14:40:57Z",
-      "date_formatted": "11 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/Xenova/whisper-web.png",
-      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
-      "summary": "Перестаньте платити за хмарні сервіси транскрипції на кшталт Otter заради переведення голосових записів, подкастів чи інтерв'ю у текст. Цей інструмент робить всю роботу локально у вашому браузері за лічені секунди і гарантує повну конфіденційність.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

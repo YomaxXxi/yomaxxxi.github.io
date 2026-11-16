@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:37:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 10:40:08 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Відеоподкасти незабаром з&#x27;являться в додатку Apple TV</title>
+      <link>https://yomaxxxi.github.io/news/videopodkasty-nezabarom-zyavlyatsya-v-dodatku-apple-tv/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/videopodkasty-nezabarom-zyavlyatsya-v-dodatku-apple-tv/</guid>
+      <pubDate>Mon, 16 Nov 2026 10:40:08 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія Apple готується суттєво розширити можливості своїх сервісів, додавши спеціальний розділ для відеоподкастів безпосередньо в Apple TV та фірмовий додаток Apple TV app на сторонніх пристроях, включаючи сучасні Smart TV.</description>
+    </item>
     <item>
       <title>Google Messages готує інтеграцію сторонніх редакторів медіа</title>
       <link>https://yomaxxxi.github.io/news/google-messages-hotuye-intehratsiyu-storonnikh-redaktoriv-media/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 14 Nov 2026 07:09:09 +0000</pubDate>
       <category>Техніка</category>
       <description>Федеральне авіаційне управління США скасувало загальнонаціональну заборону на польоти, яка зупинила весь повітряний рух на кілька годин 13 листопада 2026 року. Сотні рейсів були скасовані, а мільйони пасажирів заблоковані в аеропортах.</description>
-    </item>
-    <item>
-      <title>Блогери проти капіталізму: огляд фільму &quot;Як пограбувати банк&quot;</title>
-      <link>https://yomaxxxi.github.io/news/blohery-proty-kapitalizmu-ohlyad-filmu-yak-pohrabuvaty-bank/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/blohery-proty-kapitalizmu-ohlyad-filmu-yak-pohrabuvaty-bank/</guid>
-      <pubDate>Sat, 14 Nov 2026 06:18:26 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Стильний, яскравий, але дещо поверхневий кримінальний бойовик від режисера Девіда Літча, який перетворює пограбування банків на вірусне шоу для YouTube та TikTok.</description>
     </item>
   </channel>
 </rss>
