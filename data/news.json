@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 20049,
+      "slug": "amerykanska-systema-upravlinnya-povitryanym-rukhom-ne-vytrymala-z",
+      "title": "Американська система управління повітряним рухом не витримала збою одного роутера",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-16T12:52:16Z",
+      "date_formatted": "16 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304497345.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_caption": "Матеріали The Verge / Офіційний реліз",
+      "summary": "Масштабний телекомунікаційний збій паралізував авіасполучення у США, залишивши без зв'язку та затримавши понад 1,5 мільйона пасажирів.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19987,
       "slug": "pyshete-lonhridy-v-komentaryakh-chas-oformyty-tse-v-povnotsinnu-s",
       "title": "Пишете лонгріди в коментарях? Час оформити це в повноцінну статтю!",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали ITC.ua (TG) (Telegram) / Офіційний реліз",
       "summary": "Якщо вас тригерить новий реліз Apple, дивні тренди в софті чи оптимізація свіжих ігор — не зливайте аргументи в гілки коментарів, де вони зникнуть за добу.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "У популярному месенджері від Google з'явиться довгоочікувана можливість редагувати фото та відео безпосередньо перед відправкою.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 17360,
-      "slug": "github-perlyna-dnya-metaastryx-potuzhna-open-source-dyzayn-system",
-      "title": "GitHub-перлина дня: meta/astryx — Потужна open-source дизайн-система від Meta, створена для людей та AI-агентів",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-11T15:39:46Z",
-      "date_formatted": "11 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/meta/astryx",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Astryx — це внутрішній титан Meta, який розвивався останні вісім років і тепер став доступним кожному. Він живить понад 13 000 додатків усередині компанії та пропонує понад 150 доступних компонентів із підтримкою темної теми й CLI.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/meta/astryx",
-      "github_repo": "meta/astryx"
     }
   ]
 }

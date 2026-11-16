@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:52:16 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Американська система управління повітряним рухом не витримала збою одного роутера</title>
+      <link>https://yomaxxxi.github.io/news/amerykanska-systema-upravlinnya-povitryanym-rukhom-ne-vytrymala-z/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/amerykanska-systema-upravlinnya-povitryanym-rukhom-ne-vytrymala-z/</guid>
+      <pubDate>Mon, 16 Nov 2026 12:52:16 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Масштабний телекомунікаційний збій паралізував авіасполучення у США, залишивши без зв&#x27;язку та затримавши понад 1,5 мільйона пасажирів.</description>
+    </item>
     <item>
       <title>Пишете лонгріди в коментарях? Час оформити це в повноцінну статтю!</title>
       <link>https://yomaxxxi.github.io/news/pyshete-lonhridy-v-komentaryakh-chas-oformyty-tse-v-povnotsinnu-s/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 14 Nov 2026 09:22:49 +0000</pubDate>
       <category>Open Source</category>
       <description>Ручне code review забирає годинник робочого часу сеньйорів, а типові AI-асистенти часто залишають купу шуму та галюцинацій на рівні diff-файлів. Alibaba open-source&#x27;нула свій внутрішній інструмент, який два роки перевіряв мільйони рядків коду у виробничому середовищі.</description>
-    </item>
-    <item>
-      <title>Наступний Huawei nova Flip може перейти на широкий форм-фактор</title>
-      <link>https://yomaxxxi.github.io/news/nastupnyy-huawei-nova-flip-mozhe-pereyty-na-shyrokyy-form-faktor/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/nastupnyy-huawei-nova-flip-mozhe-pereyty-na-shyrokyy-form-faktor/</guid>
-      <pubDate>Sat, 14 Nov 2026 08:25:25 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Huawei випустила nova Flip S у Китаї ще в жовтні минулого року, і це був переважно nova Flip з новими кольорами, нижчою ціною та іншим чіпсетом. Його наступник, за чутками, стане набагато більшою зміною.</description>
     </item>
   </channel>
 </rss>
