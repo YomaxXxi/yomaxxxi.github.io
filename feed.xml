@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 16 Nov 2026 08:07:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 08:36:26 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Користувач з України створив WPods: ідеальна робота AirPods на Windows 11 без ризиків для безпеки</title>
+      <link>https://yomaxxxi.github.io/news/korystuvach-z-ukrayiny-stvoryv-wpods-idealna-robota-airpods-na-wi/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/korystuvach-z-ukrayiny-stvoryv-wpods-idealna-robota-airpods-na-wi/</guid>
+      <pubDate>Mon, 16 Nov 2026 08:36:26 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Український розробник під ніком rimjoeh представив безплатну утиліту WPods з відкритим вихідним кодом (ліцензія GPL 3.0), яка переносить екосистемні функції навушників Apple на ПК з Windows 11.</description>
+    </item>
     <item>
       <title>VennDB: надшвидка in-memory база даних на Rust для біт-флагів</title>
       <link>https://yomaxxxi.github.io/news/venndb-nadshvydka-in-memory-baza-danykh-na-rust-dlya-bit-flahiv/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 13 Nov 2026 15:39:46 +0000</pubDate>
       <category>Open Source</category>
       <description>AI-агенти пишуть код, але сліпі у браузері. Проєкт закриває цей біль, надаючи Claude, Cursor чи Copilot прямий доступ до Chrome DevTools. Забудьте про криві скріншоти та сліпе гадання на кавовій гущі — тепер ваш агент сам бачить мережеві помилки, консоль та швидкодію.</description>
-    </item>
-    <item>
-      <title>Нова вразливість у Windows: експлойт SignDrop дає зловмисникам системні права</title>
-      <link>https://yomaxxxi.github.io/news/nova-vrazlyvist-u-windows-eksployt-signdrop-daye-zlovmysnykam-sys/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/nova-vrazlyvist-u-windows-eksployt-signdrop-daye-zlovmysnykam-sys/</guid>
-      <pubDate>Fri, 13 Nov 2026 14:40:46 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Дослідник під псевдонімом Nightmare Eclipse опублікував новий zero-day exploit під назвою SignDrop, який дозволяє місцевим користувачам отримувати повні права System на деяких версіях Windows. Атака використовує взаємодію між компонентом CLFS та Windows Defender.</description>
     </item>
   </channel>
 </rss>

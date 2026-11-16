@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19855,
+      "slug": "korystuvach-z-ukrayiny-stvoryv-wpods-idealna-robota-airpods-na-wi",
+      "title": "Користувач з України створив WPods: ідеальна робота AirPods на Windows 11 без ризиків для безпеки",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-16T08:36:26Z",
+      "date_formatted": "16 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/12/59/24/04/derived/622053a4ac143d6b34889af616121feb.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Український розробник під ніком rimjoeh представив безплатну утиліту WPods з відкритим вихідним кодом (ліцензія GPL 3.0), яка переносить екосистемні функції навушників Apple на ПК з Windows 11.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19846,
       "slug": "venndb-nadshvydka-in-memory-baza-danykh-na-rust-dlya-bit-flahiv",
       "title": "VennDB: надшвидка in-memory база даних на Rust для біт-флагів",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
       "summary": "В індустрії розробки з'явився новий цікавий інструмент для вузькоспеціалізованих задач. VennDB — це компактна append-only база даних, яка працює повністю в оперативній пам'яті та створена мовою Rust. Проєкт розроблений спеціально для сценаріїв, де робочі набори даних є переважно статичними, завантажуються під час старту програми та постійно опитуються за допомогою простих фільтрів. Спочатку рішення створювалося в рамках екосистеми проєкту rama, наприклад для роботи в якості пам'яті апстрім-проксі.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/plabayo/venndb",
       "github_repo": "plabayo/venndb"
@@ -59,7 +80,7 @@
       "summary": "Apple Notes має багато прийомів, які можливо не досліджувалии в повному обсязі. Для більшості людей, прикладом Notes є місце для зберігання суперечок, розсипних ідей та різних кодів.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Touchstone_Palm.JPG",
       "image_caption": "Матеріали Retro Tech / Офіційний реліз",
       "summary": "У 2009 році інженери Palm створили магію, до якої гіганти доходили роками. Ви просто кидали свій Palm Pre на похилу круглу шайбу Touchstone — магніти м'яко центрували корпус, телефон надійно фіксувався клацанням і миттєво переходив у стильний нічний режим годинника. Жодних дротів та розхитаних роз'ємів.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 17158,
-      "slug": "ukrayinets-stvoryv-ai-servis-dlya-perevirky-na-brekhnyu-shcho-vid",
-      "title": "Українець створив AI-сервіс для перевірки на брехню: що відомо про Red Rabbit",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-11T12:39:30Z",
-      "date_formatted": "11 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/39/73/88/56/derived/4cdc3aa715648f85e985805c4884424c.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Інноваційний застосунок одночасно зчитує міміку, погляд, голос, пульс із камери смартфона, а також дані з Apple Watch і смарт-каблучки.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
