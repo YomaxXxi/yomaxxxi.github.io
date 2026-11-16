@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 16 Nov 2026 08:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:22:49 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: ag-ui-protocol/ag-ui — відкритий легкий протокол взаємодії агентів з користувацькими інтерфейсами, який усуває хаос при підключенні ШІ-агентів до фронтенду.</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-ag-ui-protocolag-ui-vidkrytyy-lehkyy-protokol/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-ag-ui-protocolag-ui-vidkrytyy-lehkyy-protokol/</guid>
+      <pubDate>Mon, 16 Nov 2026 09:22:49 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Розробники ШІ-додатків знають цей біль: інтеграція автономних агентів у вебдодатки перетворюється на кастомний велосіпедобудівний ад через нестандартизовані асинхронні відповіді та відсутність єдиної шини подій.</description>
+    </item>
     <item>
       <title>Користувач з України створив WPods: ідеальна робота AirPods на Windows 11 без ризиків для безпеки</title>
       <link>https://yomaxxxi.github.io/news/korystuvach-z-ukrayiny-stvoryv-wpods-idealna-robota-airpods-na-wi/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 14 Nov 2026 04:49:21 +0000</pubDate>
       <category>Техніка</category>
       <description>Свіжий випуск техно-новин уже на каналі — розбираємо головні анонси, гучні скандали індустрії та найкращі мобільні пристрої поточного періоду.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: ChromeDevTools/chrome-devtools-mcp — Могутній MCP-сервер, що дає AI-агентам повний контроль над браузером Chrome для глибокого дебагу та автоматизації!</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-chromedevtoolschrome-devtools-mcp-mohutniy-mc/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-chromedevtoolschrome-devtools-mcp-mohutniy-mc/</guid>
-      <pubDate>Fri, 13 Nov 2026 15:39:46 +0000</pubDate>
-      <category>Open Source</category>
-      <description>AI-агенти пишуть код, але сліпі у браузері. Проєкт закриває цей біль, надаючи Claude, Cursor чи Copilot прямий доступ до Chrome DevTools. Забудьте про криві скріншоти та сліпе гадання на кавовій гущі — тепер ваш агент сам бачить мережеві помилки, консоль та швидкодію.</description>
     </item>
   </channel>
 </rss>
