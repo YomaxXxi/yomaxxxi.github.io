@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:21:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:26:35 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Суд в Одесі оштрафував програміста на 51 000 грн за кастет, знайдений на пляжі</title>
+      <link>https://yomaxxxi.github.io/news/sud-v-odesi-oshtrafuvav-prohramista-na-51-000-hrn-za-kastet-znayd/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/sud-v-odesi-oshtrafuvav-prohramista-na-51-000-hrn-za-kastet-znayd/</guid>
+      <pubDate>Mon, 16 Nov 2026 07:26:35 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Незвична судова справа завершилася обвинувальним вироком для IT-спеціаліста, який намагався «здати знахідку поліції».</description>
+    </item>
     <item>
       <title>10 речей, які може зробити додаток Notes на вашому iPhone, крім записів</title>
       <link>https://yomaxxxi.github.io/news/10-rechey-yaki-mozhe-zrobyty-dodatok-notes-na-vashomu-iphone-krim/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 13 Nov 2026 14:40:42 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Потрібно терміново додати 3D-об&#x27;єкт у проєкт, а на ручне моделювання та розгортку немає годин? Цей інструмент генерує повноцінну текстуровану 3D-модель за кілька секунд з одного фото або текстового опису, повністю замінюючи важкі платні 3D-редактори.</description>
-    </item>
-    <item>
-      <title>Власник 32-річного Jeep Cherokee хакнув авто за допомогою Claude, щоб пройти екотест</title>
-      <link>https://yomaxxxi.github.io/news/vlasnyk-32-richnoho-jeep-cherokee-khaknuv-avto-za-dopomohoyu-clau/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/vlasnyk-32-richnoho-jeep-cherokee-khaknuv-avto-za-dopomohoyu-clau/</guid>
-      <pubDate>Fri, 13 Nov 2026 13:31:13 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>ШІ-ентузіаст зміг налаштувати свій класичний позашляховик 1994 року випуску за допомогою штучного інтелекту та бюджетної електроніки.</description>
     </item>
   </channel>
 </rss>
