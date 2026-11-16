@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 20279,
+      "slug": "github-perlyna-dnya-sveltejssvelte-revolyutsiynyy-kompilyator-veb",
+      "title": "GitHub-перлина дня: sveltejs/svelte — Революційний компілятор вебзастосунків, що повністю замінює важкі віртуальні DOM-рушії на кшталт React та Vue",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-16T15:52:50Z",
+      "date_formatted": "16 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/sveltejs/svelte",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Традиційні фреймворки виконують величезну роботу прямо у браузері користувача, використовуючи віртуальний DOM для порівняння станів. Svelte змінює парадигму: це компілятор, який перетворює ваші декларативні компоненти на компактний, ізольований чистий JavaScript під час зборки. Проєкт закриває біль повільних SPA, роздутих бандлів та зайвого споживання пам'яті на мобільних пристроях.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/sveltejs/svelte",
+      "github_repo": "sveltejs/svelte"
+    },
+    {
       "id": 20203,
       "slug": "mikro-shi-dnya-huggingchat-dostup-do-naykrashchykh-vidkrytykh-mod",
       "title": "Мікро-ШІ дня: HuggingChat — доступ до найкращих відкритих моделей без підписок",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
       "summary": "Хочете користуватися провідними моделями штучного інтелекту без обмежень та дорогих платних підписок? Цей сервіс надає зручний веб-інтерфейс до найкращих open-source рішень на ринку в одному місці.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Масштабний телекомунікаційний збій паралізував авіасполучення у США, залишивши без зв'язку та затримавши понад 1,5 мільйона пасажирів.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/ggml-org/llama.cpp",
       "github_repo": "ggml-org/llama.cpp"
-    },
-    {
-      "id": 17718,
-      "slug": "openai-stvoryla-chervonu-knopku-dlya-ekstrenoyi-zupynky-shi-model",
-      "title": "OpenAI створила \"червону кнопку\" для екстреної зупинки ШІ-моделей",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-12T08:05:46Z",
-      "date_formatted": "12 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/4/c/334447/4c2c786c51b8aba5fb37d2e7075ef77c.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Компанія розробила спеціалізовану систему Control Room, яка дозволяє оперативно припиняти роботу моделей штучного інтелекту у разі виникнення загроз чи непередбачуваної поведінки.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }
