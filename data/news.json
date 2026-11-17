@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 20911,
+      "slug": "google-hotuye-analoh-iphone-handoff-odyn-nomer-na-dvokh-android-s",
+      "title": "Google готує аналог iPhone Handoff: один номер на двох Android-смартфонах",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-17T14:03:49Z",
+      "date_formatted": "17 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://img.mezha.ua/mezha/images/doc/b/e/334898/be42cca65883b755dee3f04d8918f0ff.jpeg",
+      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
+      "summary": "Компанія Google активно працює над власною альтернативою популярній функції екосистеми Apple, яка дозволить значно спростити життя власникам кількох пристроїв.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 20885,
       "slug": "tekhnolohiyi-yaki-my-vtratyly-optychni-trekpady-ta-navihatsiyni-k",
       "title": "Технології, які ми втратили: Оптичні трекпади та навігаційні кульки",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "Компанія AMD розкритикувала підхід конкурента, вказавши на переваги апаратної підтримки подвійної точності у нових прискорювачах.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Компанія Google випустила велике оновлення для Gemini Notebook, яке дозволяє миттєво перетворювати будь-які документи та джерела на повноцінні вебсайти.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://img.mezha.ua/mezha/images/doc/6/8/334517/68e0d187f6c2f36e2b860aa132b50f67.jpeg",
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Новий звіт організаторів GDC Festival of Gaming оголив масштабну кризу на ринку праці у сфері розробки відеоігор за останні два роки.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 18412,
-      "slug": "oppo-rozkryla-detali-pro-liniyku-reno17-chypy-kamery-ta-batareyi",
-      "title": "Oppo розкрила деталі про лінійку Reno17: чипи, камери та батареї",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-13T04:29:36Z",
-      "date_formatted": "13 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-reno17-series-chipsets-confirmed/-952x498w6/gsmarena_000.jpg",
-      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
-      "summary": "Компанія Oppo готується до повноцінного анонсу нових смартфонів Reno17 та Reno17 Pro у Китаї, який відбудеться вже 16 листопада.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

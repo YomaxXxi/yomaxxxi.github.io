@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 17 Nov 2026 12:53:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:03:49 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google готує аналог iPhone Handoff: один номер на двох Android-смартфонах</title>
+      <link>https://yomaxxxi.github.io/news/google-hotuye-analoh-iphone-handoff-odyn-nomer-na-dvokh-android-s/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-hotuye-analoh-iphone-handoff-odyn-nomer-na-dvokh-android-s/</guid>
+      <pubDate>Tue, 17 Nov 2026 14:03:49 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія Google активно працює над власною альтернативою популярній функції екосистеми Apple, яка дозволить значно спростити життя власникам кількох пристроїв.</description>
+    </item>
     <item>
       <title>Технології, які ми втратили: Оптичні трекпади та навігаційні кульки</title>
       <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-optychni-trekpady-ta-navihatsiyni-k/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 15 Nov 2026 10:06:42 +0000</pubDate>
       <category>Техніка</category>
       <description>Мережа розбуркана новиною: за кілька днів до офіційного релізу бази даних та релізу саму гру спіткав гучний витік. У соцмережах з&#x27;явився повний список композицій та ціни фізичних носіїв.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: QwenLM/qwen-code — Потужний відкритий AI-агент для термінала, який замінює закриті підписки на Cursor та GitHub Copilot</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-qwenlmqwen-code-potuzhnyy-vidkrytyy-ai-ahent-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-qwenlmqwen-code-potuzhnyy-vidkrytyy-ai-ahent-/</guid>
-      <pubDate>Sun, 15 Nov 2026 09:22:49 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Розробники втомилися від дорогих проприєтарних SaaS-рішень та прив&#x27;язки до одного вендора. Qwen Code закриває цей біль, пропонуючи повноцінного автономного AI-агента прямо у вашому терміналі з повною підтримкою відкритих моделей та повною незалежністю від закритих екосистем.</description>
     </item>
   </channel>
 </rss>
