@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 20680,
+      "slug": "github-perlyna-dnya-mvanhornlast30days-skill-potuzhnyy-ai-skil-dl",
+      "title": "GitHub-перлина дня: mvanhorn/last30days-skill — Потужний AI-скіл для пошуку інсайтів по Reddit, X, YouTube та Polymarket",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-17T09:23:32Z",
+      "date_formatted": "17 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/mvanhorn/last30days-skill",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Звичайний пошук видає застарілі SEO-статті та ангажовані блоги. Цей інструмент замінює дорогі платні підписки на аналітичні SaaS-платформи та ручний ресьорч. Проєкт стрімко увірвався в тренди через унікальний підхід: він агрегує дані там, де люди головують увагою та реальними грошима (Reddit, X, YouTube, HN, Polymarket), після чого AI-агент синтезує це в обґрунтований бріф.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "github_repo": "mvanhorn/last30days-skill"
+    },
+    {
       "id": 20649,
       "slug": "google-onovlyuye-gemini-zapusk-skills-iz-faylamy-ta-postupovyy-za",
       "title": "Google оновлює Gemini: запуск Skills із файлами та поступовий запуск замість Gems",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Google розпочинає масштабну еволюцію своїх інструментів штучного інтелекту, замінюючи індивідуальні Gems на оновлені Gemini Skills із розширеними можливостями спільного доступу та роботи з контентом.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Українська криптоспільнота давно переросла вузьке коло ентузіастів, перетворившись на потужну екосистему з Telegram-каналів, закритих клубів, освітніх проєктів та профільних медіа. Аналітики MNBC провели масштабне дослідження «Криптоспільноти України», яке детально описує структуру ринку, центри впливу та ключові проєкти, що визначають порядок денний.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ecoflow.png?quality=90&strip=all&crop=0,0,100,100",
       "image_caption": "Матеріали The Verge / Офіційний реліз",
       "summary": "Бренд Ecoflow випустив функціональний пристрій для тих, хто постійно в дорозі та має кілька гаджетів одночасно. Цей ультраємний павербанк здатен одночасно живити до трьох пристроїв на максимальній швидкості.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 17955,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-povorotna-motoryzovana-kamera",
-      "title": "Технології, які ми втратили: Поворотна моторизована камера",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-12T12:40:13Z",
-      "date_formatted": "12 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "Ця геніальна ідея дозволяла використовувати основну, найпотужнішу оптику смартфона для розкішних селфі та стрімів. Жодних компромісів із «мильними» фронталками у вирізах екрана!",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

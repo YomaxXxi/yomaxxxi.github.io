@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 17 Nov 2026 08:58:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:23:32 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: mvanhorn/last30days-skill — Потужний AI-скіл для пошуку інсайтів по Reddit, X, YouTube та Polymarket</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-mvanhornlast30days-skill-potuzhnyy-ai-skil-dl/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-mvanhornlast30days-skill-potuzhnyy-ai-skil-dl/</guid>
+      <pubDate>Tue, 17 Nov 2026 09:23:32 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Звичайний пошук видає застарілі SEO-статті та ангажовані блоги. Цей інструмент замінює дорогі платні підписки на аналітичні SaaS-платформи та ручний ресьорч. Проєкт стрімко увірвався в тренди через унікальний підхід: він агрегує дані там, де люди головують увагою та реальними грошима (Reddit, X, YouTube, HN, Polymarket), після чого AI-агент синтезує це в обґрунтований бріф.</description>
+    </item>
     <item>
       <title>Google оновлює Gemini: запуск Skills із файлами та поступовий запуск замість Gems</title>
       <link>https://yomaxxxi.github.io/news/google-onovlyuye-gemini-zapusk-skills-iz-faylamy-ta-postupovyy-za/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 15 Nov 2026 04:13:01 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Аби не сплачувати підписку від Adobe, розробник обійшов обмеження за допомогою відкритого софту та локальної моделі.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: JuliusBrussee/caveman — вірусний проксі для AI-агентів, що скорочує витрати токенів на 65% через «печерну» мову</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-juliusbrusseecaveman-virusnyy-proksi-dlya-ai-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-juliusbrusseecaveman-virusnyy-proksi-dlya-ai-/</guid>
-      <pubDate>Sat, 14 Nov 2026 15:52:50 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Комерційні AI-агенти на кшталт Claude Code чи GitHub Copilot змушують розробників платити шалені гроші за зайвий «ввічливий» контекст. Проєкт Caveman вирішує цей біль, змушуючи AI спілкуватися у стилі caveman: без зайвої води, тегів та форматувань, зберігаючи ідентичну якість написання коду.</description>
     </item>
   </channel>
 </rss>
