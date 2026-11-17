@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:25:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:24:14 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xiaomi представила бездротові навушники Xiaomi Clip із підтримкою Apple Find My</title>
+      <link>https://yomaxxxi.github.io/news/xiaomi-predstavyla-bezdrotovi-navushnyky-xiaomi-clip-iz-pidtrymko/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/xiaomi-predstavyla-bezdrotovi-navushnyky-xiaomi-clip-iz-pidtrymko/</guid>
+      <pubDate>Tue, 17 Nov 2026 15:24:14 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія Xiaomi вивела на глобальний ринок новий пристрій з модним формфактором кліпси — Xiaomi Clip. Новинка пропонує відкритий дизайн та цікаві функціональні можливості для щоденного використання.</description>
+    </item>
     <item>
       <title>Як налаштувати автоочищення та приватність в ChatGPT</title>
       <link>https://yomaxxxi.github.io/news/yak-nalashtuvaty-avtoochyshchennya-ta-pryvatnist-v-chatgpt/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 15 Nov 2026 12:29:07 +0000</pubDate>
       <category>Техніка</category>
       <description>Легендарний антивідчит-сервіс нарешті готується повноцінно зайти на Linux-платформу, а популярний дистрибутив вже адаптується під нові реалії.</description>
-    </item>
-    <item>
-      <title>Італія оштрафувала Meta на 805 млн євро через доступ до фотографій</title>
-      <link>https://yomaxxxi.github.io/news/italiya-oshtrafuvala-meta-na-805-mln-yevro-cherez-dostup-do-fotoh/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/italiya-oshtrafuvala-meta-na-805-mln-yevro-cherez-dostup-do-fotoh/</guid>
-      <pubDate>Sun, 15 Nov 2026 11:13:05 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Масштабний штраф від італійського регулятора за автоматичний збір мультимедіа.</description>
     </item>
   </channel>
 </rss>
