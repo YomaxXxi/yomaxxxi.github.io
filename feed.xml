@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 17 Nov 2026 09:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:15:35 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google Gemini Notebook: створення сайтів з нотаток</title>
+      <link>https://yomaxxxi.github.io/news/google-gemini-notebook-stvorennya-saytiv-z-notatok/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-gemini-notebook-stvorennya-saytiv-z-notatok/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:15:35 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Компанія Google випустила велике оновлення для Gemini Notebook, яке дозволяє миттєво перетворювати будь-які документи та джерела на повноцінні вебсайти.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: mvanhorn/last30days-skill — Потужний AI-скіл для пошуку інсайтів по Reddit, X, YouTube та Polymarket</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-mvanhornlast30days-skill-potuzhnyy-ai-skil-dl/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 15 Nov 2026 06:29:51 +0000</pubDate>
       <category>Техніка</category>
       <description>Новий аксесуар від ESR покликаний розв&#x27;язати одразу дві головні проблеми використання великого складногó пристрою завдяки продуманій конструкції та активному охолодженню.</description>
-    </item>
-    <item>
-      <title>Штучний інтелект без переплат: як додати локальну нейромережу у вільний рідер PDF</title>
-      <link>https://yomaxxxi.github.io/news/shtuchnyy-intelekt-bez-pereplat-yak-dodaty-lokalnu-neyromerezhu-u/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shtuchnyy-intelekt-bez-pereplat-yak-dodaty-lokalnu-neyromerezhu-u/</guid>
-      <pubDate>Sun, 15 Nov 2026 04:13:01 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Аби не сплачувати підписку від Adobe, розробник обійшов обмеження за допомогою відкритого софту та локальної моделі.</description>
     </item>
   </channel>
 </rss>
