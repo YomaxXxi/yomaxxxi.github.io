@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:32:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:51:55 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AMD виступила проти емуляції FP64 від Nvidia на конференції SC26</title>
+      <link>https://yomaxxxi.github.io/news/amd-vystupyla-proty-emulyatsiyi-fp64-vid-nvidia-na-konferentsiyi-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/amd-vystupyla-proty-emulyatsiyi-fp64-vid-nvidia-na-konferentsiyi-/</guid>
+      <pubDate>Tue, 17 Nov 2026 12:51:55 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія AMD розкритикувала підхід конкурента, вказавши на переваги апаратної підтримки подвійної точності у нових прискорювачах.</description>
+    </item>
     <item>
       <title>Як очистити сховище iCloud і звільнити дорогоцінні гігабайти</title>
       <link>https://yomaxxxi.github.io/news/yak-ochystyty-skhovyshche-icloud-i-zvilnyty-dorohotsinni-hihabayt/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 15 Nov 2026 08:58:00 +0000</pubDate>
       <category>Техніка</category>
       <description>Цього тижня техноіндустрія принесла чимало обговорень: від свіжих макетів майбутньої лінійки Samsung до глобального запуску флагманів Xiaomi та деталей про майбутні iPhone.</description>
-    </item>
-    <item>
-      <title>SpaceX Starship уперше повернувся з орбіти прямо в «обійми» Mechazilla</title>
-      <link>https://yomaxxxi.github.io/news/spacex-starship-upershe-povernuvsya-z-orbity-pryamo-v-obiymy-mech/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/spacex-starship-upershe-povernuvsya-z-orbity-pryamo-v-obiymy-mech/</guid>
-      <pubDate>Sun, 15 Nov 2026 07:45:07 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Історичний момент для аерокосмічної галузі: корабель компанії Ілона Маска успішно завершив складну орбітальну місію.</description>
     </item>
   </channel>
 </rss>
