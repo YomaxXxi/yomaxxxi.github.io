@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 17 Nov 2026 12:51:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:53:17 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Технології, які ми втратили: Оптичні трекпади та навігаційні кульки</title>
+      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-optychni-trekpady-ta-navihatsiyni-k/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-optychni-trekpady-ta-navihatsiyni-k/</guid>
+      <pubDate>Tue, 17 Nov 2026 12:53:17 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Пам&#x27;ятаєте, як зручно було виділити одне крихітне слово в середині довгого речення або точно перемістити курсор між літерами без нервових кліків по екрану? Оптичні трекпади та механічні кульки уможливлювали ювелірну навігацію. Скролити сторінки чи редагувати текст на смартфонах на кшталт BlackBerry Bold чи HTC Hero було справжнім задоволенням для інженера.</description>
+    </item>
     <item>
       <title>AMD виступила проти емуляції FP64 від Nvidia на конференції SC26</title>
       <link>https://yomaxxxi.github.io/news/amd-vystupyla-proty-emulyatsiyi-fp64-vid-nvidia-na-konferentsiyi-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 15 Nov 2026 09:22:49 +0000</pubDate>
       <category>Open Source</category>
       <description>Розробники втомилися від дорогих проприєтарних SaaS-рішень та прив&#x27;язки до одного вендора. Qwen Code закриває цей біль, пропонуючи повноцінного автономного AI-агента прямо у вашому терміналі з повною підтримкою відкритих моделей та повною незалежністю від закритих екосистем.</description>
-    </item>
-    <item>
-      <title>Тиждень у розрізі: макети Galaxy S27, прибуття Xiaomi 18 та нові витоки</title>
-      <link>https://yomaxxxi.github.io/news/tyzhden-u-rozrizi-makety-galaxy-s27-prybuttya-xiaomi-18-ta-novi-v/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tyzhden-u-rozrizi-makety-galaxy-s27-prybuttya-xiaomi-18-ta-novi-v/</guid>
-      <pubDate>Sun, 15 Nov 2026 08:58:00 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Цього тижня техноіндустрія принесла чимало обговорень: від свіжих макетів майбутньої лінійки Samsung до глобального запуску флагманів Xiaomi та деталей про майбутні iPhone.</description>
     </item>
   </channel>
 </rss>

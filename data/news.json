@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 20885,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-optychni-trekpady-ta-navihatsiyni-k",
+      "title": "Технології, які ми втратили: Оптичні трекпади та навігаційні кульки",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-17T12:53:17Z",
+      "date_formatted": "17 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "Пам'ятаєте, як зручно було виділити одне крихітне слово в середині довгого речення або точно перемістити курсор між літерами без нервових кліків по екрану? Оптичні трекпади та механічні кульки уможливлювали ювелірну навігацію. Скролити сторінки чи редагувати текст на смартфонах на кшталт BlackBerry Bold чи HTC Hero було справжнім задоволенням для інженера.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 20848,
       "slug": "amd-vystupyla-proty-emulyatsiyi-fp64-vid-nvidia-na-konferentsiyi-",
       "title": "AMD виступила проти емуляції FP64 від Nvidia на конференції SC26",
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 18149,
-      "slug": "github-perlyna-dnya-nvm-shnvm-standart-de-fakto-dlya-izolovanoho-",
-      "title": "GitHub-перлина дня: nvm-sh/nvm — Стандарт де-факто для ізольованого менеджменту версій Node.js без конфліктів та болю",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-12T15:39:46Z",
-      "date_formatted": "12 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/nvm-sh/nvm",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Розробники знають біль, коли різні проєкти вимагають несумісних версій Node.js. Глобальне встановлення ламає продакшн-скрипти та змушує страждати від прав суперкористувача. nvm повністю закриває цей біль, дозволяючи тримати десятки ізольованих середовищ у домашній директорії.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/nvm-sh/nvm",
-      "github_repo": "nvm-sh/nvm"
     }
   ]
 }
