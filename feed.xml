@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:25:48 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Як налаштувати автоочищення та приватність в ChatGPT</title>
+      <link>https://yomaxxxi.github.io/news/yak-nalashtuvaty-avtoochyshchennya-ta-pryvatnist-v-chatgpt/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yak-nalashtuvaty-avtoochyshchennya-ta-pryvatnist-v-chatgpt/</guid>
+      <pubDate>Tue, 17 Nov 2026 14:25:48 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Дізнайтеся, як заборонити сервісу використовувати ваші діалоги для навчання штучного інтелекту та вимкнути збереження історії в кілька кліків.</description>
+    </item>
     <item>
       <title>Google готує аналог iPhone Handoff: один номер на двох Android-смартфонах</title>
       <link>https://yomaxxxi.github.io/news/google-hotuye-analoh-iphone-handoff-odyn-nomer-na-dvokh-android-s/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 15 Nov 2026 11:13:05 +0000</pubDate>
       <category>Техніка</category>
       <description>Масштабний штраф від італійського регулятора за автоматичний збір мультимедіа.</description>
-    </item>
-    <item>
-      <title>Повний треклист Grand Theft Auto VI: The Album злито в мережу</title>
-      <link>https://yomaxxxi.github.io/news/povnyy-treklyst-grand-theft-auto-vi-the-album-zlyto-v-merezhu/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/povnyy-treklyst-grand-theft-auto-vi-the-album-zlyto-v-merezhu/</guid>
-      <pubDate>Sun, 15 Nov 2026 10:06:42 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Мережа розбуркана новиною: за кілька днів до офіційного релізу бази даних та релізу саму гру спіткав гучний витік. У соцмережах з&#x27;явився повний список композицій та ціни фізичних носіїв.</description>
     </item>
   </channel>
 </rss>

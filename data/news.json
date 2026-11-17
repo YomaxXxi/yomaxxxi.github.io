@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 20994,
+      "slug": "yak-nalashtuvaty-avtoochyshchennya-ta-pryvatnist-v-chatgpt",
+      "title": "Як налаштувати автоочищення та приватність в ChatGPT",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-17T14:25:48Z",
+      "date_formatted": "17 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Дізнайтеся, як заборонити сервісу використовувати ваші діалоги для навчання штучного інтелекту та вимкнути збереження історії в кілька кліків.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 20911,
       "slug": "google-hotuye-analoh-iphone-handoff-odyn-nomer-na-dvokh-android-s",
       "title": "Google готує аналог iPhone Handoff: один номер на двох Android-смартфонах",
@@ -1233,27 +1254,6 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-messages-2026-redesign-search-button-scaled.jpg",
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Команда Google почала розгортати велике оновлення пошукового інтерфейсу для месенджера, яке має спростити пошук старого контенту.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 18441,
-      "slug": "kryza-u-heymdevi-ponad-polovyna-zvilnenykh-rozrobnykiv-dosi-shuka",
-      "title": "Криза у геймдеві: понад половина звільнених розробників досі шукають роботу",
-      "category": "Геймінг",
-      "category_slug": "gaming",
-      "date": "2026-11-13T06:19:13Z",
-      "date_formatted": "13 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/6/8/334517/68e0d187f6c2f36e2b860aa132b50f67.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Новий звіт організаторів GDC Festival of Gaming оголив масштабну кризу на ринку праці у сфері розробки відеоігор за останні два роки.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
