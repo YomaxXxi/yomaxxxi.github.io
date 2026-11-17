@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 21114,
+      "slug": "github-perlyna-dnya-jingyaogongminimind-navchit-vlasnu-64m-llm-z-",
+      "title": "GitHub-перлина дня: jingyaogong/minimind — Навчіть власну 64M LLM з нуля всього за 2 години замість дорогих курсів та закритих моделей!",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-17T15:52:53Z",
+      "date_formatted": "17 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/jingyaogong/minimind",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Розуміння того, як працюють великі мовні моделі зсередини, часто обмежується складними чорними скриньками або закритими комерційними SaaS-платформами. Цей проєкт вирішує головний біль інженерів — дає покроковий пайплайн, щоб підняти власну міні-модель з нуля без величезних датацентрів.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/jingyaogong/minimind",
+      "github_repo": "jingyaogong/minimind"
+    },
+    {
       "id": 21035,
       "slug": "xiaomi-predstavyla-bezdrotovi-navushnyky-xiaomi-clip-iz-pidtrymko",
       "title": "Xiaomi представила бездротові навушники Xiaomi Clip із підтримкою Apple Find My",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Компанія Xiaomi вивела на глобальний ринок новий пристрій з модним формфактором кліпси — Xiaomi Clip. Новинка пропонує відкритий дизайн та цікаві функціональні можливості для щоденного використання.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -101,7 +122,7 @@
       "summary": "Компанія AMD розкритикувала підхід конкурента, вказавши на переваги апаратної підтримки подвійної точності у нових прискорювачах.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/louislam/uptime-kuma",
       "github_repo": "louislam/uptime-kuma"
-    },
-    {
-      "id": 18519,
-      "slug": "evolyutsiya-rynku-orendy-zhytla-v-ukrayini-vid-paperovykh-oholosh",
-      "title": "Еволюція ринку оренди житла в Україні: від паперових оголошень до сучасних платформ",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-13T08:41:27Z",
-      "date_formatted": "13 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.ain.ua/ua/articles/2026-11-13/WJz1YZDZtYETurF7npW8SWy0WwFimwprNXkdwV6g.webp",
-      "image_caption": "Матеріали AIN.ua / Офіційний реліз",
-      "summary": "Як український ринок оренди пройшов шлях від газетних сторінок до повноцінних цифрових екосистем.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }

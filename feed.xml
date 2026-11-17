@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:24:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:52:53 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: jingyaogong/minimind — Навчіть власну 64M LLM з нуля всього за 2 години замість дорогих курсів та закритих моделей!</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-jingyaogongminimind-navchit-vlasnu-64m-llm-z-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-jingyaogongminimind-navchit-vlasnu-64m-llm-z-/</guid>
+      <pubDate>Tue, 17 Nov 2026 15:52:53 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Розуміння того, як працюють великі мовні моделі зсередини, часто обмежується складними чорними скриньками або закритими комерційними SaaS-платформами. Цей проєкт вирішує головний біль інженерів — дає покроковий пайплайн, щоб підняти власну міні-модель з нуля без величезних датацентрів.</description>
+    </item>
     <item>
       <title>Xiaomi представила бездротові навушники Xiaomi Clip із підтримкою Apple Find My</title>
       <link>https://yomaxxxi.github.io/news/xiaomi-predstavyla-bezdrotovi-navushnyky-xiaomi-clip-iz-pidtrymko/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 15 Nov 2026 12:53:17 +0000</pubDate>
       <category>Техніка</category>
       <description>Чим яскравіше палюче сонце світило над головою, тим контрастніше і чіткіше читався такий дисплей без жодної сліпоти чи бліків. На відміну від сучасних OLED-панелей, які сліпнуть на вулиці, ці екрани використовували зовнішнє світло як природну підсвітку.</description>
-    </item>
-    <item>
-      <title>Epic Games готує Easy Anti-Cheat для Linux: що відомо про EAC Linux v2 та готовність Bazzite</title>
-      <link>https://yomaxxxi.github.io/news/epic-games-hotuye-easy-anti-cheat-dlya-linux-shcho-vidomo-pro-eac/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/epic-games-hotuye-easy-anti-cheat-dlya-linux-shcho-vidomo-pro-eac/</guid>
-      <pubDate>Sun, 15 Nov 2026 12:29:07 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Легендарний антивідчит-сервіс нарешті готується повноцінно зайти на Linux-платформу, а популярний дистрибутив вже адаптується під нові реалії.</description>
     </item>
   </channel>
 </rss>
