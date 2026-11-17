@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 20604,
+      "slug": "top-10-kryptospilnot-ukrayiny-khto-formuye-ekosystemu-ta-de-vyvch",
+      "title": "ТОП-10 криптоспільнот України: хто формує екосистему та де вивчають фінанси",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-17T06:28:59Z",
+      "date_formatted": "17 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/61/70/07/44/derived/f404a0275ab632c5918bf10c792aa7ac.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Українська криптоспільнота давно переросла вузьке коло ентузіастів, перетворившись на потужну екосистему з Telegram-каналів, закритих клубів, освітніх проєктів та профільних медіа. Аналітики MNBC провели масштабне дослідження «Криптоспільноти України», яке детально описує структуру ринку, центри впливу та ключові проєкти, що визначають порядок денний.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 20572,
       "slug": "motorola-signature-27-nimetski-pokuptsi-otrymayut-suttyevo-zmensh",
       "title": "Motorola Signature 27: німецькі покупці отримають суттєво зменшену батарею",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Компанія Motorola офіційно підтвердила неприємну новину для покупців флагманського смартфона в Німеччині: локальна версія пристрою матиме значно менший акумулятор порівняно з міжнародним ринком.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Хочете користуватися провідними моделями штучного інтелекту без обмежень та дорогих платних підписок? Цей сервіс надає зручний веб-інтерфейс до найкращих open-source рішень на ринку в одному місці.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://cdn4.telesco.pe/file/XDNdUwO5RWKfOahQtpMEqfUG0lcCSbEXNq9MKiHjudkRWqxkPIHBK7J8zRwyWJvKIXI7kU8fYxthyOjGhLS4s-2NJ9fgG3KQ4ZasIEPOIwuRew75aiU6XkpqdwSxrNz0QZFKyCoKAf3KGA0-WcU8Lh7Q7y6pa0R5Fxan9hQPwBuaK98eek0CeQCzaKlUBJq19zw5_HK17LInbU38gjrZwhoBdW6GXeLfzis6qWp3UjDj4Lt2hoON5H3O6dDNPJn1cJnd7CYPOyG5XO2XG3HxMjjT5jAb6V0YKz6Henfl0uCNsDS_AW7cmEObcQa8jqPCSSRYymQn1HDALIJ3xd4XTA.jpg",
       "image_caption": "Матеріали ITC.ua (TG) (Telegram) / Офіційний реліз",
       "summary": "Власники смартфонів Apple із застарілими версіями iOS опинилися під загрозою масштабних кібератак через вразливості в системі.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 17756,
-      "slug": "onovlennya-android-auto-gemini-intelligence-zalyshaye-ne-pixel-pr",
-      "title": "Оновлення Android Auto: Gemini Intelligence залишає не-Pixel пристрої позаду",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-12T09:23:16Z",
-      "date_formatted": "12 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-auto-third-party-apps-1.jpg",
-      "image_caption": "Матеріали Android Authority / Офіційний реліз",
-      "summary": "Google готує масштабне оновлення для Android Auto, яке принесе проактивні поради асистента безпосередньо в автомобільну систему.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

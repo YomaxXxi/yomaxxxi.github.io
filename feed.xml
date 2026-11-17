@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:28:59 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ТОП-10 криптоспільнот України: хто формує екосистему та де вивчають фінанси</title>
+      <link>https://yomaxxxi.github.io/news/top-10-kryptospilnot-ukrayiny-khto-formuye-ekosystemu-ta-de-vyvch/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/top-10-kryptospilnot-ukrayiny-khto-formuye-ekosystemu-ta-de-vyvch/</guid>
+      <pubDate>Tue, 17 Nov 2026 06:28:59 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Українська криптоспільнота давно переросла вузьке коло ентузіастів, перетворившись на потужну екосистему з Telegram-каналів, закритих клубів, освітніх проєктів та профільних медіа. Аналітики MNBC провели масштабне дослідження «Криптоспільноти України», яке детально описує структуру ринку, центри впливу та ключові проєкти, що визначають порядок денний.</description>
+    </item>
     <item>
       <title>Motorola Signature 27: німецькі покупці отримають суттєво зменшену батарею</title>
       <link>https://yomaxxxi.github.io/news/motorola-signature-27-nimetski-pokuptsi-otrymayut-suttyevo-zmensh/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 14 Nov 2026 14:25:49 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Вдалий кадр триває секунду. Якщо розблоковувати телефон і шукати іконку застосунку, момент буде втрачено. Показуємо, як налаштувати миттєвий запуск камери на будь-якому смартфоні.</description>
-    </item>
-    <item>
-      <title>Скандал із релізом GTA 6: частина коробок надійшла покупцям без кодів активації</title>
-      <link>https://yomaxxxi.github.io/news/skandal-iz-relizom-gta-6-chastyna-korobok-nadiyshla-pokuptsyam-be/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/skandal-iz-relizom-gta-6-chastyna-korobok-nadiyshla-pokuptsyam-be/</guid>
-      <pubDate>Sat, 14 Nov 2026 13:43:52 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Старт продажів однієї з найочікуваніших ігор десятиліття супроводжується великим неприємним сюрпризом для гравців.</description>
     </item>
   </channel>
 </rss>
