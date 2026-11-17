@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 20572,
+      "slug": "motorola-signature-27-nimetski-pokuptsi-otrymayut-suttyevo-zmensh",
+      "title": "Motorola Signature 27: німецькі покупці отримають суттєво зменшену батарею",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-17T04:01:03Z",
+      "date_formatted": "17 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/motorola-signature-27-nyc-skyline-scaled.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Компанія Motorola офіційно підтвердила неприємну новину для покупців флагманського смартфона в Німеччині: локальна версія пристрою матиме значно менший акумулятор порівняно з міжнародним ринком.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 20279,
       "slug": "github-perlyna-dnya-sveltejssvelte-revolyutsiynyy-kompilyator-veb",
       "title": "GitHub-перлина дня: sveltejs/svelte — Революційний компілятор вебзастосунків, що повністю замінює важкі віртуальні DOM-рушії на кшталт React та Vue",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Традиційні фреймворки виконують величезну роботу прямо у браузері користувача, використовуючи віртуальний DOM для порівняння станів. Svelte змінює парадигму: це компілятор, який перетворює ваші декларативні компоненти на компактний, ізольований чистий JavaScript під час зборки. Проєкт закриває біль повільних SPA, роздутих бандлів та зайвого споживання пам'яті на мобільних пристроях.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/sveltejs/svelte",
       "github_repo": "sveltejs/svelte"
@@ -59,7 +80,7 @@
       "summary": "Старі колонки Amazon Echo, які роками збирають пил у шухлядах, можуть отримати друге життя та стати найкращим апаратним рішенням для голосового керування через Home Assistant — за умови повної відмови від екосистеми Alexa.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 17754,
-      "slug": "github-perlyna-dnya-ggml-orgllamacpp-naynadiynishyy-natyvnyy-rush",
-      "title": "GitHub-перлина дня: ggml-org/llama.cpp — найнадійніший нативний рушій для локального запуску та інференсу великих мовних моделей на будь-якому «залізі» без важких фреймворків. Замінює дорогі платні API-рішення та закриті хмарні SaaS від OpenAI чи Anthropic для тих, кому важлива абсолютна приватність і контроль.",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-12T09:09:47Z",
-      "date_formatted": "12 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/ggml-org/llama.cpp",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "У розробників часто болить голова через розгортання важких Python-стеків (PyTorch, Transformers) лише для того, щоб запустити кількамодельну архітектуру локально. Проєкт solve цю проблему завдяки чистому C/C++ без зайвих залежностей.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/ggml-org/llama.cpp",
-      "github_repo": "ggml-org/llama.cpp"
     }
   ]
 }
