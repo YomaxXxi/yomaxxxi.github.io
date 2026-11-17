@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 20649,
+      "slug": "google-onovlyuye-gemini-zapusk-skills-iz-faylamy-ta-postupovyy-za",
+      "title": "Google оновлює Gemini: запуск Skills із файлами та поступовий запуск замість Gems",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-17T08:58:55Z",
+      "date_formatted": "17 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/Gemini-Gems-1.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Google розпочинає масштабну еволюцію своїх інструментів штучного інтелекту, замінюючи індивідуальні Gems на оновлені Gemini Skills із розширеними можливостями спільного доступу та роботи з контентом.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 20619,
       "slug": "tesla-planuye-vypuskaty-1-mln-robotaksi-cybercab-na-rik-u-yevropi",
       "title": "Tesla планує випускати 1 млн роботаксі Cybercab на рік у Європі",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Компанія готує мащабне розширення заводу біля Берліна, проте амбітні плани зіштовхнулися з жорсткими європейськими та американськими регуляторними обмеженнями.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Компанія Motorola офіційно підтвердила неприємну новину для покупців флагманського смартфона в Німеччині: локальна версія пристрою матиме значно менший акумулятор порівняно з міжнародним ринком.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Retro Tech / Офіційний реліз",
       "summary": "Ця геніальна ідея дозволяла використовувати основну, найпотужнішу оптику смартфона для розкішних селфі та стрімів. Жодних компромісів із «мильними» фронталками у вирізах екрана!",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 17828,
-      "slug": "obkhid-zakhystu-shi-korystuvach-vyhadav-zakhoplennya-zaruchnykiv-",
-      "title": "Обхід захисту ШІ: користувач вигадав захоплення заручників заради піратського софту",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-12T11:44:02Z",
-      "date_formatted": "12 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/68/96/60/86/derived/c2b97994d7afe2e5b053d537a4904150.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Неординарний випадок маніпуляції великою мовною моделлю знову підняв питання безпеки.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

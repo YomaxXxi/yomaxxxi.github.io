@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 17 Nov 2026 07:43:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:58:55 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google оновлює Gemini: запуск Skills із файлами та поступовий запуск замість Gems</title>
+      <link>https://yomaxxxi.github.io/news/google-onovlyuye-gemini-zapusk-skills-iz-faylamy-ta-postupovyy-za/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-onovlyuye-gemini-zapusk-skills-iz-faylamy-ta-postupovyy-za/</guid>
+      <pubDate>Tue, 17 Nov 2026 08:58:55 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Google розпочинає масштабну еволюцію своїх інструментів штучного інтелекту, замінюючи індивідуальні Gems на оновлені Gemini Skills із розширеними можливостями спільного доступу та роботи з контентом.</description>
+    </item>
     <item>
       <title>Tesla планує випускати 1 млн роботаксі Cybercab на рік у Європі</title>
       <link>https://yomaxxxi.github.io/news/tesla-planuye-vypuskaty-1-mln-robotaksi-cybercab-na-rik-u-yevropi/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 14 Nov 2026 15:52:50 +0000</pubDate>
       <category>Open Source</category>
       <description>Комерційні AI-агенти на кшталт Claude Code чи GitHub Copilot змушують розробників платити шалені гроші за зайвий «ввічливий» контекст. Проєкт Caveman вирішує цей біль, змушуючи AI спілкуватися у стилі caveman: без зайвої води, тегів та форматувань, зберігаючи ідентичну якість написання коду.</description>
-    </item>
-    <item>
-      <title>Питання до Nvidia: чи знала компанія про продаж AI GPU фіктивним фірмам?</title>
-      <link>https://yomaxxxi.github.io/news/pytannya-do-nvidia-chy-znala-kompaniya-pro-prodazh-ai-gpu-fiktyvn/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/pytannya-do-nvidia-chy-znala-kompaniya-pro-prodazh-ai-gpu-fiktyvn/</guid>
-      <pubDate>Sat, 14 Nov 2026 14:55:34 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Міністр фінансів США Скотт Бессент публічно звернув увагу на проблеми експортного контролю та можливу відповідальність керівництва корпорації.</description>
     </item>
   </channel>
 </rss>
