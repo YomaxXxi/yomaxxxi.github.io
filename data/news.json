@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 21443,
+      "slug": "microsoft-predstavyla-liniyku-shi-modeley-dlya-prohramuvannya-ta-",
+      "title": "Microsoft представила лінійку ШІ-моделей для програмування та кібербезпеки",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-18T06:32:15Z",
+      "date_formatted": "18 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/48/42/69/94/derived/dd168ad789858e98e4cda06fdfd1544c.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Корпорація Microsoft анонсувала масштабне оновлення на конференції Microsoft Ignite у Сан-Франциско, представивши сім нових моделей штучного інтелекту серії MAI. Новинки спрямовані на посилення позицій компанії в сегменті корпоративних рішень та конкуренцію з провідними гравцями ринку.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 21451,
       "slug": "samsung-galaxy-a24-otrymuye-onovlennya-one-ui-9-na-bazi-android-1",
       "title": "Samsung Galaxy A24 отримує оновлення One UI 9 на базі Android 17",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
       "summary": "Популярний бюджетний смартфон минулих років офіційно почав отримувати фінальне велике оновлення операційної системи.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Розуміння того, як працюють великі мовні моделі зсередини, часто обмежується складними чорними скриньками або закритими комерційними SaaS-платформами. Цей проєкт вирішує головний біль інженерів — дає покроковий пайплайн, щоб підняти власну міні-модель з нуля без величезних датацентрів.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/jingyaogong/minimind",
       "github_repo": "jingyaogong/minimind"
     },
@@ -1233,27 +1254,6 @@
       "image": "https://dev.ua/storage/images/85/16/08/88/derived/d8309c2f7ba689af12d3ce4d54d86948.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Компанія відкрила новий заклад із інноваційним форматом отримання їжі без прямого контакту з працівниками.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 18592,
-      "slug": "kotyacha-mafiya-u-venetsiyi-pixar-pokazala-treyler-multfilmu-gatt",
-      "title": "Котяча мафія у Венеції: Pixar показала трейлер мультфільму «Ґатто: Дев'ять життів Неро» / Gatto",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-13T10:47:22Z",
-      "date_formatted": "13 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/8/1/334537/814f8782ec6436582bbda01bce2804c5.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Студія Pixar представила яскравий трейлер нової анімаційної стрічки, події якої розгортаються на канальних вулицях італійського міста.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
