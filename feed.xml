@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 18 Nov 2026 06:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:36:49 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Production Grammar-Guided Decoding у vLLM: революція структурованого виводу від Snowden SAY Lab</title>
+      <link>https://yomaxxxi.github.io/news/production-grammar-guided-decoding-u-vllm-revolyutsiya-strukturov/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/production-grammar-guided-decoding-u-vllm-revolyutsiya-strukturov/</guid>
+      <pubDate>Wed, 18 Nov 2026 07:36:49 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Сучасні генеративні моделі все частіше використовуються утилітарно — для автоматизації бізнес-процесів, генерації звітів та парсингу даних, де критично важливим є суворе дотримання формату на кшталт JSON. Проте традиційні інструкції у промптах не гарантують стабільність, призводячи до помилок синтаксису та марної трати обчислювальних ресурсів. Команда Snowden SAY Lab представила новий повноцінний cookbook для високонавантаженого LLM-сервісу на базі vLLM та xgrammar, який розв&#x27;язує цю фундаментальну проблему індустрії на рівні архітектури дешевшого та надійнішого інференсу.</description>
+    </item>
     <item>
       <title>Microsoft представила лінійку ШІ-моделей для програмування та кібербезпеки</title>
       <link>https://yomaxxxi.github.io/news/microsoft-predstavyla-liniyku-shi-modeley-dlya-prohramuvannya-ta-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 16 Nov 2026 06:21:58 +0000</pubDate>
       <category>Техніка</category>
       <description>Apple Notes має багато прийомів, які можливо не досліджувалии в повному обсязі. Для більшості людей, прикладом Notes є місце для зберігання суперечок, розсипних ідей та різних кодів.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: dream-num/univer — Потужний Office SDK з відкритим кодом для створення власних редакторів та AI-агентів</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-dream-numuniver-potuzhnyy-office-sdk-z-vidkry/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-dream-numuniver-potuzhnyy-office-sdk-z-vidkry/</guid>
-      <pubDate>Sun, 15 Nov 2026 15:52:49 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Потрібно вбудувати повноцінні таблиці чи документи у свій SaaS, але писати все з нуля занадто довго, а закриті платні аналоги коштують шалені гроші? Univer закриває цей біль. Це потужний open-source Office SDK, який повністю замінює дорогі комерційні компоненти та дозволяє розгорнути власні таблиці, документи та презентації прямо у вашому продукті.</description>
     </item>
   </channel>
 </rss>
