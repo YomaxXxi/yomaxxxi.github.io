@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 18 Nov 2026 09:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:22:51 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: n8n-io/n8n — потужна fair-code платформа для автоматизації робочих процесів із нативними AI-агентами та візуальним архітектором</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-n8n-ion8n-potuzhna-fair-code-platforma-dlya-a/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-n8n-ion8n-potuzhna-fair-code-platforma-dlya-a/</guid>
+      <pubDate>Wed, 18 Nov 2026 09:22:51 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Розробники щодня витрачають години на інтеграцію API, написання скриптів синхронізації та оркестрацію AI-моделей. Проєкт n8n закриває цей біль, виступаючи потужною безкоштовною self-hosted альтернативою дорослим хмарним SaaS-платформам на кшталт Zapier, Make.com чи Retool AI, але без лімітів на кількість виконань та з повним контролем над даними.</description>
+    </item>
     <item>
       <title>Grand Theft Auto VI: чому Rockstar називають нову частину наймасштабнішою та найромантичнішою в серії</title>
       <link>https://yomaxxxi.github.io/news/grand-theft-auto-vi-chomu-rockstar-nazyvayut-novu-chastynu-naymas/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 16 Nov 2026 08:36:26 +0000</pubDate>
       <category>Техніка</category>
       <description>Український розробник під ніком rimjoeh представив безплатну утиліту WPods з відкритим вихідним кодом (ліцензія GPL 3.0), яка переносить екосистемні функції навушників Apple на ПК з Windows 11.</description>
-    </item>
-    <item>
-      <title>VennDB: надшвидка in-memory база даних на Rust для біт-флагів</title>
-      <link>https://yomaxxxi.github.io/news/venndb-nadshvydka-in-memory-baza-danykh-na-rust-dlya-bit-flahiv/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/venndb-nadshvydka-in-memory-baza-danykh-na-rust-dlya-bit-flahiv/</guid>
-      <pubDate>Mon, 16 Nov 2026 08:07:06 +0000</pubDate>
-      <category>Open Source</category>
-      <description>В індустрії розробки з&#x27;явився новий цікавий інструмент для вузькоспеціалізованих задач. VennDB — це компактна append-only база даних, яка працює повністю в оперативній пам&#x27;яті та створена мовою Rust. Проєкт розроблений спеціально для сценаріїв, де робочі набори даних є переважно статичними, завантажуються під час старту програми та постійно опитуються за допомогою простих фільтрів. Спочатку рішення створювалося в рамках екосистеми проєкту rama, наприклад для роботи в якості пам&#x27;яті апстрім-проксі.</description>
     </item>
   </channel>
 </rss>
