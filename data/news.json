@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 21555,
+      "slug": "grand-theft-auto-vi-chomu-rockstar-nazyvayut-novu-chastynu-naymas",
+      "title": "Grand Theft Auto VI: чому Rockstar називають нову частину наймасштабнішою та найромантичнішою в серії",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-18T09:10:13Z",
+      "date_formatted": "18 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-16-copy.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "image_caption": "Матеріали The Verge / Офіційний реліз",
+      "summary": "Студія Rockstar готує до релізу Grand Theft Auto VI, яка обіцяє стати найбільшим проєктом в історії франшизи. Головна особливість гри — фокус на романтичних стосунках між двома злочинцями на ім'я Jason та Lucia, які закохуються після спільного викрадання автомобіля.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 21483,
       "slug": "shi-vid-openai-vyyavyv-krytychnu-vrazlyvist-u-java-pid-zahrozoyu-",
       "title": "ШІ від OpenAI виявив критичну вразливість у Java: під загрозою мільйони систем",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Модель штучного інтелекту GPT-6 Cyber допомогла виявити небезпечну брешь у популярній мові програмування.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Корпорація Microsoft анонсувала масштабне оновлення на конференції Microsoft Ignite у Сан-Франциско, представивши сім нових моделей штучного інтелекту серії MAI. Новинки спрямовані на посилення позицій компанії в сегменті корпоративних рішень та конкуренцію з провідними гравцями ринку.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://cdn-blog.holymolly.ai/media/production/Tripo3D_og-1.webp",
       "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
       "summary": "Потрібно терміново додати 3D-об'єкт у проєкт, а на ручне моделювання та розгортку немає годин? Цей інструмент генерує повноцінну текстуровану 3D-модель за кілька секунд з одного фото або текстового опису, повністю замінюючи важкі платні 3D-редактори.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 18715,
-      "slug": "vlasnyk-32-richnoho-jeep-cherokee-khaknuv-avto-za-dopomohoyu-clau",
-      "title": "Власник 32-річного Jeep Cherokee хакнув авто за допомогою Claude, щоб пройти екотест",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-13T13:31:13Z",
-      "date_formatted": "13 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/84/99/92/28/derived/9891ac89e65484b013dcab02f8ed8309.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "ШІ-ентузіаст зміг налаштувати свій класичний позашляховик 1994 року випуску за допомогою штучного інтелекту та бюджетної електроніки.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
