@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 21650,
+      "slug": "revolyutsiya-vid-mihoyo-stvoreno-shtuchnyy-intelekt-gamer-yakyy-p",
+      "title": "Революція від miHoYo: створено штучний інтелект Gamer, який проходить ігри по екрану",
+      "category": "Геймінг",
+      "category_slug": "gaming",
+      "date": "2026-11-18T11:20:40Z",
+      "date_formatted": "18 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/38/33/51/17/derived/01f55182775bda6aa24e30a0ddedf095.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Китайська студія miHoYo, відома завдяки хіту Genshin Impact, представила інноваційну модель штучного інтелекту під назвою Gamer, здатну самостійно грати у відеоігри.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 21617,
       "slug": "kosmichnyy-mif-staye-realnistyu-zond-voyager-1-podolav-vidstan-u-",
       "title": "Космічний міф стає реальністю: зонд Voyager 1 подолав відстань у один світловий день від Землі",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали The Verge / Офіційний реліз",
       "summary": "Легендарний апарат NASA продовжує дивувати людство, встановивши історичний рекорд дистанції.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Студія Rockstar готує до релізу Grand Theft Auto VI, яка обіцяє стати найбільшим проєктом в історії франшизи. Головна особливість гри — фокус на романтичних стосунках між двома злочинцями на ім'я Jason та Lucia, які закохуються після спільного викрадання автомобіля.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 18861,
-      "slug": "github-perlyna-dnya-chromedevtoolschrome-devtools-mcp-mohutniy-mc",
-      "title": "GitHub-перлина дня: ChromeDevTools/chrome-devtools-mcp — Могутній MCP-сервер, що дає AI-агентам повний контроль над браузером Chrome для глибокого дебагу та автоматизації!",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-13T15:39:46Z",
-      "date_formatted": "13 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/ChromeDevTools/chrome-devtools-mcp",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "AI-агенти пишуть код, але сліпі у браузері. Проєкт закриває цей біль, надаючи Claude, Cursor чи Copilot прямий доступ до Chrome DevTools. Забудьте про криві скріншоти та сліпе гадання на кавовій гущі — тепер ваш агент сам бачить мережеві помилки, консоль та швидкодію.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "github_repo": "ChromeDevTools/chrome-devtools-mcp"
     }
   ]
 }

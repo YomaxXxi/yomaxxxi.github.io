@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 18 Nov 2026 10:14:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:20:40 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Революція від miHoYo: створено штучний інтелект Gamer, який проходить ігри по екрану</title>
+      <link>https://yomaxxxi.github.io/news/revolyutsiya-vid-mihoyo-stvoreno-shtuchnyy-intelekt-gamer-yakyy-p/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/revolyutsiya-vid-mihoyo-stvoreno-shtuchnyy-intelekt-gamer-yakyy-p/</guid>
+      <pubDate>Wed, 18 Nov 2026 11:20:40 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Китайська студія miHoYo, відома завдяки хіту Genshin Impact, представила інноваційну модель штучного інтелекту під назвою Gamer, здатну самостійно грати у відеоігри.</description>
+    </item>
     <item>
       <title>Космічний міф стає реальністю: зонд Voyager 1 подолав відстань у один світловий день від Землі</title>
       <link>https://yomaxxxi.github.io/news/kosmichnyy-mif-staye-realnistyu-zond-voyager-1-podolav-vidstan-u-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 16 Nov 2026 09:37:44 +0000</pubDate>
       <category>Техніка</category>
       <description>У популярному месенджері від Google з&#x27;явиться довгоочікувана можливість редагувати фото та відео безпосередньо перед відправкою.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: ag-ui-protocol/ag-ui — відкритий легкий протокол взаємодії агентів з користувацькими інтерфейсами, який усуває хаос при підключенні ШІ-агентів до фронтенду.</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-ag-ui-protocolag-ui-vidkrytyy-lehkyy-protokol/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-ag-ui-protocolag-ui-vidkrytyy-lehkyy-protokol/</guid>
-      <pubDate>Mon, 16 Nov 2026 09:22:49 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Розробники ШІ-додатків знають цей біль: інтеграція автономних агентів у вебдодатки перетворюється на кастомний велосіпедобудівний ад через нестандартизовані асинхронні відповіді та відсутність єдиної шини подій.</description>
     </item>
   </channel>
 </rss>
