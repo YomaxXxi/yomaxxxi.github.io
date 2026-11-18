@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 18 Nov 2026 11:20:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:23:25 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OLX запроваджує верифікацію продавців через «Дію»: що зміниться з 1 січня 2027 року</title>
+      <link>https://yomaxxxi.github.io/news/olx-zaprovadzhuye-veryfikatsiyu-prodavtsiv-cherez-diyu-shcho-zmin/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/olx-zaprovadzhuye-veryfikatsiyu-prodavtsiv-cherez-diyu-shcho-zmin/</guid>
+      <pubDate>Wed, 18 Nov 2026 12:23:25 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Майданчик оголосив про масштабні зміни для користувачів сервісу на виконання нового законодавства щодо оподаткування доходів на цифрових платформах.</description>
+    </item>
     <item>
       <title>Революція від miHoYo: створено штучний інтелект Gamer, який проходить ігри по екрану</title>
       <link>https://yomaxxxi.github.io/news/revolyutsiya-vid-mihoyo-stvoreno-shtuchnyy-intelekt-gamer-yakyy-p/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 16 Nov 2026 10:40:08 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія Apple готується суттєво розширити можливості своїх сервісів, додавши спеціальний розділ для відеоподкастів безпосередньо в Apple TV та фірмовий додаток Apple TV app на сторонніх пристроях, включаючи сучасні Smart TV.</description>
-    </item>
-    <item>
-      <title>Google Messages готує інтеграцію сторонніх редакторів медіа</title>
-      <link>https://yomaxxxi.github.io/news/google-messages-hotuye-intehratsiyu-storonnikh-redaktoriv-media/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-messages-hotuye-intehratsiyu-storonnikh-redaktoriv-media/</guid>
-      <pubDate>Mon, 16 Nov 2026 09:37:44 +0000</pubDate>
-      <category>Техніка</category>
-      <description>У популярному месенджері від Google з&#x27;явиться довгоочікувана можливість редагувати фото та відео безпосередньо перед відправкою.</description>
     </item>
   </channel>
 </rss>
