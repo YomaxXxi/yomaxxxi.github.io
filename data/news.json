@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 21434,
+      "slug": "byudzhetnyy-iqoo-z12-lite-zasvityvsya-v-google-play-console-shcho",
+      "title": "Бюджетний iQOO Z12 Lite засвітився в Google Play Console: що відомо про новинку",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-18T04:01:42Z",
+      "date_formatted": "18 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/iqoo-z12-lite-google-play-console/-952x498w6/gsmarena_000.jpg",
+      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
+      "summary": "Бренд iQOO готує до релізу новий недорогий смартфон, який нещодавно пройшов сертифікацію та розкрив свої базові параметри.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 21114,
       "slug": "github-perlyna-dnya-jingyaogongminimind-navchit-vlasnu-64m-llm-z-",
       "title": "GitHub-перлина дня: jingyaogong/minimind — Навчіть власну 64M LLM з нуля всього за 2 години замість дорогих курсів та закритих моделей!",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Розуміння того, як працюють великі мовні моделі зсередини, часто обмежується складними чорними скриньками або закритими комерційними SaaS-платформами. Цей проєкт вирішує головний біль інженерів — дає покроковий пайплайн, щоб підняти власну міні-модель з нуля без величезних датацентрів.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/jingyaogong/minimind",
       "github_repo": "jingyaogong/minimind"
@@ -80,7 +101,7 @@
       "summary": "Компанія Google активно працює над власною альтернативою популярній функції екосистеми Apple, яка дозволить значно спростити життя власникам кількох пристроїв.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 18547,
-      "slug": "github-perlyna-dnya-louislamuptime-kuma-vytonchenyy-self-hosted-i",
-      "title": "GitHub-перлина дня: louislam/uptime-kuma — витончений self-hosted інструмент моніторингу, який замінює дорогі SaaS-сервіси типу Statuspage та Pingdom.",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-13T09:09:47Z",
-      "date_formatted": "13 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/louislam/uptime-kuma",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Розробникам і сисадмінам постійно потрібен надійний контроль доступності сервісів, проте комерційні платформи коштують чималих грошей або вимагають передачі даних стороннім компаніям. Uptime Kuma закриває цей біль повністю самостійно.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/louislam/uptime-kuma",
-      "github_repo": "louislam/uptime-kuma"
     }
   ]
 }

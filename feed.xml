@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:52:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:01:42 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Бюджетний iQOO Z12 Lite засвітився в Google Play Console: що відомо про новинку</title>
+      <link>https://yomaxxxi.github.io/news/byudzhetnyy-iqoo-z12-lite-zasvityvsya-v-google-play-console-shcho/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/byudzhetnyy-iqoo-z12-lite-zasvityvsya-v-google-play-console-shcho/</guid>
+      <pubDate>Wed, 18 Nov 2026 04:01:42 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Бренд iQOO готує до релізу новий недорогий смартфон, який нещодавно пройшов сертифікацію та розкрив свої базові параметри.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: jingyaogong/minimind — Навчіть власну 64M LLM з нуля всього за 2 години замість дорогих курсів та закритих моделей!</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-jingyaogongminimind-navchit-vlasnu-64m-llm-z-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 15 Nov 2026 13:43:57 +0000</pubDate>
       <category>Техніка</category>
       <description>У період зростання комунальних тарифів варто розібратися, скільки коштує робота улюблених колонок, підсилювачів та провідних аудіокомпонентів.</description>
-    </item>
-    <item>
-      <title>Технології, які ми втратили: Трансфлективні екрани Memory LCD</title>
-      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-transflektyvni-ekrany-memory-lcd/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-transflektyvni-ekrany-memory-lcd/</guid>
-      <pubDate>Sun, 15 Nov 2026 12:53:17 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Чим яскравіше палюче сонце світило над головою, тим контрастніше і чіткіше читався такий дисплей без жодної сліпоти чи бліків. На відміну від сучасних OLED-панелей, які сліпнуть на вулиці, ці екрани використовували зовнішнє світло як природну підсвітку.</description>
     </item>
   </channel>
 </rss>
