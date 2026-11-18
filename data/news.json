@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 22037,
+      "slug": "github-perlyna-dnya-astral-shuv-ultrashvydkyy-menedzher-paketiv-t",
+      "title": "GitHub-перлина дня: astral-sh/uv — ультрашвидкий менеджер пакетів та проєктів Python, написаний на Rust, що повністю замінює pip, poetry, pyenv та virtualenv",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-18T16:23:22Z",
+      "date_formatted": "18 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/astral-sh/uv",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Екосистема Python історично страждає від повільності стандартних інструментів на зразок pip та складності управління версіями через pyenv чи poetry. Команда Astral створила універсальну заміну, яка виконує операції встановлення в десятки разів швидше завдяки низькорівневій оптимізації на Rust. Проєкт стрімко завірусився, оскільки повністю позбавляє розробників болю зі старого важкого пайплайну.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/astral-sh/uv",
+      "github_repo": "astral-sh/uv"
+    },
+    {
       "id": 21930,
       "slug": "mikro-shi-dnya-flux1-by-black-forest-labs-heneratsiya-fotorealist",
       "title": "Мікро-ШІ дня: Flux.1 by Black Forest Labs — Генерація фотореалістичних кадрів із текстом",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
       "summary": "Створення якісної графіки часто впирається в те, що нейромережі малюють жахливу абракадабру замість літер на вивісках чи футболках. Цей інструмент повністю вирішує проблему генерації читабельного тексту всередині картинок без складних промптів та очікування черг у Discord.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Apple готується змінити звичний річний графік виходу смартфонів, перенісши анонс доступніших моделей на весну.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 19129,
-      "slug": "github-perlyna-dnya-alibabaopen-code-review-ai-asystent-dlya-revy",
-      "title": "GitHub-перлина дня: alibaba/open-code-review — AI-асистент для рев'ю коду корпоративного рівня з точністю до рядка",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-14T09:22:49Z",
-      "date_formatted": "14 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/alibaba/open-code-review",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Ручне code review забирає годинник робочого часу сеньйорів, а типові AI-асистенти часто залишають купу шуму та галюцинацій на рівні diff-файлів. Alibaba open-source'нула свій внутрішній інструмент, який два роки перевіряв мільйони рядків коду у виробничому середовищі.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/alibaba/open-code-review",
-      "github_repo": "alibaba/open-code-review"
     }
   ]
 }

@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:53:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:23:22 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: astral-sh/uv — ультрашвидкий менеджер пакетів та проєктів Python, написаний на Rust, що повністю замінює pip, poetry, pyenv та virtualenv</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-astral-shuv-ultrashvydkyy-menedzher-paketiv-t/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-astral-shuv-ultrashvydkyy-menedzher-paketiv-t/</guid>
+      <pubDate>Wed, 18 Nov 2026 16:23:22 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Екосистема Python історично страждає від повільності стандартних інструментів на зразок pip та складності управління версіями через pyenv чи poetry. Команда Astral створила універсальну заміну, яка виконує операції встановлення в десятки разів швидше завдяки низькорівневій оптимізації на Rust. Проєкт стрімко завірусився, оскільки повністю позбавляє розробників болю зі старого важкого пайплайну.</description>
+    </item>
     <item>
       <title>Мікро-ШІ дня: Flux.1 by Black Forest Labs — Генерація фотореалістичних кадрів із текстом</title>
       <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-flux1-by-black-forest-labs-heneratsiya-fotorealist/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 16 Nov 2026 14:08:27 +0000</pubDate>
       <category>Техніка</category>
       <description>Старі колонки Amazon Echo, які роками збирають пил у шухлядах, можуть отримати друге життя та стати найкращим апаратним рішенням для голосового керування через Home Assistant — за умови повної відмови від екосистеми Alexa.</description>
-    </item>
-    <item>
-      <title>Технології, які ми втратили: Фізичний трипозиційний перемикач звуку</title>
-      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-fizychnyy-trypozytsiynyy-peremykach/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-fizychnyy-trypozytsiynyy-peremykach/</guid>
-      <pubDate>Mon, 16 Nov 2026 12:53:18 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Уявіть момент: ви заходите в темний кінотеатр або на важливу нараду. Достатньо сунути руку в кишеню і одним легким рухом пальця клацнути перемикач, гарантовано знаючи, що телефон тепер у беззвучному режимі. Ніяких зайвих рухів, розблокування екрана та заглядання в шторку налаштувань. Це давало абсолютний тактильний контроль і неймовірний комфорт у щоденному користуванні.</description>
     </item>
   </channel>
 </rss>
