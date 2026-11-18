@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:37:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:53:46 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Мікро-ШІ дня: Flux.1 by Black Forest Labs — Генерація фотореалістичних кадрів із текстом</title>
+      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-flux1-by-black-forest-labs-heneratsiya-fotorealist/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-flux1-by-black-forest-labs-heneratsiya-fotorealist/</guid>
+      <pubDate>Wed, 18 Nov 2026 14:53:46 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Створення якісної графіки часто впирається в те, що нейромережі малюють жахливу абракадабру замість літер на вивісках чи футболках. Цей інструмент повністю вирішує проблему генерації читабельного тексту всередині картинок без складних промптів та очікування черг у Discord.</description>
+    </item>
     <item>
       <title>GTA VI на консолях: розкриток технічних характеристик та роздільної здатності</title>
       <link>https://yomaxxxi.github.io/news/gta-vi-na-konsolyakh-rozkrytok-tekhnichnykh-kharakterystyk-ta-roz/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 16 Nov 2026 12:53:18 +0000</pubDate>
       <category>Техніка</category>
       <description>Уявіть момент: ви заходите в темний кінотеатр або на важливу нараду. Достатньо сунути руку в кишеню і одним легким рухом пальця клацнути перемикач, гарантовано знаючи, що телефон тепер у беззвучному режимі. Ніяких зайвих рухів, розблокування екрана та заглядання в шторку налаштувань. Це давало абсолютний тактильний контроль і неймовірний комфорт у щоденному користуванні.</description>
-    </item>
-    <item>
-      <title>Американська система управління повітряним рухом не витримала збою одного роутера</title>
-      <link>https://yomaxxxi.github.io/news/amerykanska-systema-upravlinnya-povitryanym-rukhom-ne-vytrymala-z/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/amerykanska-systema-upravlinnya-povitryanym-rukhom-ne-vytrymala-z/</guid>
-      <pubDate>Mon, 16 Nov 2026 12:52:16 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Масштабний телекомунікаційний збій паралізував авіасполучення у США, залишивши без зв&#x27;язку та затримавши понад 1,5 мільйона пасажирів.</description>
     </item>
   </channel>
 </rss>
