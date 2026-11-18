@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 18 Nov 2026 12:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:34:12 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Нові графіки релізів: коли чекати на iPhone 18 та iPhone Air 2</title>
+      <link>https://yomaxxxi.github.io/news/novi-hrafiky-reliziv-koly-chekaty-na-iphone-18-ta-iphone-air-2/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/novi-hrafiky-reliziv-koly-chekaty-na-iphone-18-ta-iphone-air-2/</guid>
+      <pubDate>Wed, 18 Nov 2026 13:34:12 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Apple готується змінити звичний річний графік виходу смартфонів, перенісши анонс доступніших моделей на весну.</description>
+    </item>
     <item>
       <title>OLX запроваджує верифікацію продавців через «Дію»: що зміниться з 1 січня 2027 року</title>
       <link>https://yomaxxxi.github.io/news/olx-zaprovadzhuye-veryfikatsiyu-prodavtsiv-cherez-diyu-shcho-zmin/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 16 Nov 2026 11:42:15 +0000</pubDate>
       <category>Геймінг</category>
       <description>Якщо вас тригерить новий реліз Apple, дивні тренди в софті чи оптимізація свіжих ігор — не зливайте аргументи в гілки коментарів, де вони зникнуть за добу.</description>
-    </item>
-    <item>
-      <title>Відеоподкасти незабаром з&#x27;являться в додатку Apple TV</title>
-      <link>https://yomaxxxi.github.io/news/videopodkasty-nezabarom-zyavlyatsya-v-dodatku-apple-tv/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/videopodkasty-nezabarom-zyavlyatsya-v-dodatku-apple-tv/</guid>
-      <pubDate>Mon, 16 Nov 2026 10:40:08 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія Apple готується суттєво розширити можливості своїх сервісів, додавши спеціальний розділ для відеоподкастів безпосередньо в Apple TV та фірмовий додаток Apple TV app на сторонніх пристроях, включаючи сучасні Smart TV.</description>
     </item>
   </channel>
 </rss>
