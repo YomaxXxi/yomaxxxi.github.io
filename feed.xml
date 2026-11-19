@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 19 Nov 2026 08:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:22:50 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: HKUDS/CLI-Anything — революційний фреймворк для перетворення будь-якого софту на агент-нативні інструменти!</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-hkudscli-anything-revolyutsiynyy-freymvork-dl/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-hkudscli-anything-revolyutsiynyy-freymvork-dl/</guid>
+      <pubDate>Thu, 19 Nov 2026 09:22:50 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Сьогоднішнє програмне забезпечення створене для людей, але завтрашніми користувачами стануть ШІ-агенти. Проєкт вирішує фундаментальну проблему взаємодії автономних агентів із графічними та складними інтерфейсами десктопного софту. Він виступає потужною відкритою альтернативою закритим платним екосистемам інтеграції та мовним місткам для Claude Code, Cursor чи OpenClaw.</description>
+    </item>
     <item>
       <title>Захист для iPhone від MacPaw: компанія випустила застосунок Moonlock</title>
       <link>https://yomaxxxi.github.io/news/zakhyst-dlya-iphone-vid-macpaw-kompaniya-vypustyla-zastosunok-moo/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 17 Nov 2026 08:58:55 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Google розпочинає масштабну еволюцію своїх інструментів штучного інтелекту, замінюючи індивідуальні Gems на оновлені Gemini Skills із розширеними можливостями спільного доступу та роботи з контентом.</description>
-    </item>
-    <item>
-      <title>Tesla планує випускати 1 млн роботаксі Cybercab на рік у Європі</title>
-      <link>https://yomaxxxi.github.io/news/tesla-planuye-vypuskaty-1-mln-robotaksi-cybercab-na-rik-u-yevropi/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tesla-planuye-vypuskaty-1-mln-robotaksi-cybercab-na-rik-u-yevropi/</guid>
-      <pubDate>Tue, 17 Nov 2026 07:43:44 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія готує мащабне розширення заводу біля Берліна, проте амбітні плани зіштовхнулися з жорсткими європейськими та американськими регуляторними обмеженнями.</description>
     </item>
   </channel>
 </rss>
