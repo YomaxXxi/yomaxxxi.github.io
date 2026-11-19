@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 19 Nov 2026 04:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:05:40 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Моторола підтвердила основні характеристики Edge 70 Neo.</title>
+      <link>https://yomaxxxi.github.io/news/motorola-pidtverdyla-osnovni-kharakterystyky-edge-70-neo/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/motorola-pidtverdyla-osnovni-kharakterystyky-edge-70-neo/</guid>
+      <pubDate>Thu, 19 Nov 2026 06:05:40 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Вчора Motorola почала намагатися наступний Edge 70 Neo, розкриваючи офіційну дату виходу телефону, який стане 24 листопада. Пізніше Motorola також підтвердила, що головна камера використовує сенсор Sony Lytia 710 з роздільною здатністю 50МП.</description>
+    </item>
     <item>
       <title>Honor підтвердила лінійку смартфонів Magic9 для ринку Великої Британії</title>
       <link>https://yomaxxxi.github.io/news/honor-pidtverdyla-liniyku-smartfoniv-magic9-dlya-rynku-velykoyi-b/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 16 Nov 2026 15:52:50 +0000</pubDate>
       <category>Open Source</category>
       <description>Традиційні фреймворки виконують величезну роботу прямо у браузері користувача, використовуючи віртуальний DOM для порівняння станів. Svelte змінює парадигму: це компілятор, який перетворює ваші декларативні компоненти на компактний, ізольований чистий JavaScript під час зборки. Проєкт закриває біль повільних SPA, роздутих бандлів та зайвого споживання пам&#x27;яті на мобільних пристроях.</description>
-    </item>
-    <item>
-      <title>Мікро-ШІ дня: HuggingChat — доступ до найкращих відкритих моделей без підписок</title>
-      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-huggingchat-dostup-do-naykrashchykh-vidkrytykh-mod/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-huggingchat-dostup-do-naykrashchykh-vidkrytykh-mod/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:53:46 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Хочете користуватися провідними моделями штучного інтелекту без обмежень та дорогих платних підписок? Цей сервіс надає зручний веб-інтерфейс до найкращих open-source рішень на ринку в одному місці.</description>
     </item>
   </channel>
 </rss>
