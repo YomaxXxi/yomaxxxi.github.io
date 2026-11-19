@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 19 Nov 2026 07:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 07:37:10 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Production eBPF &amp; XDP Tracing Toolkit: глибокий розбір верифікатора ядра Linux</title>
+      <link>https://yomaxxxi.github.io/news/production-ebpf-xdp-tracing-toolkit-hlybokyy-rozbir-veryfikatora-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/production-ebpf-xdp-tracing-toolkit-hlybokyy-rozbir-veryfikatora-/</guid>
+      <pubDate>Thu, 19 Nov 2026 07:37:10 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Сучасна інженерія потребує максимальної надійності під час моніторинг-процесів на рівні ядра ОС. Новий інструментарій для трасування та аналізу продуктивності Linux Kernel зосереджений на роботі з eBPF та XDP, розкриваючи внутрішню архітектуру статичного аналізу. Перед виконанням будь-якого JIT-компілювання верифікатор виконує символічне виконання всього графа інструкцій, що гарантує стабільність на продакшені.</description>
+    </item>
     <item>
       <title>Енциклопедія «Лакузи»: як українці систематизують дані про окупантів за допомогою Python та AI</title>
       <link>https://yomaxxxi.github.io/news/entsyklopediya-lakuzy-yak-ukrayintsi-systematyzuyut-dani-pro-okup/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 17 Nov 2026 06:28:59 +0000</pubDate>
       <category>Техніка</category>
       <description>Українська криптоспільнота давно переросла вузьке коло ентузіастів, перетворившись на потужну екосистему з Telegram-каналів, закритих клубів, освітніх проєктів та профільних медіа. Аналітики MNBC провели масштабне дослідження «Криптоспільноти України», яке детально описує структуру ринку, центри впливу та ключові проєкти, що визначають порядок денний.</description>
-    </item>
-    <item>
-      <title>Motorola Signature 27: німецькі покупці отримають суттєво зменшену батарею</title>
-      <link>https://yomaxxxi.github.io/news/motorola-signature-27-nimetski-pokuptsi-otrymayut-suttyevo-zmensh/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/motorola-signature-27-nimetski-pokuptsi-otrymayut-suttyevo-zmensh/</guid>
-      <pubDate>Tue, 17 Nov 2026 04:01:03 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія Motorola офіційно підтвердила неприємну новину для покупців флагманського смартфона в Німеччині: локальна версія пристрою матиме значно менший акумулятор порівняно з міжнародним ринком.</description>
     </item>
   </channel>
 </rss>

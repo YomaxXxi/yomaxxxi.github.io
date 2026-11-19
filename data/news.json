@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 22407,
+      "slug": "production-ebpf-xdp-tracing-toolkit-hlybokyy-rozbir-veryfikatora-",
+      "title": "Production eBPF & XDP Tracing Toolkit: глибокий розбір верифікатора ядра Linux",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-19T07:37:10Z",
+      "date_formatted": "19 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/cea8b7167d58f517c7da6e12eb945e0b74296bac119be59a2daf9658427daedf/grfdsasdvef/awesome-ebpf-linux-tracing",
+      "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
+      "summary": "Сучасна інженерія потребує максимальної надійності під час моніторинг-процесів на рівні ядра ОС. Новий інструментарій для трасування та аналізу продуктивності Linux Kernel зосереджений на роботі з eBPF та XDP, розкриваючи внутрішню архітектуру статичного аналізу. Перед виконанням будь-якого JIT-компілювання верифікатор виконує символічне виконання всього графа інструкцій, що гарантує стабільність на продакшені.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/grfdsasdvef/awesome-ebpf-linux-tracing",
+      "github_repo": "grfdsasdvef/awesome-ebpf-linux-tracing"
+    },
+    {
       "id": 22395,
       "slug": "entsyklopediya-lakuzy-yak-ukrayintsi-systematyzuyut-dani-pro-okup",
       "title": "Енциклопедія «Лакузи»: як українці систематизують дані про окупантів за допомогою Python та AI",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Команда українських розробників та дослідників запустила онлайн-енциклопедію «Лакузи», яка збирає та структурує інформацію про осіб, що сприяють російській імперській та колоніальній політиці на тимчасово окупованих територіях України. У базі проєкту вже налічується понад 2200 досьє, а для їх опрацювання та генерації платформи використано сучасний технологічний стек.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Компанія Honor офіційно розкрила плани щодо виходу нової серії пристроїв на британський ринок. Старт продажів заплановано на січень, а покупці зможуть обрати між двома новими моделями.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://img.mezha.ua/mezha/images/doc/6/e/334731/6e2c368489ec012273d705b5de63abe9.jpeg",
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Старт продажів однієї з найочікуваніших ігор десятиліття супроводжується великим неприємним сюрпризом для гравців.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 19203,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-podviyni-batareyi-power-bridge",
-      "title": "Технології, які ми втратили: Подвійні батареї Power Bridge",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-14T12:53:17Z",
-      "date_formatted": "14 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "Ця система складалася з двох частин: внутрішньої міні-батареї та другої, повноцінної та зовні знімної. Користувач отримував справжню нескінченну автономність без розеток.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
