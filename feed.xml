@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:04:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:31:08 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: firecrawl/firecrawl — Knowledge інфраструктура для перетворення сайтів на LLM-ready дані (замінадорогих SaaS парсерів)</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-firecrawlfirecrawl-knowledge-infrastruktura-d/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-firecrawlfirecrawl-knowledge-infrastruktura-d/</guid>
+      <pubDate>Thu, 19 Nov 2026 16:31:08 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Розробники AI-агентів знають цей біль: щоб дати штучному інтелекту актуальні дані з мережі, доводиться писати криві парсери, боротися з Cloudflare, JS-рендерингом та форматами. Firecrawl вирішує це радикально, перетворюючи будь-який вебсайт на чистий Markdown одним запитом.</description>
+    </item>
     <item>
       <title>JPMorgan Chase підтвердив витік даних через атаку на сторонніх постачальників</title>
       <link>https://yomaxxxi.github.io/news/jpmorgan-chase-pidtverdyv-vytik-danykh-cherez-ataku-na-storonnikh/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 17 Nov 2026 15:24:14 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія Xiaomi вивела на глобальний ринок новий пристрій з модним формфактором кліпси — Xiaomi Clip. Новинка пропонує відкритий дизайн та цікаві функціональні можливості для щоденного використання.</description>
-    </item>
-    <item>
-      <title>Як налаштувати автоочищення та приватність в ChatGPT</title>
-      <link>https://yomaxxxi.github.io/news/yak-nalashtuvaty-avtoochyshchennya-ta-pryvatnist-v-chatgpt/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yak-nalashtuvaty-avtoochyshchennya-ta-pryvatnist-v-chatgpt/</guid>
-      <pubDate>Tue, 17 Nov 2026 14:25:48 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Дізнайтеся, як заборонити сервісу використовувати ваші діалоги для навчання штучного інтелекту та вимкнути збереження історії в кілька кліків.</description>
     </item>
   </channel>
 </rss>
