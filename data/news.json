@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 22338,
+      "slug": "honor-pidtverdyla-liniyku-smartfoniv-magic9-dlya-rynku-velykoyi-b",
+      "title": "Honor підтвердила лінійку смартфонів Magic9 для ринку Великої Британії",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-19T04:33:12Z",
+      "date_formatted": "19 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/honor-magic9-series-uk-revealed/-952x498w6/gsmarena_000.jpg",
+      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
+      "summary": "Компанія Honor офіційно розкрила плани щодо виходу нової серії пристроїв на британський ринок. Старт продажів заплановано на січень, а покупці зможуть обрати між двома новими моделями.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 22037,
       "slug": "github-perlyna-dnya-astral-shuv-ultrashvydkyy-menedzher-paketiv-t",
       "title": "GitHub-перлина дня: astral-sh/uv — ультрашвидкий менеджер пакетів та проєктів Python, написаний на Rust, що повністю замінює pip, poetry, pyenv та virtualenv",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Екосистема Python історично страждає від повільності стандартних інструментів на зразок pip та складності управління версіями через pyenv чи poetry. Команда Astral створила універсальну заміну, яка виконує операції встановлення в десятки разів швидше завдяки низькорівневій оптимізації на Rust. Проєкт стрімко завірусився, оскільки повністю позбавляє розробників болю зі старого важкого пайплайну.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/astral-sh/uv",
       "github_repo": "astral-sh/uv"
@@ -59,7 +80,7 @@
       "summary": "Rockstar Games розкрила перші офіційні технічні деталі головного блокбастера десятиліття — GTA VI.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-phone-showing-storage-status-scaled.jpg",
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Більшість сучасних смартфонів, як-от Galaxy S26 із 256 ГБ пам'яті, швидко заповнюються файлами. Проте звільнити гігабайти простору можна без видалення дорогоцінних знімків чи відео.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 19132,
-      "slug": "mahiya-proty-lazeriv-ohlyad-indi-khita-wielders-of-the-essence",
-      "title": "Магія проти лазерів: огляд інді-хіта Wielders of the Essence",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-14T09:35:59Z",
-      "date_formatted": "14 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/1/4/334592/142e8aedd10286ee8acc8e77a3bae511.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Новий виток популярності жанру survivors-like приносить свіжі експерименти: від творців стратегії Songs of Conquest вийшов затишний спіноф упізнаваному всесвіті.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

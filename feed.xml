@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 18 Nov 2026 16:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:33:12 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Honor підтвердила лінійку смартфонів Magic9 для ринку Великої Британії</title>
+      <link>https://yomaxxxi.github.io/news/honor-pidtverdyla-liniyku-smartfoniv-magic9-dlya-rynku-velykoyi-b/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/honor-pidtverdyla-liniyku-smartfoniv-magic9-dlya-rynku-velykoyi-b/</guid>
+      <pubDate>Thu, 19 Nov 2026 04:33:12 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія Honor офіційно розкрила плани щодо виходу нової серії пристроїв на британський ринок. Старт продажів заплановано на січень, а покупці зможуть обрати між двома новими моделями.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: astral-sh/uv — ультрашвидкий менеджер пакетів та проєктів Python, написаний на Rust, що повністю замінює pip, poetry, pyenv та virtualenv</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-astral-shuv-ultrashvydkyy-menedzher-paketiv-t/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 16 Nov 2026 14:53:46 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Хочете користуватися провідними моделями штучного інтелекту без обмежень та дорогих платних підписок? Цей сервіс надає зручний веб-інтерфейс до найкращих open-source рішень на ринку в одному місці.</description>
-    </item>
-    <item>
-      <title>Amazon Echo для Home Assistant: як позбутися Alexa та отримати ідеальний локальний динамік</title>
-      <link>https://yomaxxxi.github.io/news/amazon-echo-dlya-home-assistant-yak-pozbutysya-alexa-ta-otrymaty-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/amazon-echo-dlya-home-assistant-yak-pozbutysya-alexa-ta-otrymaty-/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:08:27 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Старі колонки Amazon Echo, які роками збирають пил у шухлядах, можуть отримати друге життя та стати найкращим апаратним рішенням для голосового керування через Home Assistant — за умови повної відмови від екосистеми Alexa.</description>
     </item>
   </channel>
 </rss>
