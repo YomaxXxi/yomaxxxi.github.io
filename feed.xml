@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:40:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:56:28 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Український розробник створив Bedline: застосунок для боротьби з прокрастинацією перед сном</title>
+      <link>https://yomaxxxi.github.io/news/ukrayinskyy-rozrobnyk-stvoryv-bedline-zastosunok-dlya-borotby-z-p/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/ukrayinskyy-rozrobnyk-stvoryv-bedline-zastosunok-dlya-borotby-z-p/</guid>
+      <pubDate>Thu, 19 Nov 2026 10:56:28 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Цифровий детокс виходить на новий рівень: вітчизняний розробник Володимир Павленко презентував iOS-застосунок Bedline, який допомагає позбутися звички гортати стрічки соцмереж замість повноцінного відпочинку.</description>
+    </item>
     <item>
       <title>Huawei Mate 90 Air: компанія пропустила одне покоління і готує новинку</title>
       <link>https://yomaxxxi.github.io/news/huawei-mate-90-air-kompaniya-propustyla-odne-pokolinnya-i-hotuye-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 17 Nov 2026 10:15:35 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Компанія Google випустила велике оновлення для Gemini Notebook, яке дозволяє миттєво перетворювати будь-які документи та джерела на повноцінні вебсайти.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: mvanhorn/last30days-skill — Потужний AI-скіл для пошуку інсайтів по Reddit, X, YouTube та Polymarket</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-mvanhornlast30days-skill-potuzhnyy-ai-skil-dl/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-mvanhornlast30days-skill-potuzhnyy-ai-skil-dl/</guid>
-      <pubDate>Tue, 17 Nov 2026 09:23:32 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Звичайний пошук видає застарілі SEO-статті та ангажовані блоги. Цей інструмент замінює дорогі платні підписки на аналітичні SaaS-платформи та ручний ресьорч. Проєкт стрімко увірвався в тренди через унікальний підхід: він агрегує дані там, де люди головують увагою та реальними грошима (Reddit, X, YouTube, HN, Polymarket), після чого AI-агент синтезує це в обґрунтований бріф.</description>
     </item>
   </channel>
 </rss>
