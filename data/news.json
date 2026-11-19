@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 22481,
+      "slug": "huawei-mate-90-air-kompaniya-propustyla-odne-pokolinnya-i-hotuye-",
+      "title": "Huawei Mate 90 Air: компанія пропустила одне покоління і готує новинку",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-19T09:40:59Z",
+      "date_formatted": "19 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://fdn.gsmarena.com/imgroot//news/26/11/huawei-mate-90-air-listed/-952x498w6/gsmarena_00.jpg",
+      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
+      "summary": "Компанія Huawei офіційно додала новий ультратонкий смартфон до свого онлайн-магазину, пропустивши індекс 80.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 22482,
       "slug": "github-perlyna-dnya-hkudscli-anything-revolyutsiynyy-freymvork-dl",
       "title": "GitHub-перлина дня: HKUDS/CLI-Anything — революційний фреймворк для перетворення будь-якого софту на агент-нативні інструменти!",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Сьогоднішнє програмне забезпечення створене для людей, але завтрашніми користувачами стануть ШІ-агенти. Проєкт вирішує фундаментальну проблему взаємодії автономних агентів із графічними та складними інтерфейсами десктопного софту. Він виступає потужною відкритою альтернативою закритим платним екосистемам інтеграції та мовним місткам для Claude Code, Cursor чи OpenClaw.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/HKUDS/CLI-Anything",
       "github_repo": "HKUDS/CLI-Anything"
@@ -59,7 +80,7 @@
       "summary": "Сучасна інженерія потребує максимальної надійності під час моніторинг-процесів на рівні ядра ОС. Новий інструментарій для трасування та аналізу продуктивності Linux Kernel зосереджений на роботі з eBPF та XDP, розкриваючи внутрішню архітектуру статичного аналізу. Перед виконанням будь-якого JIT-компілювання верифікатор виконує символічне виконання всього графа інструкцій, що гарантує стабільність на продакшені.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/grfdsasdvef/awesome-ebpf-linux-tracing",
       "github_repo": "grfdsasdvef/awesome-ebpf-linux-tracing"
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/JuliusBrussee/caveman",
       "github_repo": "JuliusBrussee/caveman"
-    },
-    {
-      "id": 19235,
-      "slug": "pytannya-do-nvidia-chy-znala-kompaniya-pro-prodazh-ai-gpu-fiktyvn",
-      "title": "Питання до Nvidia: чи знала компанія про продаж AI GPU фіктивним фірмам?",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-14T14:55:34Z",
-      "date_formatted": "14 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.mos.cms.futurecdn.net/jakBnPpBNjF9ncTK4KKtGG-1920-80.jpg",
-      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
-      "summary": "Міністр фінансів США Скотт Бессент публічно звернув увагу на проблеми експортного контролю та можливу відповідальність керівництва корпорації.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }
