@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 22673,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-ich-porty-u-telefonakh",
+      "title": "Технології, які ми втратили: ІЧ-порти у телефонах",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-19T12:53:17Z",
+      "date_formatted": "19 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "Справжня магія нульових: покласти два телефони «віч-на-віч» на відстані 2 см, затримати подих, щоб не збити з'єднання, і передати однокласнику новий рингтон чи культову гру Gravity Defied. Це була епоха чистої цифрової романтики.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 22592,
       "slug": "one-ui-95-vid-samsung-novi-mozhlyvosti-dlya-zyomky-video",
       "title": "One UI 9.5 від Samsung: нові можливості для зйомки відео",
@@ -1233,27 +1254,6 @@
       "image": "https://dev.ua/storage/images/10/79/76/75/derived/ebb3b37c11b60fe157ae331fc567c2bc.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Історичний момент для аерокосмічної галузі: корабель компанії Ілона Маска успішно завершив складну орбітальну місію.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 19391,
-      "slug": "zaryadnyy-prystriy-esr-magsafe-iz-pidstavkoyu-rishennya-dlya-ipho",
-      "title": "Зарядний пристрій ESR MagSafe із підставкою: рішення для iPhone Duo",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-15T06:29:51Z",
-      "date_formatted": "15 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04326-2616x1308.jpg.jpeg?quality=82&strip=all&resize=1200,628",
-      "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
-      "summary": "Новий аксесуар від ESR покликаний розв'язати одразу дві головні проблеми використання великого складногó пристрою завдяки продуманій конструкції та активному охолодженню.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
