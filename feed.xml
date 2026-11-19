@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:56:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:07:27 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>One UI 9.5 від Samsung: нові можливості для зйомки відео</title>
+      <link>https://yomaxxxi.github.io/news/one-ui-95-vid-samsung-novi-mozhlyvosti-dlya-zyomky-video/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/one-ui-95-vid-samsung-novi-mozhlyvosti-dlya-zyomky-video/</guid>
+      <pubDate>Thu, 19 Nov 2026 12:07:27 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія Samsung анонсувала бета-програму One UI 9.5 для актуальної серії пристроїв Galaxy S26, готуючи масштабне оновлення софту.</description>
+    </item>
     <item>
       <title>Український розробник створив Bedline: застосунок для боротьби з прокрастинацією перед сном</title>
       <link>https://yomaxxxi.github.io/news/ukrayinskyy-rozrobnyk-stvoryv-bedline-zastosunok-dlya-borotby-z-p/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 17 Nov 2026 11:32:12 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія Apple надає лише 5 ГБ безплатного простору в iCloud, який заповнюється надзвичайно швидко через синхронізацію фото, резервних копій та пошти.</description>
-    </item>
-    <item>
-      <title>Google Gemini Notebook: створення сайтів з нотаток</title>
-      <link>https://yomaxxxi.github.io/news/google-gemini-notebook-stvorennya-saytiv-z-notatok/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-gemini-notebook-stvorennya-saytiv-z-notatok/</guid>
-      <pubDate>Tue, 17 Nov 2026 10:15:35 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Компанія Google випустила велике оновлення для Gemini Notebook, яке дозволяє миттєво перетворювати будь-які документи та джерела на повноцінні вебсайти.</description>
     </item>
   </channel>
 </rss>
