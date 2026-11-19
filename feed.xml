@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 19 Nov 2026 13:44:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:25:50 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Як підключитися до Linux-сервера по SSH прямо з ChatGPT чи Claude</title>
+      <link>https://yomaxxxi.github.io/news/yak-pidklyuchytysya-do-linux-servera-po-ssh-pryamo-z-chatgpt-chy-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yak-pidklyuchytysya-do-linux-servera-po-ssh-pryamo-z-chatgpt-chy-/</guid>
+      <pubDate>Thu, 19 Nov 2026 14:25:50 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Розберемо, як за допомогою сучасних AI-асистентів та протоколу MCP (Model Context Protocol) налаштувати безпечне підключення по SSH. Це дозволить давати штучному інтелекту команди для керування сервером (наприклад, Raspberry Pi) без ручного копіювання команд у термінал.</description>
+    </item>
     <item>
       <title>Google об&#x27;єднується з Blue Origin для запуску супутників із ШІ</title>
       <link>https://yomaxxxi.github.io/news/google-obyednuyetsya-z-blue-origin-dlya-zapusku-suputnykiv-iz-shi/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 17 Nov 2026 14:03:49 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія Google активно працює над власною альтернативою популярній функції екосистеми Apple, яка дозволить значно спростити життя власникам кількох пристроїв.</description>
-    </item>
-    <item>
-      <title>Технології, які ми втратили: Оптичні трекпади та навігаційні кульки</title>
-      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-optychni-trekpady-ta-navihatsiyni-k/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-optychni-trekpady-ta-navihatsiyni-k/</guid>
-      <pubDate>Tue, 17 Nov 2026 12:53:17 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Пам&#x27;ятаєте, як зручно було виділити одне крихітне слово в середині довгого речення або точно перемістити курсор між літерами без нервових кліків по екрану? Оптичні трекпади та механічні кульки уможливлювали ювелірну навігацію. Скролити сторінки чи редагувати текст на смартфонах на кшталт BlackBerry Bold чи HTC Hero було справжнім задоволенням для інженера.</description>
     </item>
   </channel>
 </rss>

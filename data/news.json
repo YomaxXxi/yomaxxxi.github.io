@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 22785,
+      "slug": "yak-pidklyuchytysya-do-linux-servera-po-ssh-pryamo-z-chatgpt-chy-",
+      "title": "Як підключитися до Linux-сервера по SSH прямо з ChatGPT чи Claude",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-19T14:25:50Z",
+      "date_formatted": "19 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Розберемо, як за допомогою сучасних AI-асистентів та протоколу MCP (Model Context Protocol) налаштувати безпечне підключення по SSH. Це дозволить давати штучному інтелекту команди для керування сервером (наприклад, Raspberry Pi) без ручного копіювання команд у термінал.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 22653,
       "slug": "google-obyednuyetsya-z-blue-origin-dlya-zapusku-suputnykiv-iz-shi",
       "title": "Google об'єднується з Blue Origin для запуску супутників із ШІ",
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/QwenLM/qwen-code",
       "github_repo": "QwenLM/qwen-code"
-    },
-    {
-      "id": 19446,
-      "slug": "tyzhden-u-rozrizi-makety-galaxy-s27-prybuttya-xiaomi-18-ta-novi-v",
-      "title": "Тиждень у розрізі: макети Galaxy S27, прибуття Xiaomi 18 та нові витоки",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-15T08:58:00Z",
-      "date_formatted": "15 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/week-46-in-review/gsmarena_000.jpg",
-      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
-      "summary": "Цього тижня техноіндустрія принесла чимало обговорень: від свіжих макетів майбутньої лінійки Samsung до глобального запуску флагманів Xiaomi та деталей про майбутні iPhone.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }
