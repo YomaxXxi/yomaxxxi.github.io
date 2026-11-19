@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 22418,
+      "slug": "zakhyst-dlya-iphone-vid-macpaw-kompaniya-vypustyla-zastosunok-moo",
+      "title": "Захист для iPhone від MacPaw: компанія випустила застосунок Moonlock",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-19T08:26:31Z",
+      "date_formatted": "19 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/26/47/27/90/derived/a5d3e5d569dc2fc8ac14dbe1129698f5.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Українська продуктова IT-компанія MacPaw презентувала мобільну версію застосунку для кібербезпеки Moonlock для користувачів iOS. Це перший мобільний продукт компанії, створений спеціально для захисту смартфонів від фішингу, спаму та витоків даних.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 22407,
       "slug": "production-ebpf-xdp-tracing-toolkit-hlybokyy-rozbir-veryfikatora-",
       "title": "Production eBPF & XDP Tracing Toolkit: глибокий розбір верифікатора ядра Linux",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
       "summary": "Сучасна інженерія потребує максимальної надійності під час моніторинг-процесів на рівні ядра ОС. Новий інструментарій для трасування та аналізу продуктивності Linux Kernel зосереджений на роботі з eBPF та XDP, розкриваючи внутрішню архітектуру статичного аналізу. Перед виконанням будь-якого JIT-компілювання верифікатор виконує символічне виконання всього графа інструкцій, що гарантує стабільність на продакшені.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/grfdsasdvef/awesome-ebpf-linux-tracing",
       "github_repo": "grfdsasdvef/awesome-ebpf-linux-tracing"
@@ -59,7 +80,7 @@
       "summary": "Вчора Motorola почала намагатися наступний Edge 70 Neo, розкриваючи офіційну дату виходу телефону, який стане 24 листопада. Пізніше Motorola також підтвердила, що головна камера використовує сенсор Sony Lytia 710 з роздільною здатністю 50МП.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
       "summary": "Вдалий кадр триває секунду. Якщо розблоковувати телефон і шукати іконку застосунку, момент буде втрачено. Показуємо, як налаштувати миттєвий запуск камери на будь-якому смартфоні.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 19211,
-      "slug": "skandal-iz-relizom-gta-6-chastyna-korobok-nadiyshla-pokuptsyam-be",
-      "title": "Скандал із релізом GTA 6: частина коробок надійшла покупцям без кодів активації",
-      "category": "Геймінг",
-      "category_slug": "gaming",
-      "date": "2026-11-14T13:43:52Z",
-      "date_formatted": "14 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/6/e/334731/6e2c368489ec012273d705b5de63abe9.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Старт продажів однієї з найочікуваніших ігор десятиліття супроводжується великим неприємним сюрпризом для гравців.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 19 Nov 2026 07:37:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 08:26:31 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Захист для iPhone від MacPaw: компанія випустила застосунок Moonlock</title>
+      <link>https://yomaxxxi.github.io/news/zakhyst-dlya-iphone-vid-macpaw-kompaniya-vypustyla-zastosunok-moo/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/zakhyst-dlya-iphone-vid-macpaw-kompaniya-vypustyla-zastosunok-moo/</guid>
+      <pubDate>Thu, 19 Nov 2026 08:26:31 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Українська продуктова IT-компанія MacPaw презентувала мобільну версію застосунку для кібербезпеки Moonlock для користувачів iOS. Це перший мобільний продукт компанії, створений спеціально для захисту смартфонів від фішингу, спаму та витоків даних.</description>
+    </item>
     <item>
       <title>Production eBPF &amp; XDP Tracing Toolkit: глибокий розбір верифікатора ядра Linux</title>
       <link>https://yomaxxxi.github.io/news/production-ebpf-xdp-tracing-toolkit-hlybokyy-rozbir-veryfikatora-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 17 Nov 2026 07:43:44 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія готує мащабне розширення заводу біля Берліна, проте амбітні плани зіштовхнулися з жорсткими європейськими та американськими регуляторними обмеженнями.</description>
-    </item>
-    <item>
-      <title>ТОП-10 криптоспільнот України: хто формує екосистему та де вивчають фінанси</title>
-      <link>https://yomaxxxi.github.io/news/top-10-kryptospilnot-ukrayiny-khto-formuye-ekosystemu-ta-de-vyvch/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/top-10-kryptospilnot-ukrayiny-khto-formuye-ekosystemu-ta-de-vyvch/</guid>
-      <pubDate>Tue, 17 Nov 2026 06:28:59 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Українська криптоспільнота давно переросла вузьке коло ентузіастів, перетворившись на потужну екосистему з Telegram-каналів, закритих клубів, освітніх проєктів та профільних медіа. Аналітики MNBC провели масштабне дослідження «Криптоспільноти України», яке детально описує структуру ринку, центри впливу та ключові проєкти, що визначають порядок денний.</description>
     </item>
   </channel>
 </rss>
