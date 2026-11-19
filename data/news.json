@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 22811,
+      "slug": "jpmorgan-chase-pidtverdyv-vytik-danykh-cherez-ataku-na-storonnikh",
+      "title": "JPMorgan Chase підтвердив витік даних через атаку на сторонніх постачальників",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-19T15:04:14Z",
+      "date_formatted": "19 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305014881.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_caption": "Матеріали The Verge / Офіційний реліз",
+      "summary": "Банківський гігант повідомив про кібератаку, яка зачепила маркетингові дані клієнтів, проте наголосив на відсутності зв'язку з нещодавнім загальним збоєм.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 22785,
       "slug": "yak-pidklyuchytysya-do-linux-servera-po-ssh-pryamo-z-chatgpt-chy-",
       "title": "Як підключитися до Linux-сервера по SSH прямо з ChatGPT чи Claude",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали The Verge / Офіційний реліз",
       "summary": "Компанія Google уклала стратегічне партнерство з Blue Origin для виведення на орбіту спеціалізованих серверних супутників, які працюватимуть на базі власних процесорів корпорації.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -101,7 +122,7 @@
       "summary": "Цифровий детокс виходить на новий рівень: вітчизняний розробник Володимир Павленко презентував iOS-застосунок Bedline, який допомагає позбутися звички гортати стрічки соцмереж замість повноцінного відпочинку.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 19460,
-      "slug": "github-perlyna-dnya-qwenlmqwen-code-potuzhnyy-vidkrytyy-ai-ahent-",
-      "title": "GitHub-перлина дня: QwenLM/qwen-code — Потужний відкритий AI-агент для термінала, який замінює закриті підписки на Cursor та GitHub Copilot",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-15T09:22:49Z",
-      "date_formatted": "15 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/QwenLM/qwen-code",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Розробники втомилися від дорогих проприєтарних SaaS-рішень та прив'язки до одного вендора. Qwen Code закриває цей біль, пропонуючи повноцінного автономного AI-агента прямо у вашому терміналі з повною підтримкою відкритих моделей та повною незалежністю від закритих екосистем.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/QwenLM/qwen-code",
-      "github_repo": "QwenLM/qwen-code"
     }
   ]
 }

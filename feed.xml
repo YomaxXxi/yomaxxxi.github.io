@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:25:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:04:14 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>JPMorgan Chase підтвердив витік даних через атаку на сторонніх постачальників</title>
+      <link>https://yomaxxxi.github.io/news/jpmorgan-chase-pidtverdyv-vytik-danykh-cherez-ataku-na-storonnikh/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/jpmorgan-chase-pidtverdyv-vytik-danykh-cherez-ataku-na-storonnikh/</guid>
+      <pubDate>Thu, 19 Nov 2026 15:04:14 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Банківський гігант повідомив про кібератаку, яка зачепила маркетингові дані клієнтів, проте наголосив на відсутності зв&#x27;язку з нещодавнім загальним збоєм.</description>
+    </item>
     <item>
       <title>Як підключитися до Linux-сервера по SSH прямо з ChatGPT чи Claude</title>
       <link>https://yomaxxxi.github.io/news/yak-pidklyuchytysya-do-linux-servera-po-ssh-pryamo-z-chatgpt-chy-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 17 Nov 2026 14:25:48 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Дізнайтеся, як заборонити сервісу використовувати ваші діалоги для навчання штучного інтелекту та вимкнути збереження історії в кілька кліків.</description>
-    </item>
-    <item>
-      <title>Google готує аналог iPhone Handoff: один номер на двох Android-смартфонах</title>
-      <link>https://yomaxxxi.github.io/news/google-hotuye-analoh-iphone-handoff-odyn-nomer-na-dvokh-android-s/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-hotuye-analoh-iphone-handoff-odyn-nomer-na-dvokh-android-s/</guid>
-      <pubDate>Tue, 17 Nov 2026 14:03:49 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія Google активно працює над власною альтернативою популярній функції екосистеми Apple, яка дозволить значно спростити життя власникам кількох пристроїв.</description>
     </item>
   </channel>
 </rss>
