@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:10:07 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>«Це було того варте». В GSC розповіли, як акцент на українській ідентичності та відмова від російської в S.T.A.L.K.E.R. 2 вплинув на розробку гри</title>
+      <link>https://yomaxxxi.github.io/news/tse-bulo-toho-varte-v-gsc-rozpovily-yak-aktsent-na-ukrayinskiy-id/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tse-bulo-toho-varte-v-gsc-rozpovily-yak-aktsent-na-ukrayinskiy-id/</guid>
+      <pubDate>Fri, 20 Nov 2026 15:10:07 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Українська студія GSC Game World відзначає другу річницю з моменту релізу шутера «S.T.A.L.K.E.R. 2: Серце Чорнобиля», який вийшов 20 листопада 2024 року. За два роки проєкт пройшов шлях від релізної версії 1.0 до патчу 2.1, вийшов на PlayStation 5, переїхав на оновлену версію рушія Unreal Engine 5 та отримав перше сюжетне доповнення.</description>
+    </item>
     <item>
       <title>Security Bite: проблеми приватності Meta Muse та їхні наслідки</title>
       <link>https://yomaxxxi.github.io/news/security-bite-problemy-pryvatnosti-meta-muse-ta-yikhni-naslidky/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 18 Nov 2026 09:22:51 +0000</pubDate>
       <category>Open Source</category>
       <description>Розробники щодня витрачають години на інтеграцію API, написання скриптів синхронізації та оркестрацію AI-моделей. Проєкт n8n закриває цей біль, виступаючи потужною безкоштовною self-hosted альтернативою дорослим хмарним SaaS-платформам на кшталт Zapier, Make.com чи Retool AI, але без лімітів на кількість виконань та з повним контролем над даними.</description>
-    </item>
-    <item>
-      <title>Grand Theft Auto VI: чому Rockstar називають нову частину наймасштабнішою та найромантичнішою в серії</title>
-      <link>https://yomaxxxi.github.io/news/grand-theft-auto-vi-chomu-rockstar-nazyvayut-novu-chastynu-naymas/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/grand-theft-auto-vi-chomu-rockstar-nazyvayut-novu-chastynu-naymas/</guid>
-      <pubDate>Wed, 18 Nov 2026 09:10:13 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Студія Rockstar готує до релізу Grand Theft Auto VI, яка обіцяє стати найбільшим проєктом в історії франшизи. Головна особливість гри — фокус на романтичних стосунках між двома злочинцями на ім&#x27;я Jason та Lucia, які закохуються після спільного викрадання автомобіля.</description>
     </item>
   </channel>
 </rss>

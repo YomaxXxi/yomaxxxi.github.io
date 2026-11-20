@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 23369,
+      "slug": "tse-bulo-toho-varte-v-gsc-rozpovily-yak-aktsent-na-ukrayinskiy-id",
+      "title": "«Це було того варте». В GSC розповіли, як акцент на українській ідентичності та відмова від російської в S.T.A.L.K.E.R. 2 вплинув на розробку гри",
+      "category": "Геймінг",
+      "category_slug": "gaming",
+      "date": "2026-11-20T15:10:07Z",
+      "date_formatted": "20 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/24/56/48/58/derived/ea024e7bba2c7e7ac84634161744ffa1.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Українська студія GSC Game World відзначає другу річницю з моменту релізу шутера «S.T.A.L.K.E.R. 2: Серце Чорнобиля», який вийшов 20 листопада 2024 року. За два роки проєкт пройшов шлях від релізної версії 1.0 до патчу 2.1, вийшов на PlayStation 5, переїхав на оновлену версію рушія Unreal Engine 5 та отримав перше сюжетне доповнення.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 23383,
       "slug": "security-bite-problemy-pryvatnosti-meta-muse-ta-yikhni-naslidky",
       "title": "Security Bite: проблеми приватності Meta Muse та їхні наслідки",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
       "summary": "Свіжий подкаст від 9to5Mac присвячений гучному інциденту довкола штучного інтелекту від компанії Meta.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Розробники та креативники часто змушені перемикатися між Notion для текстів і Miro для візуальних схем. AFFiNE вирішує цей біль, об'єднуючи нотатки, бази даних і нескінченний холст в єдине середовище.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/toeverything/AFFiNE",
       "github_repo": "toeverything/AFFiNE"
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/plabayo/venndb",
       "github_repo": "plabayo/venndb"
-    },
-    {
-      "id": 19831,
-      "slug": "sud-v-odesi-oshtrafuvav-prohramista-na-51-000-hrn-za-kastet-znayd",
-      "title": "Суд в Одесі оштрафував програміста на 51 000 грн за кастет, знайдений на пляжі",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-16T07:26:35Z",
-      "date_formatted": "16 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/83/71/99/24/derived/26fbb91cc47a0ac7b34ce2492e0d9a7f.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Незвична судова справа завершилася обвинувальним вироком для IT-спеціаліста, який намагався «здати знахідку поліції».",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }
