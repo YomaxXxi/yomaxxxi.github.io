@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 20 Nov 2026 06:20:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:43:50 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google офіційно підтвердила: вбудоване блокування застосунків не з&#x27;явиться на старих версіях Android</title>
+      <link>https://yomaxxxi.github.io/news/google-ofitsiyno-pidtverdyla-vbudovane-blokuvannya-zastosunkiv-ne/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-ofitsiyno-pidtverdyla-vbudovane-blokuvannya-zastosunkiv-ne/</guid>
+      <pubDate>Fri, 20 Nov 2026 09:43:50 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Користувачі, які очікували отримати нативну функцію блокування через сервіси мобілізації, змушені будуть оновлювати систему до актуальних релізів.</description>
+    </item>
     <item>
       <title>GTA 6 спричинила рекордний стрибок інтернет-трафіку – стріми зібрали майже 8 млн глядачів</title>
       <link>https://yomaxxxi.github.io/news/gta-6-sprychynyla-rekordnyy-strybok-internet-trafiku-strimy-zibra/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 18 Nov 2026 05:21:55 +0000</pubDate>
       <category>Техніка</category>
       <description>Популярний бюджетний смартфон минулих років офіційно почав отримувати фінальне велике оновлення операційної системи.</description>
-    </item>
-    <item>
-      <title>Бюджетний iQOO Z12 Lite засвітився в Google Play Console: що відомо про новинку</title>
-      <link>https://yomaxxxi.github.io/news/byudzhetnyy-iqoo-z12-lite-zasvityvsya-v-google-play-console-shcho/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/byudzhetnyy-iqoo-z12-lite-zasvityvsya-v-google-play-console-shcho/</guid>
-      <pubDate>Wed, 18 Nov 2026 04:01:42 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Бренд iQOO готує до релізу новий недорогий смартфон, який нещодавно пройшов сертифікацію та розкрив свої базові параметри.</description>
     </item>
   </channel>
 </rss>
