@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 20 Nov 2026 15:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:07:56 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: cathrynlavery/diagram-design — Революційний агентський скіл для генерації ідеальних редакторських SVG-діаграм без жахливого Mermaid-коду та тіней!</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-cathrynlaverydiagram-design-revolyutsiynyy-ah/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-cathrynlaverydiagram-design-revolyutsiynyy-ah/</guid>
+      <pubDate>Fri, 20 Nov 2026 16:07:56 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Розробники втомилися від утилітарного, потворного дизайну діаграм у Mermaid та важких платних SaaS-інструментів на кшталт Lucidchart чи Miro для простих схематичних задач. Проєкт закриває одвічний біль візуалізації архітектури прямо через AI-агентів.</description>
+    </item>
     <item>
       <title>Мікро-ШІ дня: ElevenLabs Reader — перетворює будь-який текст на живу розмовну мову з емоціями за 60 секунд</title>
       <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-elevenlabs-reader-peretvoryuye-bud-yakyy-tekst-na-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 18 Nov 2026 11:20:40 +0000</pubDate>
       <category>Геймінг</category>
       <description>Китайська студія miHoYo, відома завдяки хіту Genshin Impact, представила інноваційну модель штучного інтелекту під назвою Gamer, здатну самостійно грати у відеоігри.</description>
-    </item>
-    <item>
-      <title>Космічний міф стає реальністю: зонд Voyager 1 подолав відстань у один світловий день від Землі</title>
-      <link>https://yomaxxxi.github.io/news/kosmichnyy-mif-staye-realnistyu-zond-voyager-1-podolav-vidstan-u-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/kosmichnyy-mif-staye-realnistyu-zond-voyager-1-podolav-vidstan-u-/</guid>
-      <pubDate>Wed, 18 Nov 2026 10:14:52 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Легендарний апарат NASA продовжує дивувати людство, встановивши історичний рекорд дистанції.</description>
     </item>
   </channel>
 </rss>
