@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 20 Nov 2026 05:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:20:22 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GTA 6 спричинила рекордний стрибок інтернет-трафіку – стріми зібрали майже 8 млн глядачів</title>
+      <link>https://yomaxxxi.github.io/news/gta-6-sprychynyla-rekordnyy-strybok-internet-trafiku-strimy-zibra/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/gta-6-sprychynyla-rekordnyy-strybok-internet-trafiku-strimy-zibra/</guid>
+      <pubDate>Fri, 20 Nov 2026 06:20:22 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Запуск найочікуванішої гри десятиліття обвалив звичні показники мереж та встановив історичні рекорди на стрімінгових платформах.</description>
+    </item>
     <item>
       <title>Motorola детально описує свої плани впровадження Android 17 для 29 телефонів</title>
       <link>https://yomaxxxi.github.io/news/motorola-detalno-opysuye-svoyi-plany-vprovadzhennya-android-17-dl/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 18 Nov 2026 04:01:42 +0000</pubDate>
       <category>Техніка</category>
       <description>Бренд iQOO готує до релізу новий недорогий смартфон, який нещодавно пройшов сертифікацію та розкрив свої базові параметри.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: jingyaogong/minimind — Навчіть власну 64M LLM з нуля всього за 2 години замість дорогих курсів та закритих моделей!</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-jingyaogongminimind-navchit-vlasnu-64m-llm-z-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-jingyaogongminimind-navchit-vlasnu-64m-llm-z-/</guid>
-      <pubDate>Tue, 17 Nov 2026 15:52:53 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Розуміння того, як працюють великі мовні моделі зсередини, часто обмежується складними чорними скриньками або закритими комерційними SaaS-платформами. Цей проєкт вирішує головний біль інженерів — дає покроковий пайплайн, щоб підняти власну міні-модель з нуля без величезних датацентрів.</description>
     </item>
   </channel>
 </rss>
