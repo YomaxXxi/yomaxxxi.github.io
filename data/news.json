@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": 23384,
+      "slug": "yarmarka-ukrayinska-alternatyva-google-play-iz-rozshyrenymy-filtr",
+      "title": "«Ярмарка»: українська альтернатива Google Play із розширеними фільтрами безпеки",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-20T11:03:31Z",
+      "date_formatted": "20 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/19/49/18/43/derived/0774811d7aeba75cbd00c5ef8796d119.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Команда компанії «Починець» представила власний каталог Android-застосунків, створений через брак гнучких інструментів пошуку в офіційних маркетплейсах.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
+      "id": 23355,
+      "slug": "github-perlyna-dnya-toeverythingaffine-potuzhna-open-source-ta-lo",
+      "title": "GitHub-перлина дня: toeverything/AFFiNE — Потужна open-source та локальна заміна Notion та Miro для документів і дощок",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-20T09:53:04Z",
+      "date_formatted": "20 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/toeverything/AFFiNE",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Розробники та креативники часто змушені перемикатися між Notion для текстів і Miro для візуальних схем. AFFiNE вирішує цей біль, об'єднуючи нотатки, бази даних і нескінченний холст в єдине середовище.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": true,
+      "github_url": "https://github.com/toeverything/AFFiNE",
+      "github_repo": "toeverything/AFFiNE"
+    },
+    {
       "id": 23354,
       "slug": "show-hn-interviewer-assistant-novyy-open-source-shi-asystent-dlya",
       "title": "Show HN: Interviewer assistant – новий open-source ШІ-асистент для проведення співбесід",
@@ -16,7 +58,7 @@
       "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
       "summary": "Ринок інструментів для найму персоналу поповнився цікавим open-source рішенням. Розробники представили проєкт Interviewer assistant, який інтегрується у відеодзвінки Microsoft Teams та працює як приватний помічник для інтерв'юера в реальному часі. Бот непомітно долучається до розмови, здійснює транскрипцію та аналізує відповіді кандидатів за допомогою мовних моделей Anthropic Claude та Azure OpenAI.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/blackarck/intaiassist",
       "github_repo": "blackarck/intaiassist"
@@ -38,7 +80,7 @@
       "summary": "Користувачі, які очікували отримати нативну функцію блокування через сервіси мобілізації, змушені будуть оновлювати систему до актуальних релізів.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -59,7 +101,7 @@
       "summary": "Запуск найочікуванішої гри десятиліття обвалив звичні показники мереж та встановив історичні рекорди на стрімінгових платформах.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1212,48 +1254,6 @@
       "image": "https://www.engadget.com/img/gallery/10-things-your-iphones-notes-app-can-do-other-than-taking-notes/l-intro-1793719334.jpg",
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Apple Notes має багато прийомів, які можливо не досліджувалии в повному обсязі. Для більшості людей, прикладом Notes є місце для зберігання суперечок, розсипних ідей та різних кодів.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 19609,
-      "slug": "github-perlyna-dnya-dream-numuniver-potuzhnyy-office-sdk-z-vidkry",
-      "title": "GitHub-перлина дня: dream-num/univer — Потужний Office SDK з відкритим кодом для створення власних редакторів та AI-агентів",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-15T15:52:49Z",
-      "date_formatted": "15 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/dream-num/univer",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Потрібно вбудувати повноцінні таблиці чи документи у свій SaaS, але писати все з нуля занадто довго, а закриті платні аналоги коштують шалені гроші? Univer закриває цей біль. Це потужний open-source Office SDK, який повністю замінює дорогі комерційні компоненти та дозволяє розгорнути власні таблиці, документи та презентації прямо у вашому продукті.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/dream-num/univer",
-      "github_repo": "dream-num/univer"
-    },
-    {
-      "id": 19583,
-      "slug": "apple-aktyvno-pratsyuye-nad-intehratsiyeyu-face-id-u-zovnishniy-d",
-      "title": "Apple активно працює над інтеграцією Face ID у зовнішній дисплей iPhone Duo 2",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-15T15:01:55Z",
-      "date_formatted": "15 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-18.jpg?quality=82&strip=all&resize=1200,628",
-      "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
-      "summary": "Інженери компанії роблять біометрію пріоритетом для наступних поколінь складної лінійки, хоча терміни залишаються дуже жорсткими.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
