@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 23598,
+      "slug": "mikro-shi-dnya-elevenlabs-reader-peretvoryuye-bud-yakyy-tekst-na-",
+      "title": "Мікро-ШІ дня: ElevenLabs Reader — перетворює будь-який текст на живу розмовну мову з емоціями за 60 секунд",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-20T15:27:47Z",
+      "date_formatted": "20 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://eleven-public-cdn.elevenlabs.io/payloadcmsreader/mpygd9h0dy-og_image.webp",
+      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
+      "summary": "Перетворення довгих статей, навчальних матеріалів та книг у якісне аудіо раніше вимагало дорогих платних підписок та складних редакторів. Цей інструмент робить процес миттєвим, озвучуючи документи природними голосами прямо на вашому пристрої.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 23369,
       "slug": "tse-bulo-toho-varte-v-gsc-rozpovily-yak-aktsent-na-ukrayinskiy-id",
       "title": "«Це було того варте». В GSC розповіли, як акцент на українській ідентичності та відмова від російської в S.T.A.L.K.E.R. 2 вплинув на розробку гри",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Українська студія GSC Game World відзначає другу річницю з моменту релізу шутера «S.T.A.L.K.E.R. 2: Серце Чорнобиля», який вийшов 20 листопада 2024 року. За два роки проєкт пройшов шлях від релізної версії 1.0 до патчу 2.1, вийшов на PlayStation 5, переїхав на оновлену версію рушія Unreal Engine 5 та отримав перше сюжетне доповнення.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Команда компанії «Починець» представила власний каталог Android-застосунків, створений через брак гнучких інструментів пошуку в офіційних маркетплейсах.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 19846,
-      "slug": "venndb-nadshvydka-in-memory-baza-danykh-na-rust-dlya-bit-flahiv",
-      "title": "VennDB: надшвидка in-memory база даних на Rust для біт-флагів",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-16T08:07:06Z",
-      "date_formatted": "16 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://repository-images.githubusercontent.com/618452402/843c8829-6a4a-467d-8aea-2271df08ceec",
-      "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
-      "summary": "В індустрії розробки з'явився новий цікавий інструмент для вузькоспеціалізованих задач. VennDB — це компактна append-only база даних, яка працює повністю в оперативній пам'яті та створена мовою Rust. Проєкт розроблений спеціально для сценаріїв, де робочі набори даних є переважно статичними, завантажуються під час старту програми та постійно опитуються за допомогою простих фільтрів. Спочатку рішення створювалося в рамках екосистеми проєкту rama, наприклад для роботи в якості пам'яті апстрім-проксі.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/plabayo/venndb",
-      "github_repo": "plabayo/venndb"
     }
   ]
 }

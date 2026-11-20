@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 20 Nov 2026 15:10:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:27:47 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Мікро-ШІ дня: ElevenLabs Reader — перетворює будь-який текст на живу розмовну мову з емоціями за 60 секунд</title>
+      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-elevenlabs-reader-peretvoryuye-bud-yakyy-tekst-na-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-elevenlabs-reader-peretvoryuye-bud-yakyy-tekst-na-/</guid>
+      <pubDate>Fri, 20 Nov 2026 15:27:47 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Перетворення довгих статей, навчальних матеріалів та книг у якісне аудіо раніше вимагало дорогих платних підписок та складних редакторів. Цей інструмент робить процес миттєвим, озвучуючи документи природними голосами прямо на вашому пристрої.</description>
+    </item>
     <item>
       <title>«Це було того варте». В GSC розповіли, як акцент на українській ідентичності та відмова від російської в S.T.A.L.K.E.R. 2 вплинув на розробку гри</title>
       <link>https://yomaxxxi.github.io/news/tse-bulo-toho-varte-v-gsc-rozpovily-yak-aktsent-na-ukrayinskiy-id/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 18 Nov 2026 10:14:52 +0000</pubDate>
       <category>Техніка</category>
       <description>Легендарний апарат NASA продовжує дивувати людство, встановивши історичний рекорд дистанції.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: n8n-io/n8n — потужна fair-code платформа для автоматизації робочих процесів із нативними AI-агентами та візуальним архітектором</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-n8n-ion8n-potuzhna-fair-code-platforma-dlya-a/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-n8n-ion8n-potuzhna-fair-code-platforma-dlya-a/</guid>
-      <pubDate>Wed, 18 Nov 2026 09:22:51 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Розробники щодня витрачають години на інтеграцію API, написання скриптів синхронізації та оркестрацію AI-моделей. Проєкт n8n закриває цей біль, виступаючи потужною безкоштовною self-hosted альтернативою дорослим хмарним SaaS-платформам на кшталт Zapier, Make.com чи Retool AI, але без лімітів на кількість виконань та з повним контролем над даними.</description>
     </item>
   </channel>
 </rss>
