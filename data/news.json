@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 23227,
+      "slug": "motorola-detalno-opysuye-svoyi-plany-vprovadzhennya-android-17-dl",
+      "title": "Motorola детально описує свої плани впровадження Android 17 для 29 телефонів",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-20T05:05:48Z",
+      "date_formatted": "20 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Motorola-Razr-2026-folded-in-hand-scaled.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Моторола підтвердила, що дев'ять існуючих смартфонів вже отримують стабільне оновлення до Android 17. Додаткових 20 смартфонів Edge, Razr і Moto G планують отримати оновлення протягом наступних кількох місяців.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 22926,
       "slug": "github-perlyna-dnya-firecrawlfirecrawl-knowledge-infrastruktura-d",
       "title": "GitHub-перлина дня: firecrawl/firecrawl — Knowledge інфраструктура для перетворення сайтів на LLM-ready дані (замінадорогих SaaS парсерів)",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Розробники AI-агентів знають цей біль: щоб дати штучному інтелекту актуальні дані з мережі, доводиться писати криві парсери, боротися з Cloudflare, JS-рендерингом та форматами. Firecrawl вирішує це радикально, перетворюючи будь-який вебсайт на чистий Markdown одним запитом.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/firecrawl/firecrawl",
       "github_repo": "firecrawl/firecrawl"
@@ -80,7 +101,7 @@
       "summary": "Компанія Google уклала стратегічне партнерство з Blue Origin для виведення на орбіту спеціалізованих серверних супутників, які працюватимуть на базі власних процесорів корпорації.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/bazzite-laptop.jpg",
       "image_caption": "Матеріали XDA Developers / Офіційний реліз",
       "summary": "Легендарний антивідчит-сервіс нарешті готується повноцінно зайти на Linux-платформу, а популярний дистрибутив вже адаптується під нові реалії.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 19480,
-      "slug": "italiya-oshtrafuvala-meta-na-805-mln-yevro-cherez-dostup-do-fotoh",
-      "title": "Італія оштрафувала Meta на 805 млн євро через доступ до фотографій",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-15T11:13:05Z",
-      "date_formatted": "15 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/d/7/334748/d72d4e196901248ba95fa4992f5dcdd4.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Масштабний штраф від італійського регулятора за автоматичний збір мультимедіа.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
