@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 20 Nov 2026 09:43:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:52:37 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Show HN: Interviewer assistant – новий open-source ШІ-асистент для проведення співбесід</title>
+      <link>https://yomaxxxi.github.io/news/show-hn-interviewer-assistant-novyy-open-source-shi-asystent-dlya/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/show-hn-interviewer-assistant-novyy-open-source-shi-asystent-dlya/</guid>
+      <pubDate>Fri, 20 Nov 2026 09:52:37 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Ринок інструментів для найму персоналу поповнився цікавим open-source рішенням. Розробники представили проєкт Interviewer assistant, який інтегрується у відеодзвінки Microsoft Teams та працює як приватний помічник для інтерв&#x27;юера в реальному часі. Бот непомітно долучається до розмови, здійснює транскрипцію та аналізує відповіді кандидатів за допомогою мовних моделей Anthropic Claude та Azure OpenAI.</description>
+    </item>
     <item>
       <title>Google офіційно підтвердила: вбудоване блокування застосунків не з&#x27;явиться на старих версіях Android</title>
       <link>https://yomaxxxi.github.io/news/google-ofitsiyno-pidtverdyla-vbudovane-blokuvannya-zastosunkiv-ne/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 18 Nov 2026 06:32:15 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Корпорація Microsoft анонсувала масштабне оновлення на конференції Microsoft Ignite у Сан-Франциско, представивши сім нових моделей штучного інтелекту серії MAI. Новинки спрямовані на посилення позицій компанії в сегменті корпоративних рішень та конкуренцію з провідними гравцями ринку.</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy A24 отримує оновлення One UI 9 на базі Android 17</title>
-      <link>https://yomaxxxi.github.io/news/samsung-galaxy-a24-otrymuye-onovlennya-one-ui-9-na-bazi-android-1/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/samsung-galaxy-a24-otrymuye-onovlennya-one-ui-9-na-bazi-android-1/</guid>
-      <pubDate>Wed, 18 Nov 2026 05:21:55 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Популярний бюджетний смартфон минулих років офіційно почав отримувати фінальне велике оновлення операційної системи.</description>
     </item>
   </channel>
 </rss>
