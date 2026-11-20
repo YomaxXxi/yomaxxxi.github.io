@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 20 Nov 2026 11:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:00:11 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Security Bite: проблеми приватності Meta Muse та їхні наслідки</title>
+      <link>https://yomaxxxi.github.io/news/security-bite-problemy-pryvatnosti-meta-muse-ta-yikhni-naslidky/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/security-bite-problemy-pryvatnosti-meta-muse-ta-yikhni-naslidky/</guid>
+      <pubDate>Fri, 20 Nov 2026 13:00:11 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Свіжий подкаст від 9to5Mac присвячений гучному інциденту довкола штучного інтелекту від компанії Meta.</description>
+    </item>
     <item>
       <title>«Ярмарка»: українська альтернатива Google Play із розширеними фільтрами безпеки</title>
       <link>https://yomaxxxi.github.io/news/yarmarka-ukrayinska-alternatyva-google-play-iz-rozshyrenymy-filtr/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 18 Nov 2026 09:10:13 +0000</pubDate>
       <category>Техніка</category>
       <description>Студія Rockstar готує до релізу Grand Theft Auto VI, яка обіцяє стати найбільшим проєктом в історії франшизи. Головна особливість гри — фокус на романтичних стосунках між двома злочинцями на ім&#x27;я Jason та Lucia, які закохуються після спільного викрадання автомобіля.</description>
-    </item>
-    <item>
-      <title>ШІ від OpenAI виявив критичну вразливість у Java: під загрозою мільйони систем</title>
-      <link>https://yomaxxxi.github.io/news/shi-vid-openai-vyyavyv-krytychnu-vrazlyvist-u-java-pid-zahrozoyu-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shi-vid-openai-vyyavyv-krytychnu-vrazlyvist-u-java-pid-zahrozoyu-/</guid>
-      <pubDate>Wed, 18 Nov 2026 07:49:45 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Модель штучного інтелекту GPT-6 Cyber допомогла виявити небезпечну брешь у популярній мові програмування.</description>
     </item>
   </channel>
 </rss>
