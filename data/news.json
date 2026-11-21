@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 23949,
+      "slug": "rozrobnyk-odynak-stvoryuye-z-nulya-operatsiynu-systemu-impossible",
+      "title": "Розробник-одинак створює з нуля операційну систему Impossible OS із підтримкою програм для Windows та Linux",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-21T08:53:00Z",
+      "date_formatted": "21 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/51/55/53/06/derived/ce29928529c6d447fd42bf07ffbb5ef8.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Південноафриканський розробник та підприємець Дерік Пейн працює над амбітним проєктом Impossible OS — новою платформою для ПК на архітектурі x86-64, яку він пише повністю самотужки.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 23944,
       "slug": "novyy-cli-instrument-dozvolyaye-ahentam-zavantazhuvaty-kinoklipy-",
       "title": "Новий CLI-інструмент дозволяє агентам завантажувати кінокліпи за цитатами з діалогів",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
       "summary": "Сучасна індустрія розробки ШІ-агентів потребує все більше мультимодальних даних для тестування та інтеграції. Ентузіасти та розробники часто стикаються з проблемою пошуку конкретних відеофрагментів за текстовими репліками. Тепер для цього з'явився спеціалізований інструмент командного рядка scene-finder, який автоматизує пошук та завантаження кінокліпів напряму з бази clip.cafe за звичайними діалогами.",
       "reading_time": "3 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/robinroy03/scene-finder",
       "github_repo": "robinroy03/scene-finder"
@@ -59,7 +80,7 @@
       "summary": "Американський стартап GG Technologies звернувся до суду в Індії з вимогою стягнути з корпорації Apple ₹15 мільярдів (близько $161.86 мільйона) через нібито порушення патентних прав.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/amazon-echo-is-best-home-assistant-voice-hardware.JPG",
       "image_caption": "Матеріали XDA Developers / Офіційний реліз",
       "summary": "Старі колонки Amazon Echo, які роками збирають пил у шухлядах, можуть отримати друге життя та стати найкращим апаратним рішенням для голосового керування через Home Assistant — за умови повної відмови від екосистеми Alexa.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 20066,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-fizychnyy-trypozytsiynyy-peremykach",
-      "title": "Технології, які ми втратили: Фізичний трипозиційний перемикач звуку",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-16T12:53:18Z",
-      "date_formatted": "16 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "Уявіть момент: ви заходите в темний кінотеатр або на важливу нараду. Достатньо сунути руку в кишеню і одним легким рухом пальця клацнути перемикач, гарантовано знаючи, що телефон тепер у беззвучному режимі. Ніяких зайвих рухів, розблокування екрана та заглядання в шторку налаштувань. Це давало абсолютний тактильний контроль і неймовірний комфорт у щоденному користуванні.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

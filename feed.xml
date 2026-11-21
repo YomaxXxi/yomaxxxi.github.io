@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 21 Nov 2026 07:52:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:53:00 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Розробник-одинак створює з нуля операційну систему Impossible OS із підтримкою програм для Windows та Linux</title>
+      <link>https://yomaxxxi.github.io/news/rozrobnyk-odynak-stvoryuye-z-nulya-operatsiynu-systemu-impossible/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/rozrobnyk-odynak-stvoryuye-z-nulya-operatsiynu-systemu-impossible/</guid>
+      <pubDate>Sat, 21 Nov 2026 08:53:00 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Південноафриканський розробник та підприємець Дерік Пейн працює над амбітним проєктом Impossible OS — новою платформою для ПК на архітектурі x86-64, яку він пише повністю самотужки.</description>
+    </item>
     <item>
       <title>Новий CLI-інструмент дозволяє агентам завантажувати кінокліпи за цитатами з діалогів</title>
       <link>https://yomaxxxi.github.io/news/novyy-cli-instrument-dozvolyaye-ahentam-zavantazhuvaty-kinoklipy-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 19 Nov 2026 04:33:12 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія Honor офіційно розкрила плани щодо виходу нової серії пристроїв на британський ринок. Старт продажів заплановано на січень, а покупці зможуть обрати між двома новими моделями.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: astral-sh/uv — ультрашвидкий менеджер пакетів та проєктів Python, написаний на Rust, що повністю замінює pip, poetry, pyenv та virtualenv</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-astral-shuv-ultrashvydkyy-menedzher-paketiv-t/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-astral-shuv-ultrashvydkyy-menedzher-paketiv-t/</guid>
-      <pubDate>Wed, 18 Nov 2026 16:23:22 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Екосистема Python історично страждає від повільності стандартних інструментів на зразок pip та складності управління версіями через pyenv чи poetry. Команда Astral створила універсальну заміну, яка виконує операції встановлення в десятки разів швидше завдяки низькорівневій оптимізації на Rust. Проєкт стрімко завірусився, оскільки повністю позбавляє розробників болю зі старого важкого пайплайну.</description>
     </item>
   </channel>
 </rss>
