@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 23956,
+      "slug": "github-perlyna-dnya-nginxnginx-ofitsiynyy-repozytoriy-lehendarnoh",
+      "title": "GitHub-перлина дня: nginx/nginx — Офіційний репозиторій легендарного вебсервера та зворотного проксі",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-21T09:22:50Z",
+      "date_formatted": "21 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/nginx/nginx",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "NGINX — це абсолютний фундамент сучасного інтернету, який слугує найпопулярнішим вебсервером, високопродуктивним балансувальником навантаження, зворотним проксі (reverse proxy) та API Gateway. Проєкт закриває потреби у швидкій обробці мільйонів з'єднань одночасно.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/nginx/nginx",
+      "github_repo": "nginx/nginx"
+    },
+    {
       "id": 23949,
       "slug": "rozrobnyk-odynak-stvoryuye-z-nulya-operatsiynu-systemu-impossible",
       "title": "Розробник-одинак створює з нуля операційну систему Impossible OS із підтримкою програм для Windows та Linux",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Південноафриканський розробник та підприємець Дерік Пейн працює над амбітним проєктом Impossible OS — новою платформою для ПК на архітектурі x86-64, яку він пише повністю самотужки.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Компанія випустила масштабний редизайн мобільного клієнта з новою нижньою панеллю.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://huggingface.co/chat/huggingchat/thumbnail.png",
       "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
       "summary": "Хочете користуватися провідними моделями штучного інтелекту без обмежень та дорогих платних підписок? Цей сервіс надає зручний веб-інтерфейс до найкращих open-source рішень на ринку в одному місці.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 20139,
-      "slug": "amazon-echo-dlya-home-assistant-yak-pozbutysya-alexa-ta-otrymaty-",
-      "title": "Amazon Echo для Home Assistant: як позбутися Alexa та отримати ідеальний локальний динамік",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-16T14:08:27Z",
-      "date_formatted": "16 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/amazon-echo-is-best-home-assistant-voice-hardware.JPG",
-      "image_caption": "Матеріали XDA Developers / Офіційний реліз",
-      "summary": "Старі колонки Amazon Echo, які роками збирають пил у шухлядах, можуть отримати друге життя та стати найкращим апаратним рішенням для голосового керування через Home Assistant — за умови повної відмови від екосистеми Alexa.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
