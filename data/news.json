@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 23962,
+      "slug": "novyy-proryv-u-stysnenni-danykh-1-hb-vikipediyi-stysnuto-do-10539",
+      "title": "Новий прорив у стисненні даних: 1 ГБ Вікіпедії стиснуто до 105.39 МБ за допомогою ШІ",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-21T10:05:41Z",
+      "date_formatted": "21 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.mos.cms.futurecdn.net/iPmrEtNmpAx79TNibeBMXb-1920-80.jpg",
+      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
+      "summary": "Дослідник Томмі Хе представив розробку tufazip від Tufa Labs, яка встановила новий стандарт для нейромережевих алгоритмів на бенчмарку Large Text Compression Benchmark.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 23956,
       "slug": "github-perlyna-dnya-nginxnginx-ofitsiynyy-repozytoriy-lehendarnoh",
       "title": "GitHub-перлина дня: nginx/nginx — Офіційний репозиторій легендарного вебсервера та зворотного проксі",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "NGINX — це абсолютний фундамент сучасного інтернету, який слугує найпопулярнішим вебсервером, високопродуктивним балансувальником навантаження, зворотним проксі (reverse proxy) та API Gateway. Проєкт закриває потреби у швидкій обробці мільйонів з'єднань одночасно.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/nginx/nginx",
       "github_repo": "nginx/nginx"
@@ -59,7 +80,7 @@
       "summary": "Сучасна індустрія розробки ШІ-агентів потребує все більше мультимодальних даних для тестування та інтеграції. Ентузіасти та розробники часто стикаються з проблемою пошуку конкретних відеофрагментів за текстовими репліками. Тепер для цього з'явився спеціалізований інструмент командного рядка scene-finder, який автоматизує пошук та завантаження кінокліпів напряму з бази clip.cafe за звичайними діалогами.",
       "reading_time": "3 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/robinroy03/scene-finder",
       "github_repo": "robinroy03/scene-finder"
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/sveltejs/svelte",
       "github_repo": "sveltejs/svelte"
-    },
-    {
-      "id": 20203,
-      "slug": "mikro-shi-dnya-huggingchat-dostup-do-naykrashchykh-vidkrytykh-mod",
-      "title": "Мікро-ШІ дня: HuggingChat — доступ до найкращих відкритих моделей без підписок",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-16T14:53:46Z",
-      "date_formatted": "16 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://huggingface.co/chat/huggingchat/thumbnail.png",
-      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
-      "summary": "Хочете користуватися провідними моделями штучного інтелекту без обмежень та дорогих платних підписок? Цей сервіс надає зручний веб-інтерфейс до найкращих open-source рішень на ринку в одному місці.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }
