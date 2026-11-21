@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24038,
+      "slug": "workbrew-20-povnyy-kontrol-softu-rozrobnykiv-v-ekosystemi-apple",
+      "title": "Workbrew 2.0: повний контроль софту розробників в екосистемі Apple",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-21T15:00:53Z",
+      "date_formatted": "21 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Workbrew.jpg?quality=82&strip=all&resize=1200,628",
+      "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
+      "summary": "IT-адміністратори нарешті отримали інструмент для моніторингу програм, які розробники та інші співробітники встановлюють на робочі Mac без офіційного погодження.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 24088,
       "slug": "yak-perenesty-vsi-paroli-z-google-chrome-u-bezpechnyy-menedzher-b",
       "title": "Як перенести всі паролі з Google Chrome у безпечний менеджер Bitwarden",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Компанія Neuralink продемонструвала вражаючі можливості нейроінтерфейсу, опублікувавши відео, на якому пацієнт проходить місію у грі без жодних фізичних геймпадів чи натискання кнопок.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -101,7 +122,7 @@
       "summary": "Хуаїмі випустив другий екран на своїх флагманських телефонів з моделі 17 Pros останнім роком, але їх не випускали за межі Китаю. Це означає, що нові моделі 18 Pro та Pro Max є першим шансом для мене перевірити, чи стає задній екран на телефоні більше корисним зараз, ніж був раніше.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 20680,
-      "slug": "github-perlyna-dnya-mvanhornlast30days-skill-potuzhnyy-ai-skil-dl",
-      "title": "GitHub-перлина дня: mvanhorn/last30days-skill — Потужний AI-скіл для пошуку інсайтів по Reddit, X, YouTube та Polymarket",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-17T09:23:32Z",
-      "date_formatted": "17 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/mvanhorn/last30days-skill",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Звичайний пошук видає застарілі SEO-статті та ангажовані блоги. Цей інструмент замінює дорогі платні підписки на аналітичні SaaS-платформи та ручний ресьорч. Проєкт стрімко увірвався в тренди через унікальний підхід: він агрегує дані там, де люди головують увагою та реальними грошима (Reddit, X, YouTube, HN, Polymarket), після чого AI-агент синтезує це в обґрунтований бріф.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/mvanhorn/last30days-skill",
-      "github_repo": "mvanhorn/last30days-skill"
     }
   ]
 }
