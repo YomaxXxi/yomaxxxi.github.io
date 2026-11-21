@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24007,
+      "slug": "vykhid-z-ekosystemy-amazon-yak-avtor-obyednav-kindle-calibre-web-",
+      "title": "Вихід з екосистеми Amazon: як автор об'єднав Kindle, Calibre-Web та Claude для аналізу книг",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-21T12:04:08Z",
+      "date_formatted": "21 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/moved-kindle-library-off-kindle-and-paired-with-claude.JPG",
+      "image_caption": "Матеріали XDA Developers / Офіційний реліз",
+      "summary": "Більше жодних зникнень куплених книг чи обмежень від Amazon. Розповідаємо, як звільнити свою бібліотеку з Kindle Paperwhite (12th generation) та навчити штучний інтелект розуміти ваші читацькі звички.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 23990,
       "slug": "xiaomi-18-pro-pokazav-shcho-dvi-ekrany-ne-krashchi-nizh-odyn",
       "title": "Xiaomi 18 Pro показав, що дві екрани не кращі, ніж один.",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали The Verge / Офіційний реліз",
       "summary": "Хуаїмі випустив другий екран на своїх флагманських телефонів з моделі 17 Pros останнім роком, але їх не випускали за межі Китаю. Це означає, що нові моделі 18 Pro та Pro Max є першим шансом для мене перевірити, чи стає задній екран на телефоні більше корисним зараз, ніж був раніше.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "NGINX — це абсолютний фундамент сучасного інтернету, який слугує найпопулярнішим вебсервером, високопродуктивним балансувальником навантаження, зворотним проксі (reverse proxy) та API Gateway. Проєкт закриває потреби у швидкій обробці мільйонів з'єднань одночасно.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/nginx/nginx",
       "github_repo": "nginx/nginx"
     },
@@ -1233,27 +1254,6 @@
       "image": "https://dev.ua/storage/images/61/70/07/44/derived/f404a0275ab632c5918bf10c792aa7ac.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Українська криптоспільнота давно переросла вузьке коло ентузіастів, перетворившись на потужну екосистему з Telegram-каналів, закритих клубів, освітніх проєктів та профільних медіа. Аналітики MNBC провели масштабне дослідження «Криптоспільноти України», яке детально описує структуру ринку, центри впливу та ключові проєкти, що визначають порядок денний.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 20572,
-      "slug": "motorola-signature-27-nimetski-pokuptsi-otrymayut-suttyevo-zmensh",
-      "title": "Motorola Signature 27: німецькі покупці отримають суттєво зменшену батарею",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-17T04:01:03Z",
-      "date_formatted": "17 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/motorola-signature-27-nyc-skyline-scaled.jpg",
-      "image_caption": "Матеріали Android Authority / Офіційний реліз",
-      "summary": "Компанія Motorola офіційно підтвердила неприємну новину для покупців флагманського смартфона в Німеччині: локальна версія пристрою матиме значно менший акумулятор порівняно з міжнародним ринком.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

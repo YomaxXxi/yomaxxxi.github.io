@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 21 Nov 2026 11:13:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:04:08 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Вихід з екосистеми Amazon: як автор об&#x27;єднав Kindle, Calibre-Web та Claude для аналізу книг</title>
+      <link>https://yomaxxxi.github.io/news/vykhid-z-ekosystemy-amazon-yak-avtor-obyednav-kindle-calibre-web-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/vykhid-z-ekosystemy-amazon-yak-avtor-obyednav-kindle-calibre-web-/</guid>
+      <pubDate>Sat, 21 Nov 2026 12:04:08 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Більше жодних зникнень куплених книг чи обмежень від Amazon. Розповідаємо, як звільнити свою бібліотеку з Kindle Paperwhite (12th generation) та навчити штучний інтелект розуміти ваші читацькі звички.</description>
+    </item>
     <item>
       <title>Xiaomi 18 Pro показав, що дві екрани не кращі, ніж один.</title>
       <link>https://yomaxxxi.github.io/news/xiaomi-18-pro-pokazav-shcho-dvi-ekrany-ne-krashchi-nizh-odyn/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 19 Nov 2026 08:26:31 +0000</pubDate>
       <category>Техніка</category>
       <description>Українська продуктова IT-компанія MacPaw презентувала мобільну версію застосунку для кібербезпеки Moonlock для користувачів iOS. Це перший мобільний продукт компанії, створений спеціально для захисту смартфонів від фішингу, спаму та витоків даних.</description>
-    </item>
-    <item>
-      <title>Production eBPF &amp; XDP Tracing Toolkit: глибокий розбір верифікатора ядра Linux</title>
-      <link>https://yomaxxxi.github.io/news/production-ebpf-xdp-tracing-toolkit-hlybokyy-rozbir-veryfikatora-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/production-ebpf-xdp-tracing-toolkit-hlybokyy-rozbir-veryfikatora-/</guid>
-      <pubDate>Thu, 19 Nov 2026 07:37:10 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Сучасна інженерія потребує максимальної надійності під час моніторинг-процесів на рівні ядра ОС. Новий інструментарій для трасування та аналізу продуктивності Linux Kernel зосереджений на роботі з eBPF та XDP, розкриваючи внутрішню архітектуру статичного аналізу. Перед виконанням будь-якого JIT-компілювання верифікатор виконує символічне виконання всього графа інструкцій, що гарантує стабільність на продакшені.</description>
     </item>
   </channel>
 </rss>
