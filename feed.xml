@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 21 Nov 2026 04:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:15:24 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Судовий позов проти Apple: стартап вимагає мільйони в Індії</title>
+      <link>https://yomaxxxi.github.io/news/sudovyy-pozov-proty-apple-startap-vymahaye-milyony-v-indiyi/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/sudovyy-pozov-proty-apple-startap-vymahaye-milyony-v-indiyi/</guid>
+      <pubDate>Sat, 21 Nov 2026 06:15:24 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Американський стартап GG Technologies звернувся до суду в Індії з вимогою стягнути з корпорації Apple ₹15 мільярдів (близько $161.86 мільйона) через нібито порушення патентних прав.</description>
+    </item>
     <item>
       <title>Чи варто купувати Samsung Galaxy S26 Ultra наприкінці 2026 року?</title>
       <link>https://yomaxxxi.github.io/news/chy-varto-kupuvaty-samsung-galaxy-s26-ultra-naprykintsi-2026-roku/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 18 Nov 2026 14:37:05 +0000</pubDate>
       <category>Геймінг</category>
       <description>Rockstar Games розкрила перші офіційні технічні деталі головного блокбастера десятиліття — GTA VI.</description>
-    </item>
-    <item>
-      <title>Нові графіки релізів: коли чекати на iPhone 18 та iPhone Air 2</title>
-      <link>https://yomaxxxi.github.io/news/novi-hrafiky-reliziv-koly-chekaty-na-iphone-18-ta-iphone-air-2/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/novi-hrafiky-reliziv-koly-chekaty-na-iphone-18-ta-iphone-air-2/</guid>
-      <pubDate>Wed, 18 Nov 2026 13:34:12 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Apple готується змінити звичний річний графік виходу смартфонів, перенісши анонс доступніших моделей на весну.</description>
     </item>
   </channel>
 </rss>

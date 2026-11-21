@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 23908,
+      "slug": "sudovyy-pozov-proty-apple-startap-vymahaye-milyony-v-indiyi",
+      "title": "Судовий позов проти Apple: стартап вимагає мільйони в Індії",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-21T06:15:24Z",
+      "date_formatted": "21 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg",
+      "image_caption": "Матеріали TechCrunch / Офіційний реліз",
+      "summary": "Американський стартап GG Technologies звернувся до суду в Індії з вимогою стягнути з корпорації Apple ₹15 мільярдів (близько $161.86 мільйона) через нібито порушення патентних прав.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 23910,
       "slug": "chy-varto-kupuvaty-samsung-galaxy-s26-ultra-naprykintsi-2026-roku",
       "title": "Чи варто купувати Samsung Galaxy S26 Ultra наприкінці 2026 року?",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали 9to5Google (Android & Google) / Офіційний реліз",
       "summary": "Флагманський смартфон від Samsung залишається одним із найкращих виборів на ринку завдяки зрілому залізу, довгій підтримці та унікальним програмним фішкам на базі One UI 9 та Android 17.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Розробники втомилися від утилітарного, потворного дизайну діаграм у Mermaid та важких платних SaaS-інструментів на кшталт Lucidchart чи Miro для простих схематичних задач. Проєкт закриває одвічний біль візуалізації архітектури прямо через AI-агентів.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/cathrynlavery/diagram-design",
       "github_repo": "cathrynlavery/diagram-design"
     },
@@ -1233,27 +1254,6 @@
       "image": "https://cdn4.telesco.pe/file/lvwQb6BoJhBatl46i5TJnzZefHD3azVey7bYQvyOhCe2BY4tCQu0lHH66o-BFnIk91adcHRMdvaScl-w7cVzCDG7xpmtsX9pDy1GK1hrdV0NC2aQjeIx8kJr1iFeHckdyDAszlF6CM-LMf6OqA1dMGr_DD5Jg38YjeZDnkmh7Xgi-BZ9GmGXjvURX2Ei3yNm0EvJ_m1_yEnsTFLYj6oCP-p_W-n9-9OGdMxxFLMgRsOkb4ZLfRMM_Ps-HnjRwKQILI8k1rAUVtWKOeHgceQFtXWmxz2BGJZB22ieiJDkHtxrnxYHv_GsgueBU7o_NWLrKixIXIbC0IlBUwqLf_CB4w.jpg",
       "image_caption": "Матеріали ITC.ua (TG) (Telegram) / Офіційний реліз",
       "summary": "Якщо вас тригерить новий реліз Apple, дивні тренди в софті чи оптимізація свіжих ігор — не зливайте аргументи в гілки коментарів, де вони зникнуть за добу.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 19936,
-      "slug": "videopodkasty-nezabarom-zyavlyatsya-v-dodatku-apple-tv",
-      "title": "Відеоподкасти незабаром з'являться в додатку Apple TV",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-16T10:40:08Z",
-      "date_formatted": "16 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Video-podcasts-coming-soon-to-Apple-TV-and-other-devices.jpg?quality=82&strip=all&w=1600",
-      "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
-      "summary": "Компанія Apple готується суттєво розширити можливості своїх сервісів, додавши спеціальний розділ для відеоподкастів безпосередньо в Apple TV та фірмовий додаток Apple TV app на сторонніх пристроях, включаючи сучасні Smart TV.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
