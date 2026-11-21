@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24088,
+      "slug": "yak-perenesty-vsi-paroli-z-google-chrome-u-bezpechnyy-menedzher-b",
+      "title": "Як перенести всі паролі з Google Chrome у безпечний менеджер Bitwarden",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-21T14:23:03Z",
+      "date_formatted": "21 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Зберігати паролі у браузері зручно, але ризиковано: якщо ваш пристрій розблокований або хтось отримає доступ до вашого профілю Google, усі облікові записи опиняться під загрозою. Цей гайд допоможе швидко та безпечно перенести дані у спеціалізований менеджер паролів Bitwarden.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 24057,
       "slug": "novyy-proryv-neuralink-uchasnyk-vyprobuvannya-zihrav-u-gta-6-sylo",
       "title": "Новий прорив Neuralink: учасник випробування зіграв у GTA 6 силою думки",
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/mvanhorn/last30days-skill",
       "github_repo": "mvanhorn/last30days-skill"
-    },
-    {
-      "id": 20649,
-      "slug": "google-onovlyuye-gemini-zapusk-skills-iz-faylamy-ta-postupovyy-za",
-      "title": "Google оновлює Gemini: запуск Skills із файлами та поступовий запуск замість Gems",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-17T08:58:55Z",
-      "date_formatted": "17 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/Gemini-Gems-1.jpg",
-      "image_caption": "Матеріали Android Authority / Офіційний реліз",
-      "summary": "Google розпочинає масштабну еволюцію своїх інструментів штучного інтелекту, замінюючи індивідуальні Gems на оновлені Gemini Skills із розширеними можливостями спільного доступу та роботи з контентом.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }

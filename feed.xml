@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 21 Nov 2026 13:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 14:23:03 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Як перенести всі паролі з Google Chrome у безпечний менеджер Bitwarden</title>
+      <link>https://yomaxxxi.github.io/news/yak-perenesty-vsi-paroli-z-google-chrome-u-bezpechnyy-menedzher-b/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yak-perenesty-vsi-paroli-z-google-chrome-u-bezpechnyy-menedzher-b/</guid>
+      <pubDate>Sat, 21 Nov 2026 14:23:03 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Зберігати паролі у браузері зручно, але ризиковано: якщо ваш пристрій розблокований або хтось отримає доступ до вашого профілю Google, усі облікові записи опиняться під загрозою. Цей гайд допоможе швидко та безпечно перенести дані у спеціалізований менеджер паролів Bitwarden.</description>
+    </item>
     <item>
       <title>Новий прорив Neuralink: учасник випробування зіграв у GTA 6 силою думки</title>
       <link>https://yomaxxxi.github.io/news/novyy-proryv-neuralink-uchasnyk-vyprobuvannya-zihrav-u-gta-6-sylo/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 19 Nov 2026 10:56:28 +0000</pubDate>
       <category>Техніка</category>
       <description>Цифровий детокс виходить на новий рівень: вітчизняний розробник Володимир Павленко презентував iOS-застосунок Bedline, який допомагає позбутися звички гортати стрічки соцмереж замість повноцінного відпочинку.</description>
-    </item>
-    <item>
-      <title>Huawei Mate 90 Air: компанія пропустила одне покоління і готує новинку</title>
-      <link>https://yomaxxxi.github.io/news/huawei-mate-90-air-kompaniya-propustyla-odne-pokolinnya-i-hotuye-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/huawei-mate-90-air-kompaniya-propustyla-odne-pokolinnya-i-hotuye-/</guid>
-      <pubDate>Thu, 19 Nov 2026 09:40:59 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія Huawei офіційно додала новий ультратонкий смартфон до свого онлайн-магазину, пропустивши індекс 80.</description>
     </item>
   </channel>
 </rss>
