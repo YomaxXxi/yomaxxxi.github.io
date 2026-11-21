@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24042,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-mekhanichna-shtorka-obyektyva",
+      "title": "Технології, які ми втратили: Механічна шторка об'єктива",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-21T12:50:33Z",
+      "date_formatted": "21 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "Пам'ятаєте цей божественний звук клацання металу? Зсувна шторка на тильній панелі Sony Ericsson K750i чи Nokia N73 була справжнім фетишем епохи. Вона перетворювала звичайну «дзвонилку» на брутальний компакт-камеру.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 24007,
       "slug": "vykhid-z-ekosystemy-amazon-yak-avtor-obyednav-kindle-calibre-web-",
       "title": "Вихід з екосистеми Amazon: як автор об'єднав Kindle, Calibre-Web та Claude для аналізу книг",
@@ -1233,27 +1254,6 @@
       "image": "https://img.mezha.ua/mezha/images/doc/8/c/334849/8cf916868bb0d452add5c49537123fb6.jpeg",
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Компанія готує мащабне розширення заводу біля Берліна, проте амбітні плани зіштовхнулися з жорсткими європейськими та американськими регуляторними обмеженнями.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 20604,
-      "slug": "top-10-kryptospilnot-ukrayiny-khto-formuye-ekosystemu-ta-de-vyvch",
-      "title": "ТОП-10 криптоспільнот України: хто формує екосистему та де вивчають фінанси",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-17T06:28:59Z",
-      "date_formatted": "17 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/61/70/07/44/derived/f404a0275ab632c5918bf10c792aa7ac.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Українська криптоспільнота давно переросла вузьке коло ентузіастів, перетворившись на потужну екосистему з Telegram-каналів, закритих клубів, освітніх проєктів та профільних медіа. Аналітики MNBC провели масштабне дослідження «Криптоспільноти України», яке детально описує структуру ринку, центри впливу та ключові проєкти, що визначають порядок денний.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

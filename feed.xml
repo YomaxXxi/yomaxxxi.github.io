@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:50:33 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Технології, які ми втратили: Механічна шторка об&#x27;єктива</title>
+      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-mekhanichna-shtorka-obyektyva/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-mekhanichna-shtorka-obyektyva/</guid>
+      <pubDate>Sat, 21 Nov 2026 12:50:33 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Пам&#x27;ятаєте цей божественний звук клацання металу? Зсувна шторка на тильній панелі Sony Ericsson K750i чи Nokia N73 була справжнім фетишем епохи. Вона перетворювала звичайну «дзвонилку» на брутальний компакт-камеру.</description>
+    </item>
     <item>
       <title>Вихід з екосистеми Amazon: як автор об&#x27;єднав Kindle, Calibre-Web та Claude для аналізу книг</title>
       <link>https://yomaxxxi.github.io/news/vykhid-z-ekosystemy-amazon-yak-avtor-obyednav-kindle-calibre-web-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 19 Nov 2026 09:22:50 +0000</pubDate>
       <category>Open Source</category>
       <description>Сьогоднішнє програмне забезпечення створене для людей, але завтрашніми користувачами стануть ШІ-агенти. Проєкт вирішує фундаментальну проблему взаємодії автономних агентів із графічними та складними інтерфейсами десктопного софту. Він виступає потужною відкритою альтернативою закритим платним екосистемам інтеграції та мовним місткам для Claude Code, Cursor чи OpenClaw.</description>
-    </item>
-    <item>
-      <title>Захист для iPhone від MacPaw: компанія випустила застосунок Moonlock</title>
-      <link>https://yomaxxxi.github.io/news/zakhyst-dlya-iphone-vid-macpaw-kompaniya-vypustyla-zastosunok-moo/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/zakhyst-dlya-iphone-vid-macpaw-kompaniya-vypustyla-zastosunok-moo/</guid>
-      <pubDate>Thu, 19 Nov 2026 08:26:31 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Українська продуктова IT-компанія MacPaw презентувала мобільну версію застосунку для кібербезпеки Moonlock для користувачів iOS. Це перший мобільний продукт компанії, створений спеціально для захисту смартфонів від фішингу, спаму та витоків даних.</description>
     </item>
   </channel>
 </rss>
