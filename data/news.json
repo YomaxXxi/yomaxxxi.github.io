@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 23990,
+      "slug": "xiaomi-18-pro-pokazav-shcho-dvi-ekrany-ne-krashchi-nizh-odyn",
+      "title": "Xiaomi 18 Pro показав, що дві екрани не кращі, ніж один.",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-21T11:13:23Z",
+      "date_formatted": "21 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+      "image_caption": "Матеріали The Verge / Офіційний реліз",
+      "summary": "Хуаїмі випустив другий екран на своїх флагманських телефонів з моделі 17 Pros останнім роком, але їх не випускали за межі Китаю. Це означає, що нові моделі 18 Pro та Pro Max є першим шансом для мене перевірити, чи стає задній екран на телефоні більше корисним зараз, ніж був раніше.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 23962,
       "slug": "novyy-proryv-u-stysnenni-danykh-1-hb-vikipediyi-stysnuto-do-10539",
       "title": "Новий прорив у стисненні даних: 1 ГБ Вікіпедії стиснуто до 105.39 МБ за допомогою ШІ",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "Дослідник Томмі Хе представив розробку tufazip від Tufa Labs, яка встановила новий стандарт для нейромережевих алгоритмів на бенчмарку Large Text Compression Benchmark.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Південноафриканський розробник та підприємець Дерік Пейн працює над амбітним проєктом Impossible OS — новою платформою для ПК на архітектурі x86-64, яку він пише повністю самотужки.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 20279,
-      "slug": "github-perlyna-dnya-sveltejssvelte-revolyutsiynyy-kompilyator-veb",
-      "title": "GitHub-перлина дня: sveltejs/svelte — Революційний компілятор вебзастосунків, що повністю замінює важкі віртуальні DOM-рушії на кшталт React та Vue",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-16T15:52:50Z",
-      "date_formatted": "16 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/sveltejs/svelte",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Традиційні фреймворки виконують величезну роботу прямо у браузері користувача, використовуючи віртуальний DOM для порівняння станів. Svelte змінює парадигму: це компілятор, який перетворює ваші декларативні компоненти на компактний, ізольований чистий JavaScript під час зборки. Проєкт закриває біль повільних SPA, роздутих бандлів та зайвого споживання пам'яті на мобільних пристроях.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/sveltejs/svelte",
-      "github_repo": "sveltejs/svelte"
     }
   ]
 }

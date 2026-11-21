@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:05:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:13:23 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xiaomi 18 Pro показав, що дві екрани не кращі, ніж один.</title>
+      <link>https://yomaxxxi.github.io/news/xiaomi-18-pro-pokazav-shcho-dvi-ekrany-ne-krashchi-nizh-odyn/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/xiaomi-18-pro-pokazav-shcho-dvi-ekrany-ne-krashchi-nizh-odyn/</guid>
+      <pubDate>Sat, 21 Nov 2026 11:13:23 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Хуаїмі випустив другий екран на своїх флагманських телефонів з моделі 17 Pros останнім роком, але їх не випускали за межі Китаю. Це означає, що нові моделі 18 Pro та Pro Max є першим шансом для мене перевірити, чи стає задній екран на телефоні більше корисним зараз, ніж був раніше.</description>
+    </item>
     <item>
       <title>Новий прорив у стисненні даних: 1 ГБ Вікіпедії стиснуто до 105.39 МБ за допомогою ШІ</title>
       <link>https://yomaxxxi.github.io/news/novyy-proryv-u-stysnenni-danykh-1-hb-vikipediyi-stysnuto-do-10539/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 19 Nov 2026 07:37:10 +0000</pubDate>
       <category>Open Source</category>
       <description>Сучасна інженерія потребує максимальної надійності під час моніторинг-процесів на рівні ядра ОС. Новий інструментарій для трасування та аналізу продуктивності Linux Kernel зосереджений на роботі з eBPF та XDP, розкриваючи внутрішню архітектуру статичного аналізу. Перед виконанням будь-якого JIT-компілювання верифікатор виконує символічне виконання всього графа інструкцій, що гарантує стабільність на продакшені.</description>
-    </item>
-    <item>
-      <title>Енциклопедія «Лакузи»: як українці систематизують дані про окупантів за допомогою Python та AI</title>
-      <link>https://yomaxxxi.github.io/news/entsyklopediya-lakuzy-yak-ukrayintsi-systematyzuyut-dani-pro-okup/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/entsyklopediya-lakuzy-yak-ukrayintsi-systematyzuyut-dani-pro-okup/</guid>
-      <pubDate>Thu, 19 Nov 2026 07:13:20 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Команда українських розробників та дослідників запустила онлайн-енциклопедію «Лакузи», яка збирає та структурує інформацію про осіб, що сприяють російській імперській та колоніальній політиці на тимчасово окупованих територіях України. У базі проєкту вже налічується понад 2200 досьє, а для їх опрацювання та генерації платформи використано сучасний технологічний стек.</description>
     </item>
   </channel>
 </rss>
