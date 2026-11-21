@@ -106,27 +106,6 @@
       "github_repo": null
     },
     {
-      "id": 23990,
-      "slug": "xiaomi-18-pro-pokazav-shcho-dvi-ekrany-ne-krashchi-nizh-odyn",
-      "title": "Xiaomi 18 Pro показав, що дві екрани не кращі, ніж один.",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-21T11:13:23Z",
-      "date_formatted": "21 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "image_caption": "Матеріали The Verge / Офіційний реліз",
-      "summary": "Хуаїмі випустив другий екран на своїх флагманських телефонів з моделі 17 Pros останнім роком, але їх не випускали за межі Китаю. Це означає, що нові моделі 18 Pro та Pro Max є першим шансом для мене перевірити, чи стає задній екран на телефоні більше корисним зараз, ніж був раніше.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
       "id": 23962,
       "slug": "novyy-proryv-u-stysnenni-danykh-1-hb-vikipediyi-stysnuto-do-10539",
       "title": "Новий прорив у стисненні даних: 1 ГБ Вікіпедії стиснуто до 105.39 МБ за допомогою ШІ",
@@ -1259,6 +1238,27 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
+    },
+    {
+      "id": 20680,
+      "slug": "github-perlyna-dnya-mvanhornlast30days-skill-potuzhnyy-ai-skil-dl",
+      "title": "GitHub-перлина дня: mvanhorn/last30days-skill — Потужний AI-скіл для пошуку інсайтів по Reddit, X, YouTube та Polymarket",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-17T09:23:32Z",
+      "date_formatted": "17 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/mvanhorn/last30days-skill",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Звичайний пошук видає застарілі SEO-статті та ангажовані блоги. Цей інструмент замінює дорогі платні підписки на аналітичні SaaS-платформи та ручний ресьорч. Проєкт стрімко увірвався в тренди через унікальний підхід: він агрегує дані там, де люди головують увагою та реальними грошима (Reddit, X, YouTube, HN, Polymarket), після чого AI-агент синтезує це в обґрунтований бріф.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "github_repo": "mvanhorn/last30days-skill"
     }
   ]
 }
