@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 21 Nov 2026 15:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 15:50:02 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: cursor/plugins — офіційна екосистема плагінів для Cursor IDE, що замінює десятки ручних налаштувань ШІ</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-cursorplugins-ofitsiyna-ekosystema-plahiniv-d/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-cursorplugins-ofitsiyna-ekosystema-plahiniv-d/</guid>
+      <pubDate>Sat, 21 Nov 2026 15:50:02 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Розробники, які активно використовують ШІ-редактори, часто стикаються з нестачею контексту, слабкою інтеграцією агентів у робочі пайплайни та відсутністю стандартизованих workflow. Цей репозиторій закриває біль ручної кастомізації, пропонуючи готові плагіни для безпеки, перевірки коду, генерації комітів та навчання.</description>
+    </item>
     <item>
       <title>Workbrew 2.0: повний контроль софту розробників в екосистемі Apple</title>
       <link>https://yomaxxxi.github.io/news/workbrew-20-povnyy-kontrol-softu-rozrobnykiv-v-ekosystemi-apple/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 19 Nov 2026 12:07:27 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія Samsung анонсувала бета-програму One UI 9.5 для актуальної серії пристроїв Galaxy S26, готуючи масштабне оновлення софту.</description>
-    </item>
-    <item>
-      <title>Український розробник створив Bedline: застосунок для боротьби з прокрастинацією перед сном</title>
-      <link>https://yomaxxxi.github.io/news/ukrayinskyy-rozrobnyk-stvoryv-bedline-zastosunok-dlya-borotby-z-p/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/ukrayinskyy-rozrobnyk-stvoryv-bedline-zastosunok-dlya-borotby-z-p/</guid>
-      <pubDate>Thu, 19 Nov 2026 10:56:28 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Цифровий детокс виходить на новий рівень: вітчизняний розробник Володимир Павленко презентував iOS-застосунок Bedline, який допомагає позбутися звички гортати стрічки соцмереж замість повноцінного відпочинку.</description>
     </item>
   </channel>
 </rss>
