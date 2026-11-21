@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24157,
+      "slug": "lehke-nalashtuvannya-yak-pidyednaty-apple-homeview-za-dopomohoyu-",
+      "title": "Легке налаштування: як під'єднати Apple HomeView за допомогою iPhone",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-21T16:49:37Z",
+      "date_formatted": "21 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.engadget.com/img/gallery/setting-up-an-apple-homeview-is-ridiculously-easy-thanks-to-your-iphone/l-intro-1794833959.jpg",
+      "image_caption": "Матеріали Engadget / Офіційний реліз",
+      "summary": "Новий розумний дисплей Apple HomeView працює за принципом CarPlay, віддзеркалюючи сумісні додатки з вашого смартфона чи планшета та гарантуючи повну конфіденційність даних.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 24141,
       "slug": "github-perlyna-dnya-cursorplugins-ofitsiyna-ekosystema-plahiniv-d",
       "title": "GitHub-перлина дня: cursor/plugins — офіційна екосистема плагінів для Cursor IDE, що замінює десятки ручних налаштувань ШІ",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Розробники, які активно використовують ШІ-редактори, часто стикаються з нестачею контексту, слабкою інтеграцією агентів у робочі пайплайни та відсутністю стандартизованих workflow. Цей репозиторій закриває біль ручної кастомізації, пропонуючи готові плагіни для безпеки, перевірки коду, генерації комітів та навчання.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/cursor/plugins",
       "github_repo": "cursor/plugins"
@@ -80,7 +101,7 @@
       "summary": "Компанія Neuralink продемонструвала вражаючі можливості нейроінтерфейсу, опублікувавши відео, на якому пацієнт проходить місію у грі без жодних фізичних геймпадів чи натискання кнопок.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.engadget.com/img/gallery/how-to-clean-up-your-icloud-storage-to-free-up-space/l-intro-1794332787.jpg",
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Компанія Apple надає лише 5 ГБ безплатного простору в iCloud, який заповнюється надзвичайно швидко через синхронізацію фото, резервних копій та пошти.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 20689,
-      "slug": "google-gemini-notebook-stvorennya-saytiv-z-notatok",
-      "title": "Google Gemini Notebook: створення сайтів з нотаток",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-17T10:15:35Z",
-      "date_formatted": "17 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/76/33/86/72/derived/90a68ae81875938b8925583b51c99e20.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Компанія Google випустила велике оновлення для Gemini Notebook, яке дозволяє миттєво перетворювати будь-які документи та джерела на повноцінні вебсайти.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
