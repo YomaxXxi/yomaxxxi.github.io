@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 23944,
+      "slug": "novyy-cli-instrument-dozvolyaye-ahentam-zavantazhuvaty-kinoklipy-",
+      "title": "Новий CLI-інструмент дозволяє агентам завантажувати кінокліпи за цитатами з діалогів",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-21T07:52:00Z",
+      "date_formatted": "21 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/02621858894e2eacc4b2e372bce680d2e274b77d2d46184d9918336cb51c10ce/robinroy03/scene-finder",
+      "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
+      "summary": "Сучасна індустрія розробки ШІ-агентів потребує все більше мультимодальних даних для тестування та інтеграції. Ентузіасти та розробники часто стикаються з проблемою пошуку конкретних відеофрагментів за текстовими репліками. Тепер для цього з'явився спеціалізований інструмент командного рядка scene-finder, який автоматизує пошук та завантаження кінокліпів напряму з бази clip.cafe за звичайними діалогами.",
+      "reading_time": "3 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/robinroy03/scene-finder",
+      "github_repo": "robinroy03/scene-finder"
+    },
+    {
       "id": 23935,
       "slug": "anthropic-onovyla-interfeys-mobilnoho-zastosunku-claude",
       "title": "Anthropic оновила інтерфейс мобільного застосунку Claude",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Компанія випустила масштабний редизайн мобільного клієнта з новою нижньою панеллю.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Флагманський смартфон від Samsung залишається одним із найкращих виборів на ринку завдяки зрілому залізу, довгій підтримці та унікальним програмним фішкам на базі One UI 9 та Android 17.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Retro Tech / Офіційний реліз",
       "summary": "Уявіть момент: ви заходите в темний кінотеатр або на важливу нараду. Достатньо сунути руку в кишеню і одним легким рухом пальця клацнути перемикач, гарантовано знаючи, що телефон тепер у беззвучному режимі. Ніяких зайвих рухів, розблокування екрана та заглядання в шторку налаштувань. Це давало абсолютний тактильний контроль і неймовірний комфорт у щоденному користуванні.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 20049,
-      "slug": "amerykanska-systema-upravlinnya-povitryanym-rukhom-ne-vytrymala-z",
-      "title": "Американська система управління повітряним рухом не витримала збою одного роутера",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-16T12:52:16Z",
-      "date_formatted": "16 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304497345.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_caption": "Матеріали The Verge / Офіційний реліз",
-      "summary": "Масштабний телекомунікаційний збій паралізував авіасполучення у США, залишивши без зв'язку та затримавши понад 1,5 мільйона пасажирів.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

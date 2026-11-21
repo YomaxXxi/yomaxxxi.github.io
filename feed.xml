@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 21 Nov 2026 07:34:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 07:52:00 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Новий CLI-інструмент дозволяє агентам завантажувати кінокліпи за цитатами з діалогів</title>
+      <link>https://yomaxxxi.github.io/news/novyy-cli-instrument-dozvolyaye-ahentam-zavantazhuvaty-kinoklipy-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/novyy-cli-instrument-dozvolyaye-ahentam-zavantazhuvaty-kinoklipy-/</guid>
+      <pubDate>Sat, 21 Nov 2026 07:52:00 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Сучасна індустрія розробки ШІ-агентів потребує все більше мультимодальних даних для тестування та інтеграції. Ентузіасти та розробники часто стикаються з проблемою пошуку конкретних відеофрагментів за текстовими репліками. Тепер для цього з&#x27;явився спеціалізований інструмент командного рядка scene-finder, який автоматизує пошук та завантаження кінокліпів напряму з бази clip.cafe за звичайними діалогами.</description>
+    </item>
     <item>
       <title>Anthropic оновила інтерфейс мобільного застосунку Claude</title>
       <link>https://yomaxxxi.github.io/news/anthropic-onovyla-interfeys-mobilnoho-zastosunku-claude/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 18 Nov 2026 16:23:22 +0000</pubDate>
       <category>Open Source</category>
       <description>Екосистема Python історично страждає від повільності стандартних інструментів на зразок pip та складності управління версіями через pyenv чи poetry. Команда Astral створила універсальну заміну, яка виконує операції встановлення в десятки разів швидше завдяки низькорівневій оптимізації на Rust. Проєкт стрімко завірусився, оскільки повністю позбавляє розробників болю зі старого важкого пайплайну.</description>
-    </item>
-    <item>
-      <title>Мікро-ШІ дня: Flux.1 by Black Forest Labs — Генерація фотореалістичних кадрів із текстом</title>
-      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-flux1-by-black-forest-labs-heneratsiya-fotorealist/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-flux1-by-black-forest-labs-heneratsiya-fotorealist/</guid>
-      <pubDate>Wed, 18 Nov 2026 14:53:46 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Створення якісної графіки часто впирається в те, що нейромережі малюють жахливу абракадабру замість літер на вивісках чи футболках. Цей інструмент повністю вирішує проблему генерації читабельного тексту всередині картинок без складних промптів та очікування черг у Discord.</description>
     </item>
   </channel>
 </rss>
