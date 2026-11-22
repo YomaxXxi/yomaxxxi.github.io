@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 22 Nov 2026 07:23:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 08:42:49 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ChatGPT «стиснули» для запуску на 16-бітній приставці Super Nintendo</title>
+      <link>https://yomaxxxi.github.io/news/chatgpt-stysnuly-dlya-zapusku-na-16-bitniy-prystavtsi-super-ninte/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/chatgpt-stysnuly-dlya-zapusku-na-16-bitniy-prystavtsi-super-ninte/</guid>
+      <pubDate>Sun, 22 Nov 2026 08:42:49 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Ентузіаст та технологічний журналіст Бендж Едвардс переніс мініатюрну мовну модель на культову ігрову консоль 1990-х років.</description>
+    </item>
     <item>
       <title>Трагедія та цинізм: огляд фільму «Голодні ігри: Світанок перед Жнивами»</title>
       <link>https://yomaxxxi.github.io/news/trahediya-ta-tsynizm-ohlyad-filmu-holodni-ihry-svitanok-pered-zhn/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 19 Nov 2026 15:04:14 +0000</pubDate>
       <category>Техніка</category>
       <description>Банківський гігант повідомив про кібератаку, яка зачепила маркетингові дані клієнтів, проте наголосив на відсутності зв&#x27;язку з нещодавнім загальним збоєм.</description>
-    </item>
-    <item>
-      <title>Як підключитися до Linux-сервера по SSH прямо з ChatGPT чи Claude</title>
-      <link>https://yomaxxxi.github.io/news/yak-pidklyuchytysya-do-linux-servera-po-ssh-pryamo-z-chatgpt-chy-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yak-pidklyuchytysya-do-linux-servera-po-ssh-pryamo-z-chatgpt-chy-/</guid>
-      <pubDate>Thu, 19 Nov 2026 14:25:50 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Розберемо, як за допомогою сучасних AI-асистентів та протоколу MCP (Model Context Protocol) налаштувати безпечне підключення по SSH. Це дозволить давати штучному інтелекту команди для керування сервером (наприклад, Raspberry Pi) без ручного копіювання команд у термінал.</description>
     </item>
   </channel>
 </rss>
