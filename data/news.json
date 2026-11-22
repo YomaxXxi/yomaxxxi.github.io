@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24375,
+      "slug": "samsung-pereosmyslyuye-interfeys-analoh-dynamic-island-zyavytsya-",
+      "title": "Samsung переосмислює інтерфейс: аналог Dynamic Island з'явиться у серії Galaxy S27",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-22T11:00:30Z",
+      "date_formatted": "22 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://img.mezha.ua/mezha/images/doc/7/2/335495/7244014d5c631f970ae735b7e12a62b0.jpeg",
+      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
+      "summary": "Південнокорейський техногігант готує серйозне оновлення інтерфейсу, наближаючи свою фірмову панель сповіщень до рішення від Apple.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 24350,
       "slug": "znaydeno-idealnyy-instrument-dlya-vibe-kodynhu-chomu-vsi-hovoryat",
       "title": "Знайдено ідеальний інструмент для vibe-кодингу: чому всі говорять про Dyad",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали XDA Developers / Офіційний реліз",
       "summary": "Забудьте про складні термінали та нескінченні правок: розробка ПЗ стає доступнішою завдяки новим відкритим інструментам.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Ентузіаст та технологічний журналіст Бендж Едвардс переніс мініатюрну мовну модель на культову ігрову консоль 1990-х років.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/jingyaogong/minimind",
       "github_repo": "jingyaogong/minimind"
-    },
-    {
-      "id": 21035,
-      "slug": "xiaomi-predstavyla-bezdrotovi-navushnyky-xiaomi-clip-iz-pidtrymko",
-      "title": "Xiaomi представила бездротові навушники Xiaomi Clip із підтримкою Apple Find My",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-17T15:24:14Z",
-      "date_formatted": "17 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Xiaomi-Clip-earbuds-in-ear-official-scaled-1.jpg",
-      "image_caption": "Матеріали Android Authority / Офіційний реліз",
-      "summary": "Компанія Xiaomi вивела на глобальний ринок новий пристрій з модним формфактором кліпси — Xiaomi Clip. Новинка пропонує відкритий дизайн та цікаві функціональні можливості для щоденного використання.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }

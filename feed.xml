@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 22 Nov 2026 09:45:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 11:00:30 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Samsung переосмислює інтерфейс: аналог Dynamic Island з&#x27;явиться у серії Galaxy S27</title>
+      <link>https://yomaxxxi.github.io/news/samsung-pereosmyslyuye-interfeys-analoh-dynamic-island-zyavytsya-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/samsung-pereosmyslyuye-interfeys-analoh-dynamic-island-zyavytsya-/</guid>
+      <pubDate>Sun, 22 Nov 2026 11:00:30 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Південнокорейський техногігант готує серйозне оновлення інтерфейсу, наближаючи свою фірмову панель сповіщень до рішення від Apple.</description>
+    </item>
     <item>
       <title>Знайдено ідеальний інструмент для vibe-кодингу: чому всі говорять про Dyad</title>
       <link>https://yomaxxxi.github.io/news/znaydeno-idealnyy-instrument-dlya-vibe-kodynhu-chomu-vsi-hovoryat/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 20 Nov 2026 06:20:22 +0000</pubDate>
       <category>Геймінг</category>
       <description>Запуск найочікуванішої гри десятиліття обвалив звичні показники мереж та встановив історичні рекорди на стрімінгових платформах.</description>
-    </item>
-    <item>
-      <title>Motorola детально описує свої плани впровадження Android 17 для 29 телефонів</title>
-      <link>https://yomaxxxi.github.io/news/motorola-detalno-opysuye-svoyi-plany-vprovadzhennya-android-17-dl/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/motorola-detalno-opysuye-svoyi-plany-vprovadzhennya-android-17-dl/</guid>
-      <pubDate>Fri, 20 Nov 2026 05:05:48 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Моторола підтвердила, що дев&#x27;ять існуючих смартфонів вже отримують стабільне оновлення до Android 17. Додаткових 20 смартфонів Edge, Razr і Moto G планують отримати оновлення протягом наступних кількох місяців.</description>
     </item>
   </channel>
 </rss>
