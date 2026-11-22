@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24464,
+      "slug": "alternatyvy-ipad-pro-chotyry-naykrashchi-planshety-dlya-tykh-khto",
+      "title": "Альтернативи iPad Pro: чотири найкращі планшети для тих, хто хоче відмовитися від Apple",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-22T13:40:48Z",
+      "date_formatted": "22 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.engadget.com/img/gallery/4-ipad-pro-alternatives-for-those-looking-to-ditch-apple/l-intro-1794555342.jpg",
+      "image_caption": "Матеріали Engadget / Офіційний реліз",
+      "summary": "Якщо ви втомилися від обмежень закритій екосистеми iPadOS і шукаєте потужний пристрій на іншій платформі, ринок пропонує чимало цікавих конкурентів. Головним візаві Apple у світі Android залишається преміальний планшет від Samsung.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 24438,
       "slug": "tekhnolohiyi-yaki-my-vtratyly-podviyni-audiovykhody",
       "title": "Технології, які ми втратили: Подвійні аудіовиходи",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Apple оновила свою лінійку навушників, і тепер користувачам доводиться обирати між доступнішими базовими моделями та флагманським рішенням з розширеними можливостями. Давайте розберемося, у чому головна різниця між новинками.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Забудьте про складні термінали та нескінченні правок: розробка ПЗ стає доступнішою завдяки новим відкритим інструментам.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://dev.ua/storage/images/48/42/69/94/derived/dd168ad789858e98e4cda06fdfd1544c.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Корпорація Microsoft анонсувала масштабне оновлення на конференції Microsoft Ignite у Сан-Франциско, представивши сім нових моделей штучного інтелекту серії MAI. Новинки спрямовані на посилення позицій компанії в сегменті корпоративних рішень та конкуренцію з провідними гравцями ринку.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 21451,
-      "slug": "samsung-galaxy-a24-otrymuye-onovlennya-one-ui-9-na-bazi-android-1",
-      "title": "Samsung Galaxy A24 отримує оновлення One UI 9 на базі Android 17",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-18T05:21:55Z",
-      "date_formatted": "18 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-a24-one-ui-9-update/-952x498w6/gsmarena_000.jpg",
-      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
-      "summary": "Популярний бюджетний смартфон минулих років офіційно почав отримувати фінальне велике оновлення операційної системи.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:40:48 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Альтернативи iPad Pro: чотири найкращі планшети для тих, хто хоче відмовитися від Apple</title>
+      <link>https://yomaxxxi.github.io/news/alternatyvy-ipad-pro-chotyry-naykrashchi-planshety-dlya-tykh-khto/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/alternatyvy-ipad-pro-chotyry-naykrashchi-planshety-dlya-tykh-khto/</guid>
+      <pubDate>Sun, 22 Nov 2026 13:40:48 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Якщо ви втомилися від обмежень закритій екосистеми iPadOS і шукаєте потужний пристрій на іншій платформі, ринок пропонує чимало цікавих конкурентів. Головним візаві Apple у світі Android залишається преміальний планшет від Samsung.</description>
+    </item>
     <item>
       <title>Технології, які ми втратили: Подвійні аудіовиходи</title>
       <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-podviyni-audiovykhody/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 20 Nov 2026 09:53:04 +0000</pubDate>
       <category>Open Source</category>
       <description>Розробники та креативники часто змушені перемикатися між Notion для текстів і Miro для візуальних схем. AFFiNE вирішує цей біль, об&#x27;єднуючи нотатки, бази даних і нескінченний холст в єдине середовище.</description>
-    </item>
-    <item>
-      <title>Show HN: Interviewer assistant – новий open-source ШІ-асистент для проведення співбесід</title>
-      <link>https://yomaxxxi.github.io/news/show-hn-interviewer-assistant-novyy-open-source-shi-asystent-dlya/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/show-hn-interviewer-assistant-novyy-open-source-shi-asystent-dlya/</guid>
-      <pubDate>Fri, 20 Nov 2026 09:52:37 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Ринок інструментів для найму персоналу поповнився цікавим open-source рішенням. Розробники представили проєкт Interviewer assistant, який інтегрується у відеодзвінки Microsoft Teams та працює як приватний помічник для інтерв&#x27;юера в реальному часі. Бот непомітно долучається до розмови, здійснює транскрипцію та аналізує відповіді кандидатів за допомогою мовних моделей Anthropic Claude та Azure OpenAI.</description>
     </item>
   </channel>
 </rss>
