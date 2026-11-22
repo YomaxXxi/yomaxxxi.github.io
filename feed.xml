@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 07:23:08 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Трагедія та цинізм: огляд фільму «Голодні ігри: Світанок перед Жнивами»</title>
+      <link>https://yomaxxxi.github.io/news/trahediya-ta-tsynizm-ohlyad-filmu-holodni-ihry-svitanok-pered-zhn/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/trahediya-ta-tsynizm-ohlyad-filmu-holodni-ihry-svitanok-pered-zhn/</guid>
+      <pubDate>Sun, 22 Nov 2026 07:23:08 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Новий приквел культової франшизи перетворює знайому передісторію Панему на похмуре, емоційно нищівне та тематично зріле дослідження витоків тоталітаризму.</description>
+    </item>
     <item>
       <title>Amazon проти Міської ради Нью-Йорка: компанія розміщує попередження на посилках</title>
       <link>https://yomaxxxi.github.io/news/amazon-proty-miskoyi-rady-nyu-yorka-kompaniya-rozmishchuye-popere/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 19 Nov 2026 14:25:50 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Розберемо, як за допомогою сучасних AI-асистентів та протоколу MCP (Model Context Protocol) налаштувати безпечне підключення по SSH. Це дозволить давати штучному інтелекту команди для керування сервером (наприклад, Raspberry Pi) без ручного копіювання команд у термінал.</description>
-    </item>
-    <item>
-      <title>Google об&#x27;єднується з Blue Origin для запуску супутників із ШІ</title>
-      <link>https://yomaxxxi.github.io/news/google-obyednuyetsya-z-blue-origin-dlya-zapusku-suputnykiv-iz-shi/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-obyednuyetsya-z-blue-origin-dlya-zapusku-suputnykiv-iz-shi/</guid>
-      <pubDate>Thu, 19 Nov 2026 13:44:02 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Компанія Google уклала стратегічне партнерство з Blue Origin для виведення на орбіту спеціалізованих серверних супутників, які працюватимуть на базі власних процесорів корпорації.</description>
     </item>
   </channel>
 </rss>
