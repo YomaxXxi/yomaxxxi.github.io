@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 22 Nov 2026 13:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:55:29 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Скільки пам&#x27;яті насправді займає Apple Intelligence на iPhone?</title>
+      <link>https://yomaxxxi.github.io/news/skilky-pamyati-naspravdi-zaymaye-apple-intelligence-na-iphone/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/skilky-pamyati-naspravdi-zaymaye-apple-intelligence-na-iphone/</guid>
+      <pubDate>Sun, 22 Nov 2026 14:55:29 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Нові функції штучного інтелекту в iOS 27 пропонують чимало корисних можливостей, проте вони вимагають чимало вільного простору на накопичувачі вашого пристрою.</description>
+    </item>
     <item>
       <title>Альтернативи iPad Pro: чотири найкращі планшети для тих, хто хоче відмовитися від Apple</title>
       <link>https://yomaxxxi.github.io/news/alternatyvy-ipad-pro-chotyry-naykrashchi-planshety-dlya-tykh-khto/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 20 Nov 2026 11:03:31 +0000</pubDate>
       <category>Техніка</category>
       <description>Команда компанії «Починець» представила власний каталог Android-застосунків, створений через брак гнучких інструментів пошуку в офіційних маркетплейсах.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: toeverything/AFFiNE — Потужна open-source та локальна заміна Notion та Miro для документів і дощок</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-toeverythingaffine-potuzhna-open-source-ta-lo/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-toeverythingaffine-potuzhna-open-source-ta-lo/</guid>
-      <pubDate>Fri, 20 Nov 2026 09:53:04 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Розробники та креативники часто змушені перемикатися між Notion для текстів і Miro для візуальних схем. AFFiNE вирішує цей біль, об&#x27;єднуючи нотатки, бази даних і нескінченний холст в єдине середовище.</description>
     </item>
   </channel>
 </rss>

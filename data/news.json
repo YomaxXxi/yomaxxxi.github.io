@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24468,
+      "slug": "skilky-pamyati-naspravdi-zaymaye-apple-intelligence-na-iphone",
+      "title": "Скільки пам'яті насправді займає Apple Intelligence на iPhone?",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-22T14:55:29Z",
+      "date_formatted": "22 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.engadget.com/img/gallery/how-much-storage-does-apple-intelligence-use-on-your-iphone/l-intro-1794596549.jpg",
+      "image_caption": "Матеріали Engadget / Офіційний реліз",
+      "summary": "Нові функції штучного інтелекту в iOS 27 пропонують чимало корисних можливостей, проте вони вимагають чимало вільного простору на накопичувачі вашого пристрою.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 24464,
       "slug": "alternatyvy-ipad-pro-chotyry-naykrashchi-planshety-dlya-tykh-khto",
       "title": "Альтернативи iPad Pro: чотири найкращі планшети для тих, хто хоче відмовитися від Apple",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Якщо ви втомилися від обмежень закритій екосистеми iPadOS і шукаєте потужний пристрій на іншій платформі, ринок пропонує чимало цікавих конкурентів. Головним візаві Apple у світі Android залишається преміальний планшет від Samsung.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Південнокорейський техногігант готує серйозне оновлення інтерфейсу, наближаючи свою фірмову панель сповіщень до рішення від Apple.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/grfdsasdvef/vllm-constrained-decoding-cookbook",
       "github_repo": "grfdsasdvef/vllm-constrained-decoding-cookbook"
-    },
-    {
-      "id": 21443,
-      "slug": "microsoft-predstavyla-liniyku-shi-modeley-dlya-prohramuvannya-ta-",
-      "title": "Microsoft представила лінійку ШІ-моделей для програмування та кібербезпеки",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-18T06:32:15Z",
-      "date_formatted": "18 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/48/42/69/94/derived/dd168ad789858e98e4cda06fdfd1544c.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Корпорація Microsoft анонсувала масштабне оновлення на конференції Microsoft Ignite у Сан-Франциско, представивши сім нових моделей штучного інтелекту серії MAI. Новинки спрямовані на посилення позицій компанії в сегменті корпоративних рішень та конкуренцію з провідними гравцями ринку.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }
