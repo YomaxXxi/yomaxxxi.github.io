@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 22 Nov 2026 09:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:45:42 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Знайдено ідеальний інструмент для vibe-кодингу: чому всі говорять про Dyad</title>
+      <link>https://yomaxxxi.github.io/news/znaydeno-idealnyy-instrument-dlya-vibe-kodynhu-chomu-vsi-hovoryat/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/znaydeno-idealnyy-instrument-dlya-vibe-kodynhu-chomu-vsi-hovoryat/</guid>
+      <pubDate>Sun, 22 Nov 2026 09:45:42 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Забудьте про складні термінали та нескінченні правок: розробка ПЗ стає доступнішою завдяки новим відкритим інструментам.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: elementalsouls/Claude-BugHunter — Потужний набір скілів для Claude Code, що перетворює ШІ на senior-інженера з безпеки та pentester-а</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-elementalsoulsclaude-bughunter-potuzhnyy-nabi/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 20 Nov 2026 05:05:48 +0000</pubDate>
       <category>Техніка</category>
       <description>Моторола підтвердила, що дев&#x27;ять існуючих смартфонів вже отримують стабільне оновлення до Android 17. Додаткових 20 смартфонів Edge, Razr і Moto G планують отримати оновлення протягом наступних кількох місяців.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: firecrawl/firecrawl — Knowledge інфраструктура для перетворення сайтів на LLM-ready дані (замінадорогих SaaS парсерів)</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-firecrawlfirecrawl-knowledge-infrastruktura-d/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-firecrawlfirecrawl-knowledge-infrastruktura-d/</guid>
-      <pubDate>Thu, 19 Nov 2026 16:31:08 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Розробники AI-агентів знають цей біль: щоб дати штучному інтелекту актуальні дані з мережі, доводиться писати криві парсери, боротися з Cloudflare, JS-рендерингом та форматами. Firecrawl вирішує це радикально, перетворюючи будь-який вебсайт на чистий Markdown одним запитом.</description>
     </item>
   </channel>
 </rss>
