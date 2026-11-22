@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 22 Nov 2026 08:42:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:20:02 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: elementalsouls/Claude-BugHunter — Потужний набір скілів для Claude Code, що перетворює ШІ на senior-інженера з безпеки та pentester-а</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-elementalsoulsclaude-bughunter-potuzhnyy-nabi/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-elementalsoulsclaude-bughunter-potuzhnyy-nabi/</guid>
+      <pubDate>Sun, 22 Nov 2026 09:20:02 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Звичайні AI-чати часто плутаються у складних контекстах безпеки та дають загальні поради. Claude-BugHunter закриває цей біль, перетворюючи Claude Code на автономного пентестера та дослідника вразливостей.</description>
+    </item>
     <item>
       <title>ChatGPT «стиснули» для запуску на 16-бітній приставці Super Nintendo</title>
       <link>https://yomaxxxi.github.io/news/chatgpt-stysnuly-dlya-zapusku-na-16-bitniy-prystavtsi-super-ninte/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 19 Nov 2026 16:31:08 +0000</pubDate>
       <category>Open Source</category>
       <description>Розробники AI-агентів знають цей біль: щоб дати штучному інтелекту актуальні дані з мережі, доводиться писати криві парсери, боротися з Cloudflare, JS-рендерингом та форматами. Firecrawl вирішує це радикально, перетворюючи будь-який вебсайт на чистий Markdown одним запитом.</description>
-    </item>
-    <item>
-      <title>JPMorgan Chase підтвердив витік даних через атаку на сторонніх постачальників</title>
-      <link>https://yomaxxxi.github.io/news/jpmorgan-chase-pidtverdyv-vytik-danykh-cherez-ataku-na-storonnikh/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/jpmorgan-chase-pidtverdyv-vytik-danykh-cherez-ataku-na-storonnikh/</guid>
-      <pubDate>Thu, 19 Nov 2026 15:04:14 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Банківський гігант повідомив про кібератаку, яка зачепила маркетингові дані клієнтів, проте наголосив на відсутності зв&#x27;язку з нещодавнім загальним збоєм.</description>
     </item>
   </channel>
 </rss>

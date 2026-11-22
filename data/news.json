@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24351,
+      "slug": "github-perlyna-dnya-elementalsoulsclaude-bughunter-potuzhnyy-nabi",
+      "title": "GitHub-перлина дня: elementalsouls/Claude-BugHunter — Потужний набір скілів для Claude Code, що перетворює ШІ на senior-інженера з безпеки та pentester-а",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-22T09:20:02Z",
+      "date_formatted": "22 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/elementalsouls/Claude-BugHunter",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Звичайні AI-чати часто плутаються у складних контекстах безпеки та дають загальні поради. Claude-BugHunter закриває цей біль, перетворюючи Claude Code на автономного пентестера та дослідника вразливостей.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "github_repo": "elementalsouls/Claude-BugHunter"
+    },
+    {
       "id": 24339,
       "slug": "chatgpt-stysnuly-dlya-zapusku-na-16-bitniy-prystavtsi-super-ninte",
       "title": "ChatGPT «стиснули» для запуску на 16-бітній приставці Super Nintendo",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Ентузіаст та технологічний журналіст Бендж Едвардс переніс мініатюрну мовну модель на культову ігрову консоль 1990-х років.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Amazon знаходить нові способи протистояти ініціативам місцевої влади щодо регулювання доставки.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
       "summary": "Дізнайтеся, як заборонити сервісу використовувати ваші діалоги для навчання штучного інтелекту та вимкнути збереження історії в кілька кліків.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 20911,
-      "slug": "google-hotuye-analoh-iphone-handoff-odyn-nomer-na-dvokh-android-s",
-      "title": "Google готує аналог iPhone Handoff: один номер на двох Android-смартфонах",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-17T14:03:49Z",
-      "date_formatted": "17 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/b/e/334898/be42cca65883b755dee3f04d8918f0ff.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Компанія Google активно працює над власною альтернативою популярній функції екосистеми Apple, яка дозволить значно спростити життя власникам кількох пристроїв.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
