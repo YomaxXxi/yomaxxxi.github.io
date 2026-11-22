@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 21 Nov 2026 16:49:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:18:47 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Amazon проти Міської ради Нью-Йорка: компанія розміщує попередження на посилках</title>
+      <link>https://yomaxxxi.github.io/news/amazon-proty-miskoyi-rady-nyu-yorka-kompaniya-rozmishchuye-popere/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/amazon-proty-miskoyi-rady-nyu-yorka-kompaniya-rozmishchuye-popere/</guid>
+      <pubDate>Sun, 22 Nov 2026 06:18:47 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Amazon знаходить нові способи протистояти ініціативам місцевої влади щодо регулювання доставки.</description>
+    </item>
     <item>
       <title>Легке налаштування: як під&#x27;єднати Apple HomeView за допомогою iPhone</title>
       <link>https://yomaxxxi.github.io/news/lehke-nalashtuvannya-yak-pidyednaty-apple-homeview-za-dopomohoyu-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 19 Nov 2026 13:44:02 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Компанія Google уклала стратегічне партнерство з Blue Origin для виведення на орбіту спеціалізованих серверних супутників, які працюватимуть на базі власних процесорів корпорації.</description>
-    </item>
-    <item>
-      <title>Технології, які ми втратили: ІЧ-порти у телефонах</title>
-      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-ich-porty-u-telefonakh/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-ich-porty-u-telefonakh/</guid>
-      <pubDate>Thu, 19 Nov 2026 12:53:17 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Справжня магія нульових: покласти два телефони «віч-на-віч» на відстані 2 см, затримати подих, щоб не збити з&#x27;єднання, і передати однокласнику новий рингтон чи культову гру Gravity Defied. Це була епоха чистої цифрової романтики.</description>
     </item>
   </channel>
 </rss>
