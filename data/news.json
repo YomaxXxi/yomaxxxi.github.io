@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24438,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-podviyni-audiovykhody",
+      "title": "Технології, які ми втратили: Подвійні аудіовиходи",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-22T12:50:28Z",
+      "date_formatted": "22 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "Пам'ятаєте той магічний час, коли музика була чимось колективним, а не ізольованим у затичках? Інженери культових плеєрів та ранніх медіафонів впроваджували геніальне рішення — другий повноцінний аудіороз'єм 3.5 мм прямо на корпусі пристрою.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 24406,
       "slug": "porivnyannya-apple-airpods-5-ta-airpods-pro-3-klyuchovi-vidminnos",
       "title": "Порівняння Apple AirPods 5 та AirPods Pro 3: ключові відмінності",
@@ -1233,27 +1254,6 @@
       "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-a24-one-ui-9-update/-952x498w6/gsmarena_000.jpg",
       "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
       "summary": "Популярний бюджетний смартфон минулих років офіційно почав отримувати фінальне велике оновлення операційної системи.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 21434,
-      "slug": "byudzhetnyy-iqoo-z12-lite-zasvityvsya-v-google-play-console-shcho",
-      "title": "Бюджетний iQOO Z12 Lite засвітився в Google Play Console: що відомо про новинку",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-18T04:01:42Z",
-      "date_formatted": "18 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/iqoo-z12-lite-google-play-console/-952x498w6/gsmarena_000.jpg",
-      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
-      "summary": "Бренд iQOO готує до релізу новий недорогий смартфон, який нещодавно пройшов сертифікацію та розкрив свої базові параметри.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

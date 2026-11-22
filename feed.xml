@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:13:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:50:28 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Технології, які ми втратили: Подвійні аудіовиходи</title>
+      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-podviyni-audiovykhody/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-podviyni-audiovykhody/</guid>
+      <pubDate>Sun, 22 Nov 2026 12:50:28 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Пам&#x27;ятаєте той магічний час, коли музика була чимось колективним, а не ізольованим у затичках? Інженери культових плеєрів та ранніх медіафонів впроваджували геніальне рішення — другий повноцінний аудіороз&#x27;єм 3.5 мм прямо на корпусі пристрою.</description>
+    </item>
     <item>
       <title>Порівняння Apple AirPods 5 та AirPods Pro 3: ключові відмінності</title>
       <link>https://yomaxxxi.github.io/news/porivnyannya-apple-airpods-5-ta-airpods-pro-3-klyuchovi-vidminnos/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 20 Nov 2026 09:52:37 +0000</pubDate>
       <category>Open Source</category>
       <description>Ринок інструментів для найму персоналу поповнився цікавим open-source рішенням. Розробники представили проєкт Interviewer assistant, який інтегрується у відеодзвінки Microsoft Teams та працює як приватний помічник для інтерв&#x27;юера в реальному часі. Бот непомітно долучається до розмови, здійснює транскрипцію та аналізує відповіді кандидатів за допомогою мовних моделей Anthropic Claude та Azure OpenAI.</description>
-    </item>
-    <item>
-      <title>Google офіційно підтвердила: вбудоване блокування застосунків не з&#x27;явиться на старих версіях Android</title>
-      <link>https://yomaxxxi.github.io/news/google-ofitsiyno-pidtverdyla-vbudovane-blokuvannya-zastosunkiv-ne/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-ofitsiyno-pidtverdyla-vbudovane-blokuvannya-zastosunkiv-ne/</guid>
-      <pubDate>Fri, 20 Nov 2026 09:43:50 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Користувачі, які очікували отримати нативну функцію блокування через сервіси мобілізації, змушені будуть оновлювати систему до актуальних релізів.</description>
     </item>
   </channel>
 </rss>
