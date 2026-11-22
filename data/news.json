@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24516,
+      "slug": "github-perlyna-dnya-xiaoyouchrghost-downloader-3-potuzhnyy-kombay",
+      "title": "GitHub-перлина дня: XiaoYouChR/Ghost-Downloader-3 — потужний комбайн для завантаження файлів, стрімінгу та медіа, що замінює десяток утиліт та дорогих менеджерів завантажень!",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-22T15:50:01Z",
+      "date_formatted": "22 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/XiaoYouChR/Ghost-Downloader-3",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Знайома ситуація: для музики — одна прогу, для відео з YouTube — інша, для торентів — третя, а для масивних датасетів із HuggingFace чи репозиторіїв з GitHub — взагалі костилі в консолі? Цей проєкт закриває весь цей болісний зоопарк софту однією швидкою self-hosted системою. Проєкт стрімко увірвався в тренди завдяки продуманому обходу антибот-систем та неймовірній всеїдності форматів.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "github_repo": "XiaoYouChR/Ghost-Downloader-3"
+    },
+    {
       "id": 24468,
       "slug": "skilky-pamyati-naspravdi-zaymaye-apple-intelligence-na-iphone",
       "title": "Скільки пам'яті насправді займає Apple Intelligence на iPhone?",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Нові функції штучного інтелекту в iOS 27 пропонують чимало корисних можливостей, проте вони вимагають чимало вільного простору на накопичувачі вашого пристрою.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Apple оновила свою лінійку навушників, і тепер користувачам доводиться обирати між доступнішими базовими моделями та флагманським рішенням з розширеними можливостями. Давайте розберемося, у чому головна різниця між новинками.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 21498,
-      "slug": "production-grammar-guided-decoding-u-vllm-revolyutsiya-strukturov",
-      "title": "Production Grammar-Guided Decoding у vLLM: революція структурованого виводу від Snowden SAY Lab",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-18T07:36:49Z",
-      "date_formatted": "18 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/58e942407fd330b63cdcba57ccd897fd19f9820809f2802851af87c1c0043308/grfdsasdvef/vllm-constrained-decoding-cookbook",
-      "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
-      "summary": "Сучасні генеративні моделі все частіше використовуються утилітарно — для автоматизації бізнес-процесів, генерації звітів та парсингу даних, де критично важливим є суворе дотримання формату на кшталт JSON. Проте традиційні інструкції у промптах не гарантують стабільність, призводячи до помилок синтаксису та марної трати обчислювальних ресурсів. Команда Snowden SAY Lab представила новий повноцінний cookbook для високонавантаженого LLM-сервісу на базі vLLM та xgrammar, який розв'язує цю фундаментальну проблему індустрії на рівні архітектури дешевшого та надійнішого інференсу.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/grfdsasdvef/vllm-constrained-decoding-cookbook",
-      "github_repo": "grfdsasdvef/vllm-constrained-decoding-cookbook"
     }
   ]
 }

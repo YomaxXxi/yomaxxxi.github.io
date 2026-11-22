@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 22 Nov 2026 14:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:50:01 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: XiaoYouChR/Ghost-Downloader-3 — потужний комбайн для завантаження файлів, стрімінгу та медіа, що замінює десяток утиліт та дорогих менеджерів завантажень!</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-xiaoyouchrghost-downloader-3-potuzhnyy-kombay/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-xiaoyouchrghost-downloader-3-potuzhnyy-kombay/</guid>
+      <pubDate>Sun, 22 Nov 2026 15:50:01 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Знайома ситуація: для музики — одна прогу, для відео з YouTube — інша, для торентів — третя, а для масивних датасетів із HuggingFace чи репозиторіїв з GitHub — взагалі костилі в консолі? Цей проєкт закриває весь цей болісний зоопарк софту однією швидкою self-hosted системою. Проєкт стрімко увірвався в тренди завдяки продуманому обходу антибот-систем та неймовірній всеїдності форматів.</description>
+    </item>
     <item>
       <title>Скільки пам&#x27;яті насправді займає Apple Intelligence на iPhone?</title>
       <link>https://yomaxxxi.github.io/news/skilky-pamyati-naspravdi-zaymaye-apple-intelligence-na-iphone/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 20 Nov 2026 13:00:11 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Свіжий подкаст від 9to5Mac присвячений гучному інциденту довкола штучного інтелекту від компанії Meta.</description>
-    </item>
-    <item>
-      <title>«Ярмарка»: українська альтернатива Google Play із розширеними фільтрами безпеки</title>
-      <link>https://yomaxxxi.github.io/news/yarmarka-ukrayinska-alternatyva-google-play-iz-rozshyrenymy-filtr/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yarmarka-ukrayinska-alternatyva-google-play-iz-rozshyrenymy-filtr/</guid>
-      <pubDate>Fri, 20 Nov 2026 11:03:31 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Команда компанії «Починець» представила власний каталог Android-застосунків, створений через брак гнучких інструментів пошуку в офіційних маркетплейсах.</description>
     </item>
   </channel>
 </rss>
