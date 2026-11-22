@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24406,
+      "slug": "porivnyannya-apple-airpods-5-ta-airpods-pro-3-klyuchovi-vidminnos",
+      "title": "Порівняння Apple AirPods 5 та AirPods Pro 3: ключові відмінності",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-22T12:13:47Z",
+      "date_formatted": "22 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.engadget.com/img/gallery/apple-airpods-5-vs-airpods-pro-3-what-are-the-key-differences/l-intro-1794426870.jpg",
+      "image_caption": "Матеріали Engadget / Офіційний реліз",
+      "summary": "Apple оновила свою лінійку навушників, і тепер користувачам доводиться обирати між доступнішими базовими моделями та флагманським рішенням з розширеними можливостями. Давайте розберемося, у чому головна різниця між новинками.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 24375,
       "slug": "samsung-pereosmyslyuye-interfeys-analoh-dynamic-island-zyavytsya-",
       "title": "Samsung переосмислює інтерфейс: аналог Dynamic Island з'явиться у серії Galaxy S27",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Південнокорейський техногігант готує серйозне оновлення інтерфейсу, наближаючи свою фірмову панель сповіщень до рішення від Apple.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Звичайні AI-чати часто плутаються у складних контекстах безпеки та дають загальні поради. Claude-BugHunter закриває цей біль, перетворюючи Claude Code на автономного пентестера та дослідника вразливостей.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/elementalsouls/Claude-BugHunter",
       "github_repo": "elementalsouls/Claude-BugHunter"
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 21114,
-      "slug": "github-perlyna-dnya-jingyaogongminimind-navchit-vlasnu-64m-llm-z-",
-      "title": "GitHub-перлина дня: jingyaogong/minimind — Навчіть власну 64M LLM з нуля всього за 2 години замість дорогих курсів та закритих моделей!",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-17T15:52:53Z",
-      "date_formatted": "17 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/jingyaogong/minimind",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Розуміння того, як працюють великі мовні моделі зсередини, часто обмежується складними чорними скриньками або закритими комерційними SaaS-платформами. Цей проєкт вирішує головний біль інженерів — дає покроковий пайплайн, щоб підняти власну міні-модель з нуля без величезних датацентрів.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/jingyaogong/minimind",
-      "github_repo": "jingyaogong/minimind"
     }
   ]
 }

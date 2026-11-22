@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 22 Nov 2026 11:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:13:47 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Порівняння Apple AirPods 5 та AirPods Pro 3: ключові відмінності</title>
+      <link>https://yomaxxxi.github.io/news/porivnyannya-apple-airpods-5-ta-airpods-pro-3-klyuchovi-vidminnos/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/porivnyannya-apple-airpods-5-ta-airpods-pro-3-klyuchovi-vidminnos/</guid>
+      <pubDate>Sun, 22 Nov 2026 12:13:47 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Apple оновила свою лінійку навушників, і тепер користувачам доводиться обирати між доступнішими базовими моделями та флагманським рішенням з розширеними можливостями. Давайте розберемося, у чому головна різниця між новинками.</description>
+    </item>
     <item>
       <title>Samsung переосмислює інтерфейс: аналог Dynamic Island з&#x27;явиться у серії Galaxy S27</title>
       <link>https://yomaxxxi.github.io/news/samsung-pereosmyslyuye-interfeys-analoh-dynamic-island-zyavytsya-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 20 Nov 2026 09:43:50 +0000</pubDate>
       <category>Техніка</category>
       <description>Користувачі, які очікували отримати нативну функцію блокування через сервіси мобілізації, змушені будуть оновлювати систему до актуальних релізів.</description>
-    </item>
-    <item>
-      <title>GTA 6 спричинила рекордний стрибок інтернет-трафіку – стріми зібрали майже 8 млн глядачів</title>
-      <link>https://yomaxxxi.github.io/news/gta-6-sprychynyla-rekordnyy-strybok-internet-trafiku-strimy-zibra/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/gta-6-sprychynyla-rekordnyy-strybok-internet-trafiku-strimy-zibra/</guid>
-      <pubDate>Fri, 20 Nov 2026 06:20:22 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Запуск найочікуванішої гри десятиліття обвалив звичні показники мереж та встановив історичні рекорди на стрімінгових платформах.</description>
     </item>
   </channel>
 </rss>
