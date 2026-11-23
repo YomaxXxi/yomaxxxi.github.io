@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 23 Nov 2026 13:41:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:51:31 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Мікро-ШІ дня: Google NotebookLM — персональна база знань та подкасти з документів</title>
+      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-google-notebooklm-personalna-baza-znan-ta-podkasty/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-google-notebooklm-personalna-baza-znan-ta-podkasty/</guid>
+      <pubDate>Mon, 23 Nov 2026 14:51:31 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Аналіз величезних обсягів документів і книг завжди забирав години часу, а розібратися в складних звітах бувало надзвичайно важко. Цей інструмент повністю замінює Notion AI і за лічені секунди перетворює ваші PDF-файли на інтерактивну базу знань із точними цитатами та генерує повноцінні аудіоподкасти для прослуховування на ходу.</description>
+    </item>
     <item>
       <title>Компанія Reto, відома за проєктами під брендами Kodak, представила новий трекер SlideTag, який поєднує функції пошуку речей та ретро-дизайн класичних 35-мм слайдів.</title>
       <link>https://yomaxxxi.github.io/news/kompaniya-reto-vidoma-za-proyektamy-pid-brendamy-kodak-predstavyl/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 21 Nov 2026 12:04:08 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Більше жодних зникнень куплених книг чи обмежень від Amazon. Розповідаємо, як звільнити свою бібліотеку з Kindle Paperwhite (12th generation) та навчити штучний інтелект розуміти ваші читацькі звички.</description>
-    </item>
-    <item>
-      <title>Новий прорив у стисненні даних: 1 ГБ Вікіпедії стиснуто до 105.39 МБ за допомогою ШІ</title>
-      <link>https://yomaxxxi.github.io/news/novyy-proryv-u-stysnenni-danykh-1-hb-vikipediyi-stysnuto-do-10539/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/novyy-proryv-u-stysnenni-danykh-1-hb-vikipediyi-stysnuto-do-10539/</guid>
-      <pubDate>Sat, 21 Nov 2026 10:05:41 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Дослідник Томмі Хе представив розробку tufazip від Tufa Labs, яка встановила новий стандарт для нейромережевих алгоритмів на бенчмарку Large Text Compression Benchmark.</description>
     </item>
   </channel>
 </rss>
