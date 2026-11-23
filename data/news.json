@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24811,
+      "slug": "github-perlyna-dnya-tracer-cloudopensre-potuzhnyy-ahent-dlya-nadi",
+      "title": "GitHub-перлина дня: Tracer-Cloud/opensre — потужний агент для надійності CI/CD, що автоматично діагностує та лагодить падіння білдів замість дорогих Enterprise-платформ спостережуваності.",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-23T09:20:02Z",
+      "date_formatted": "23 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/Tracer-Cloud/opensre",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Коли ваш CI/CD пайплайн червоніє, він зазвичай повідомляє про сам факт збою, але не пояснює його корінь і тим паче не виправляє його. Під тиском дедлайнів розробники просто тисють кнопку рестарту, накопичуючи технічний борг та захаращуючи мейн. OpenSRE вирішує цей біль як CLI-агент, що самостійно аналізує логи падіння, виявляє причину та генерує готовий до рев'ю патч.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/Tracer-Cloud/opensre",
+      "github_repo": "Tracer-Cloud/opensre"
+    },
+    {
       "id": 24765,
       "slug": "finansy-v-it-44-ukrayinskykh-fakhivtsiv-vytrachayut-use-shcho-zar",
       "title": "Фінанси в IT: 44% українських фахівців витрачають усе, що заробляють або більше",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Нове дослідження ринку праці розкриває реальний стан фінансової подушки українських IT-фахівців у поточних умовах.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Компанія Tesla почала розгортання масштабного оновлення FSD v15, головною фішкою якого стала революційна візуалізація Reality View. Ілон Маск одразу порівняв її інтерфейс із популярною відеоігрою.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-blue.jpg?quality=82&strip=all&resize=1200,628",
       "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
       "summary": "Apple готується змінити звичний річний графік виходу смартфонів, перенісши анонс доступніших моделей на весну.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 21759,
-      "slug": "olx-zaprovadzhuye-veryfikatsiyu-prodavtsiv-cherez-diyu-shcho-zmin",
-      "title": "OLX запроваджує верифікацію продавців через «Дію»: що зміниться з 1 січня 2027 року",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-18T12:23:25Z",
-      "date_formatted": "18 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/24/00/15/59/derived/a39b11d405b428ab682f680c9a32a742.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Майданчик оголосив про масштабні зміни для користувачів сервісу на виконання нового законодавства щодо оподаткування доходів на цифрових платформах.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

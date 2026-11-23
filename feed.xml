@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 23 Nov 2026 08:27:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:20:02 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: Tracer-Cloud/opensre — потужний агент для надійності CI/CD, що автоматично діагностує та лагодить падіння білдів замість дорогих Enterprise-платформ спостережуваності.</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-tracer-cloudopensre-potuzhnyy-ahent-dlya-nadi/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-tracer-cloudopensre-potuzhnyy-ahent-dlya-nadi/</guid>
+      <pubDate>Mon, 23 Nov 2026 09:20:02 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Коли ваш CI/CD пайплайн червоніє, він зазвичай повідомляє про сам факт збою, але не пояснює його корінь і тим паче не виправляє його. Під тиском дедлайнів розробники просто тисють кнопку рестарту, накопичуючи технічний борг та захаращуючи мейн. OpenSRE вирішує цей біль як CLI-агент, що самостійно аналізує логи падіння, виявляє причину та генерує готовий до рев&#x27;ю патч.</description>
+    </item>
     <item>
       <title>Фінанси в IT: 44% українських фахівців витрачають усе, що заробляють або більше</title>
       <link>https://yomaxxxi.github.io/news/finansy-v-it-44-ukrayinskykh-fakhivtsiv-vytrachayut-use-shcho-zar/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 21 Nov 2026 06:15:24 +0000</pubDate>
       <category>Техніка</category>
       <description>Американський стартап GG Technologies звернувся до суду в Індії з вимогою стягнути з корпорації Apple ₹15 мільярдів (близько $161.86 мільйона) через нібито порушення патентних прав.</description>
-    </item>
-    <item>
-      <title>Чи варто купувати Samsung Galaxy S26 Ultra наприкінці 2026 року?</title>
-      <link>https://yomaxxxi.github.io/news/chy-varto-kupuvaty-samsung-galaxy-s26-ultra-naprykintsi-2026-roku/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/chy-varto-kupuvaty-samsung-galaxy-s26-ultra-naprykintsi-2026-roku/</guid>
-      <pubDate>Sat, 21 Nov 2026 04:05:48 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Флагманський смартфон від Samsung залишається одним із найкращих виборів на ринку завдяки зрілому залізу, довгій підтримці та унікальним програмним фішкам на базі One UI 9 та Android 17.</description>
     </item>
   </channel>
 </rss>
