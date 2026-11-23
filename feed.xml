@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:28:08 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Локальний суперкомп&#x27;ютер: ентузіаст під&#x27;єднав чотири Nvidia V100 до міні-ПК Lenovo</title>
+      <link>https://yomaxxxi.github.io/news/lokalnyy-superkompyuter-entuziast-pidyednav-chotyry-nvidia-v100-d/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/lokalnyy-superkompyuter-entuziast-pidyednav-chotyry-nvidia-v100-d/</guid>
+      <pubDate>Mon, 23 Nov 2026 09:28:08 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Ентузіаст Майкл зібрав унікальну домашню систему для локального запуску штучного інтелекту, об&#x27;єднавши компактний десктоп та чотири серверні відеокарти із загальним об&#x27;ємом відеопам&#x27;яті у 128 ГБ VRAM.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: Tracer-Cloud/opensre — потужний агент для надійності CI/CD, що автоматично діагностує та лагодить падіння білдів замість дорогих Enterprise-платформ спостережуваності.</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-tracer-cloudopensre-potuzhnyy-ahent-dlya-nadi/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 21 Nov 2026 07:34:43 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Компанія випустила масштабний редизайн мобільного клієнта з новою нижньою панеллю.</description>
-    </item>
-    <item>
-      <title>Судовий позов проти Apple: стартап вимагає мільйони в Індії</title>
-      <link>https://yomaxxxi.github.io/news/sudovyy-pozov-proty-apple-startap-vymahaye-milyony-v-indiyi/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/sudovyy-pozov-proty-apple-startap-vymahaye-milyony-v-indiyi/</guid>
-      <pubDate>Sat, 21 Nov 2026 06:15:24 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Американський стартап GG Technologies звернувся до суду в Індії з вимогою стягнути з корпорації Apple ₹15 мільярдів (близько $161.86 мільйона) через нібито порушення патентних прав.</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24810,
+      "slug": "lokalnyy-superkompyuter-entuziast-pidyednav-chotyry-nvidia-v100-d",
+      "title": "Локальний суперкомп'ютер: ентузіаст під'єднав чотири Nvidia V100 до міні-ПК Lenovo",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-23T09:28:08Z",
+      "date_formatted": "23 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.mos.cms.futurecdn.net/5ZyMS8WJrHKpGBjgF6DXxn-1456-80.jpg",
+      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
+      "summary": "Ентузіаст Майкл зібрав унікальну домашню систему для локального запуску штучного інтелекту, об'єднавши компактний десктоп та чотири серверні відеокарти із загальним об'ємом відеопам'яті у 128 ГБ VRAM.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 24811,
       "slug": "github-perlyna-dnya-tracer-cloudopensre-potuzhnyy-ahent-dlya-nadi",
       "title": "GitHub-перлина дня: Tracer-Cloud/opensre — потужний агент для надійності CI/CD, що автоматично діагностує та лагодить падіння білдів замість дорогих Enterprise-платформ спостережуваності.",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Коли ваш CI/CD пайплайн червоніє, він зазвичай повідомляє про сам факт збою, але не пояснює його корінь і тим паче не виправляє його. Під тиском дедлайнів розробники просто тисють кнопку рестарту, накопичуючи технічний борг та захаращуючи мейн. OpenSRE вирішує цей біль як CLI-агент, що самостійно аналізує логи падіння, виявляє причину та генерує готовий до рев'ю патч.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/Tracer-Cloud/opensre",
       "github_repo": "Tracer-Cloud/opensre"
@@ -59,7 +80,7 @@
       "summary": "Питання безпеки та захисту персональних даних під час взаємодії зі штучним інтелектом залишається одним із найгостріших для розробників та компаній. Відправлення нефільтрованого коду, ключів доступу чи особистої інформації до хмарних мовних моделей несе критичні ризики витоку. Новий проєкт PromptShield пропонує локальне рішення цієї проблеми, забезпечуючи надійну деінтифікацію конфіденційних даних перед їх обробкою у великих мовних моделях.",
       "reading_time": "3 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/UZtFBUeKKRZ43cjULRJMNU-1600-80.jpg",
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "Rockstar Games розкрила перші офіційні технічні деталі головного блокбастера десятиліття — GTA VI.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 21832,
-      "slug": "novi-hrafiky-reliziv-koly-chekaty-na-iphone-18-ta-iphone-air-2",
-      "title": "Нові графіки релізів: коли чекати на iPhone 18 та iPhone Air 2",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-18T13:34:12Z",
-      "date_formatted": "18 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-blue.jpg?quality=82&strip=all&resize=1200,628",
-      "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
-      "summary": "Apple готується змінити звичний річний графік виходу смартфонів, перенісши анонс доступніших моделей на весну.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
