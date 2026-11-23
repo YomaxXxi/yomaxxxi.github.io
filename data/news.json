@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 25193,
+      "slug": "github-perlyna-dnya-zhouxiaokaautoclip-potuzhnyy-open-source-desk",
+      "title": "GitHub-перлина дня: zhouxiaoka/autoclip — потужний open-source десктопний інструмент для автоматичного монтажу та перепрофілювання довгих відео за допомогою AI",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-23T15:50:02Z",
+      "date_formatted": "23 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/zhouxiaoka/autoclip",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Монтаж довгих подкастів, інтерв'ю чи лекцій у короткі вірусні ролки для TikTok, Reels та YouTube Shorts забирає години ручної праці. Проєкт AutoClip закриває цей біль, автоматично перетворюючи лонгріди на серію якісних вертикальних відео згенерованими субтитрами, обкладинками та готовими описами.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/zhouxiaoka/autoclip",
+      "github_repo": "zhouxiaoka/autoclip"
+    },
+    {
       "id": 25127,
       "slug": "mikro-shi-dnya-google-notebooklm-personalna-baza-znan-ta-podkasty",
       "title": "Мікро-ШІ дня: Google NotebookLM — персональна база знань та подкасти з документів",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
       "summary": "Аналіз величезних обсягів документів і книг завжди забирав години часу, а розібратися в складних звітах бувало надзвичайно важко. Цей інструмент повністю замінює Notion AI і за лічені секунди перетворює ваші PDF-файли на інтерактивну базу знань із точними цитатами та генерує повноцінні аудіоподкасти для прослуховування на ходу.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Новий безплатний інструмент допомагає уникнути перегріву та плавлення кабелів живлення на потужних відеокартах.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/grfdsasdvef/awesome-ebpf-linux-tracing",
       "github_repo": "grfdsasdvef/awesome-ebpf-linux-tracing"
-    },
-    {
-      "id": 22395,
-      "slug": "entsyklopediya-lakuzy-yak-ukrayintsi-systematyzuyut-dani-pro-okup",
-      "title": "Енциклопедія «Лакузи»: як українці систематизують дані про окупантів за допомогою Python та AI",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-19T07:13:20Z",
-      "date_formatted": "19 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/38/80/29/77/derived/751dd8d69566f39e9d3e8d2759b993e9.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Команда українських розробників та дослідників запустила онлайн-енциклопедію «Лакузи», яка збирає та структурує інформацію про осіб, що сприяють російській імперській та колоніальній політиці на тимчасово окупованих територіях України. У базі проєкту вже налічується понад 2200 досьє, а для їх опрацювання та генерації платформи використано сучасний технологічний стек.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }

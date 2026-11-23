@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 23 Nov 2026 14:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:50:02 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: zhouxiaoka/autoclip — потужний open-source десктопний інструмент для автоматичного монтажу та перепрофілювання довгих відео за допомогою AI</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-zhouxiaokaautoclip-potuzhnyy-open-source-desk/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-zhouxiaokaautoclip-potuzhnyy-open-source-desk/</guid>
+      <pubDate>Mon, 23 Nov 2026 15:50:02 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Монтаж довгих подкастів, інтерв&#x27;ю чи лекцій у короткі вірусні ролки для TikTok, Reels та YouTube Shorts забирає години ручної праці. Проєкт AutoClip закриває цей біль, автоматично перетворюючи лонгріди на серію якісних вертикальних відео згенерованими субтитрами, обкладинками та готовими описами.</description>
+    </item>
     <item>
       <title>Мікро-ШІ дня: Google NotebookLM — персональна база знань та подкасти з документів</title>
       <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-google-notebooklm-personalna-baza-znan-ta-podkasty/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 21 Nov 2026 12:50:33 +0000</pubDate>
       <category>Техніка</category>
       <description>Пам&#x27;ятаєте цей божественний звук клацання металу? Зсувна шторка на тильній панелі Sony Ericsson K750i чи Nokia N73 була справжнім фетишем епохи. Вона перетворювала звичайну «дзвонилку» на брутальний компакт-камеру.</description>
-    </item>
-    <item>
-      <title>Вихід з екосистеми Amazon: як автор об&#x27;єднав Kindle, Calibre-Web та Claude для аналізу книг</title>
-      <link>https://yomaxxxi.github.io/news/vykhid-z-ekosystemy-amazon-yak-avtor-obyednav-kindle-calibre-web-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/vykhid-z-ekosystemy-amazon-yak-avtor-obyednav-kindle-calibre-web-/</guid>
-      <pubDate>Sat, 21 Nov 2026 12:04:08 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Більше жодних зникнень куплених книг чи обмежень від Amazon. Розповідаємо, як звільнити свою бібліотеку з Kindle Paperwhite (12th generation) та навчити штучний інтелект розуміти ваші читацькі звички.</description>
     </item>
   </channel>
 </rss>
