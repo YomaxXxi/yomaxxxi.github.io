@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:47:14 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>«Плакати — це нормально»: українська розробниця створила унікальний трекер Sob Story</title>
+      <link>https://yomaxxxi.github.io/news/plakaty-tse-normalno-ukrayinska-rozrobnytsya-stvoryla-unikalnyy-t/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/plakaty-tse-normalno-ukrayinska-rozrobnytsya-stvoryla-unikalnyy-t/</guid>
+      <pubDate>Mon, 23 Nov 2026 10:47:14 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Product Motion Illustrator Тетяна Климань презентувала новий застосунок для iPhone під назвою Sob Story, який допомагає відстежувати емоційний стан та фіксувати причини сліз без зайвого стресу та реєстрацій.</description>
+    </item>
     <item>
       <title>Локальний суперкомп&#x27;ютер: ентузіаст під&#x27;єднав чотири Nvidia V100 до міні-ПК Lenovo</title>
       <link>https://yomaxxxi.github.io/news/lokalnyy-superkompyuter-entuziast-pidyednav-chotyry-nvidia-v100-d/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 21 Nov 2026 07:52:00 +0000</pubDate>
       <category>Open Source</category>
       <description>Сучасна індустрія розробки ШІ-агентів потребує все більше мультимодальних даних для тестування та інтеграції. Ентузіасти та розробники часто стикаються з проблемою пошуку конкретних відеофрагментів за текстовими репліками. Тепер для цього з&#x27;явився спеціалізований інструмент командного рядка scene-finder, який автоматизує пошук та завантаження кінокліпів напряму з бази clip.cafe за звичайними діалогами.</description>
-    </item>
-    <item>
-      <title>Anthropic оновила інтерфейс мобільного застосунку Claude</title>
-      <link>https://yomaxxxi.github.io/news/anthropic-onovyla-interfeys-mobilnoho-zastosunku-claude/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/anthropic-onovyla-interfeys-mobilnoho-zastosunku-claude/</guid>
-      <pubDate>Sat, 21 Nov 2026 07:34:43 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Компанія випустила масштабний редизайн мобільного клієнта з новою нижньою панеллю.</description>
     </item>
   </channel>
 </rss>
