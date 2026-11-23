@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 22 Nov 2026 15:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:42:13 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Як очистити кеш на Google TV: інструкція для прискорення системи</title>
+      <link>https://yomaxxxi.github.io/news/yak-ochystyty-kesh-na-google-tv-instruktsiya-dlya-pryskorennya-sy/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yak-ochystyty-kesh-na-google-tv-instruktsiya-dlya-pryskorennya-sy/</guid>
+      <pubDate>Mon, 23 Nov 2026 04:42:13 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Більшість пристроїв на базі Google TV мають обмежений обсяг пам&#x27;яті, через що управління кешем є критично важливим для стабільної роботи.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: XiaoYouChR/Ghost-Downloader-3 — потужний комбайн для завантаження файлів, стрімінгу та медіа, що замінює десяток утиліт та дорогих менеджерів завантажень!</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-xiaoyouchrghost-downloader-3-potuzhnyy-kombay/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 20 Nov 2026 15:10:07 +0000</pubDate>
       <category>Геймінг</category>
       <description>Українська студія GSC Game World відзначає другу річницю з моменту релізу шутера «S.T.A.L.K.E.R. 2: Серце Чорнобиля», який вийшов 20 листопада 2024 року. За два роки проєкт пройшов шлях від релізної версії 1.0 до патчу 2.1, вийшов на PlayStation 5, переїхав на оновлену версію рушія Unreal Engine 5 та отримав перше сюжетне доповнення.</description>
-    </item>
-    <item>
-      <title>Security Bite: проблеми приватності Meta Muse та їхні наслідки</title>
-      <link>https://yomaxxxi.github.io/news/security-bite-problemy-pryvatnosti-meta-muse-ta-yikhni-naslidky/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/security-bite-problemy-pryvatnosti-meta-muse-ta-yikhni-naslidky/</guid>
-      <pubDate>Fri, 20 Nov 2026 13:00:11 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Свіжий подкаст від 9to5Mac присвячений гучному інциденту довкола штучного інтелекту від компанії Meta.</description>
     </item>
   </channel>
 </rss>

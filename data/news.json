@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24701,
+      "slug": "yak-ochystyty-kesh-na-google-tv-instruktsiya-dlya-pryskorennya-sy",
+      "title": "Як очистити кеш на Google TV: інструкція для прискорення системи",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-23T04:42:13Z",
+      "date_formatted": "23 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.engadget.com/img/gallery/how-to-clear-your-cache-on-google-tv/l-intro-1794808574.jpg",
+      "image_caption": "Матеріали Engadget / Офіційний реліз",
+      "summary": "Більшість пристроїв на базі Google TV мають обмежений обсяг пам'яті, через що управління кешем є критично важливим для стабільної роботи.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 24516,
       "slug": "github-perlyna-dnya-xiaoyouchrghost-downloader-3-potuzhnyy-kombay",
       "title": "GitHub-перлина дня: XiaoYouChR/Ghost-Downloader-3 — потужний комбайн для завантаження файлів, стрімінгу та медіа, що замінює десяток утиліт та дорогих менеджерів завантажень!",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Знайома ситуація: для музики — одна прогу, для відео з YouTube — інша, для торентів — третя, а для масивних датасетів із HuggingFace чи репозиторіїв з GitHub — взагалі костилі в консолі? Цей проєкт закриває весь цей болісний зоопарк софту однією швидкою self-hosted системою. Проєкт стрімко увірвався в тренди завдяки продуманому обходу антибот-систем та неймовірній всеїдності форматів.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
       "github_repo": "XiaoYouChR/Ghost-Downloader-3"
@@ -59,7 +80,7 @@
       "summary": "Якщо ви втомилися від обмежень закритій екосистеми iPadOS і шукаєте потужний пристрій на іншій платформі, ринок пропонує чимало цікавих конкурентів. Головним візаві Apple у світі Android залишається преміальний планшет від Samsung.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-16-copy.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "image_caption": "Матеріали The Verge / Офіційний реліз",
       "summary": "Студія Rockstar готує до релізу Grand Theft Auto VI, яка обіцяє стати найбільшим проєктом в історії франшизи. Головна особливість гри — фокус на романтичних стосунках між двома злочинцями на ім'я Jason та Lucia, які закохуються після спільного викрадання автомобіля.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 21483,
-      "slug": "shi-vid-openai-vyyavyv-krytychnu-vrazlyvist-u-java-pid-zahrozoyu-",
-      "title": "ШІ від OpenAI виявив критичну вразливість у Java: під загрозою мільйони систем",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-18T07:49:45Z",
-      "date_formatted": "18 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/65/12/89/29/derived/27e1c635d9eff2f9cd696f801632a831.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Модель штучного інтелекту GPT-6 Cyber допомогла виявити небезпечну брешь у популярній мові програмування.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
