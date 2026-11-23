@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 23 Nov 2026 12:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 13:41:08 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Компанія Reto, відома за проєктами під брендами Kodak, представила новий трекер SlideTag, який поєднує функції пошуку речей та ретро-дизайн класичних 35-мм слайдів.</title>
+      <link>https://yomaxxxi.github.io/news/kompaniya-reto-vidoma-za-proyektamy-pid-brendamy-kodak-predstavyl/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/kompaniya-reto-vidoma-za-proyektamy-pid-brendamy-kodak-predstavyl/</guid>
+      <pubDate>Mon, 23 Nov 2026 13:41:08 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Огляд найважливіших деталей, фактів та експертної аналітики від редакції Polyvanyi News.</description>
+    </item>
     <item>
       <title>Технології, які ми втратили: Сонячні панелі на задній кришці</title>
       <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-sonyachni-paneli-na-zadniy-kryshtsi/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 21 Nov 2026 10:05:41 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Дослідник Томмі Хе представив розробку tufazip від Tufa Labs, яка встановила новий стандарт для нейромережевих алгоритмів на бенчмарку Large Text Compression Benchmark.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: nginx/nginx — Офіційний репозиторій легендарного вебсервера та зворотного проксі</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-nginxnginx-ofitsiynyy-repozytoriy-lehendarnoh/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-nginxnginx-ofitsiynyy-repozytoriy-lehendarnoh/</guid>
-      <pubDate>Sat, 21 Nov 2026 09:22:50 +0000</pubDate>
-      <category>Open Source</category>
-      <description>NGINX — це абсолютний фундамент сучасного інтернету, який слугує найпопулярнішим вебсервером, високопродуктивним балансувальником навантаження, зворотним проксі (reverse proxy) та API Gateway. Проєкт закриває потреби у швидкій обробці мільйонів з&#x27;єднань одночасно.</description>
     </item>
   </channel>
 </rss>

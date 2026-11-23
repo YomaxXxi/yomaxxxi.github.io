@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 25017,
+      "slug": "kompaniya-reto-vidoma-za-proyektamy-pid-brendamy-kodak-predstavyl",
+      "title": "Компанія Reto, відома за проєктами під брендами Kodak, представила новий трекер SlideTag, який поєднує функції пошуку речей та ретро-дизайн класичних 35-мм слайдів.",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-23T13:41:08Z",
+      "date_formatted": "23 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/kodak-slidetag-1.jpg?quality=82&strip=all&resize=1200,628",
+      "image_caption": "Матеріали 9to5Google (Android & Google) / Офіційний реліз",
+      "summary": "Огляд найважливіших деталей, фактів та експертної аналітики від редакції Polyvanyi News.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 25001,
       "slug": "tekhnolohiyi-yaki-my-vtratyly-sonyachni-paneli-na-zadniy-kryshtsi",
       "title": "Технології, які ми втратили: Сонячні панелі на задній кришці",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "Новий безплатний інструмент допомагає уникнути перегріву та плавлення кабелів живлення на потужних відеокартах.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Ентузіаст Майкл зібрав унікальну домашню систему для локального запуску штучного інтелекту, об'єднавши компактний десктоп та чотири серверні відеокарти із загальним об'ємом відеопам'яті у 128 ГБ VRAM.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://fdn.gsmarena.com/imgroot/news/26/11/motorola-edge-70-neo-launch-date-specs/-952x498w6/gsmarena_000.jpg",
       "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
       "summary": "Вчора Motorola почала намагатися наступний Edge 70 Neo, розкриваючи офіційну дату виходу телефону, який стане 24 листопада. Пізніше Motorola також підтвердила, що головна камера використовує сенсор Sony Lytia 710 з роздільною здатністю 50МП.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 22338,
-      "slug": "honor-pidtverdyla-liniyku-smartfoniv-magic9-dlya-rynku-velykoyi-b",
-      "title": "Honor підтвердила лінійку смартфонів Magic9 для ринку Великої Британії",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-19T04:33:12Z",
-      "date_formatted": "19 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/honor-magic9-series-uk-revealed/-952x498w6/gsmarena_000.jpg",
-      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
-      "summary": "Компанія Honor офіційно розкрила плани щодо виходу нової серії пристроїв на британський ринок. Старт продажів заплановано на січень, а покупці зможуть обрати між двома новими моделями.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
