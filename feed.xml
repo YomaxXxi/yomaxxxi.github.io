@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:57:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:50:28 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Технології, які ми втратили: Сонячні панелі на задній кришці</title>
+      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-sonyachni-paneli-na-zadniy-kryshtsi/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-sonyachni-paneli-na-zadniy-kryshtsi/</guid>
+      <pubDate>Mon, 23 Nov 2026 12:50:28 +0000</pubDate>
+      <category>Техніка</category>
+      <description>У золоту еру експериментів компанії намагалися зробити мобільні пристрої енергонезалежними. Пам&#x27;ятаєте Samsung Blue Earth чи Puma Phone? Ідея була фантастичною: телефон просто лежить на столику кав&#x27;ярні чи панелі авто і наповнюється енергією від сонця.</description>
+    </item>
     <item>
       <title>Захист для заліза: представлено додаток RTX Lens для моніторингу 16-пінових роз&#x27;ємів</title>
       <link>https://yomaxxxi.github.io/news/zakhyst-dlya-zaliza-predstavleno-dodatok-rtx-lens-dlya-monitorynh/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 21 Nov 2026 09:22:50 +0000</pubDate>
       <category>Open Source</category>
       <description>NGINX — це абсолютний фундамент сучасного інтернету, який слугує найпопулярнішим вебсервером, високопродуктивним балансувальником навантаження, зворотним проксі (reverse proxy) та API Gateway. Проєкт закриває потреби у швидкій обробці мільйонів з&#x27;єднань одночасно.</description>
-    </item>
-    <item>
-      <title>Розробник-одинак створює з нуля операційну систему Impossible OS із підтримкою програм для Windows та Linux</title>
-      <link>https://yomaxxxi.github.io/news/rozrobnyk-odynak-stvoryuye-z-nulya-operatsiynu-systemu-impossible/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/rozrobnyk-odynak-stvoryuye-z-nulya-operatsiynu-systemu-impossible/</guid>
-      <pubDate>Sat, 21 Nov 2026 08:53:00 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Південноафриканський розробник та підприємець Дерік Пейн працює над амбітним проєктом Impossible OS — новою платформою для ПК на архітектурі x86-64, яку він пише повністю самотужки.</description>
     </item>
   </channel>
 </rss>

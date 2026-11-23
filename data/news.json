@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 25001,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-sonyachni-paneli-na-zadniy-kryshtsi",
+      "title": "Технології, які ми втратили: Сонячні панелі на задній кришці",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-23T12:50:28Z",
+      "date_formatted": "23 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "У золоту еру експериментів компанії намагалися зробити мобільні пристрої енергонезалежними. Пам'ятаєте Samsung Blue Earth чи Puma Phone? Ідея була фантастичною: телефон просто лежить на столику кав'ярні чи панелі авто і наповнюється енергією від сонця.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 24924,
       "slug": "zakhyst-dlya-zaliza-predstavleno-dodatok-rtx-lens-dlya-monitorynh",
       "title": "Захист для заліза: представлено додаток RTX Lens для моніторингу 16-пінових роз'ємів",
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 22037,
-      "slug": "github-perlyna-dnya-astral-shuv-ultrashvydkyy-menedzher-paketiv-t",
-      "title": "GitHub-перлина дня: astral-sh/uv — ультрашвидкий менеджер пакетів та проєктів Python, написаний на Rust, що повністю замінює pip, poetry, pyenv та virtualenv",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-18T16:23:22Z",
-      "date_formatted": "18 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/astral-sh/uv",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Екосистема Python історично страждає від повільності стандартних інструментів на зразок pip та складності управління версіями через pyenv чи poetry. Команда Astral створила універсальну заміну, яка виконує операції встановлення в десятки разів швидше завдяки низькорівневій оптимізації на Rust. Проєкт стрімко завірусився, оскільки повністю позбавляє розробників болю зі старого важкого пайплайну.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/astral-sh/uv",
-      "github_repo": "astral-sh/uv"
     }
   ]
 }
