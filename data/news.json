@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 24924,
+      "slug": "zakhyst-dlya-zaliza-predstavleno-dodatok-rtx-lens-dlya-monitorynh",
+      "title": "Захист для заліза: представлено додаток RTX Lens для моніторингу 16-пінових роз'ємів",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-23T11:57:27Z",
+      "date_formatted": "23 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.mos.cms.futurecdn.net/rbu2h6JFJkeByAw3SJAbrg-2500-80.jpg",
+      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
+      "summary": "Новий безплатний інструмент допомагає уникнути перегріву та плавлення кабелів живлення на потужних відеокартах.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 24857,
       "slug": "plakaty-tse-normalno-ukrayinska-rozrobnytsya-stvoryla-unikalnyy-t",
       "title": "«Плакати — це нормально»: українська розробниця створила унікальний трекер Sob Story",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Product Motion Illustrator Тетяна Климань презентувала новий застосунок для iPhone під назвою Sob Story, який допомагає відстежувати емоційний стан та фіксувати причини сліз без зайвого стресу та реєстрацій.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Коли ваш CI/CD пайплайн червоніє, він зазвичай повідомляє про сам факт збою, але не пояснює його корінь і тим паче не виправляє його. Під тиском дедлайнів розробники просто тисють кнопку рестарту, накопичуючи технічний борг та захаращуючи мейн. OpenSRE вирішує цей біль як CLI-агент, що самостійно аналізує логи падіння, виявляє причину та генерує готовий до рев'ю патч.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/Tracer-Cloud/opensre",
       "github_repo": "Tracer-Cloud/opensre"
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/astral-sh/uv",
       "github_repo": "astral-sh/uv"
-    },
-    {
-      "id": 21930,
-      "slug": "mikro-shi-dnya-flux1-by-black-forest-labs-heneratsiya-fotorealist",
-      "title": "Мікро-ШІ дня: Flux.1 by Black Forest Labs — Генерація фотореалістичних кадрів із текстом",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-18T14:53:46Z",
-      "date_formatted": "18 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://og-api.replicateassets.com/api/models/black-forest-labs/flux-schnell",
-      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
-      "summary": "Створення якісної графіки часто впирається в те, що нейромережі малюють жахливу абракадабру замість літер на вивісках чи футболках. Цей інструмент повністю вирішує проблему генерації читабельного тексту всередині картинок без складних промптів та очікування черг у Discord.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }

@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:47:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:57:27 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Захист для заліза: представлено додаток RTX Lens для моніторингу 16-пінових роз&#x27;ємів</title>
+      <link>https://yomaxxxi.github.io/news/zakhyst-dlya-zaliza-predstavleno-dodatok-rtx-lens-dlya-monitorynh/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/zakhyst-dlya-zaliza-predstavleno-dodatok-rtx-lens-dlya-monitorynh/</guid>
+      <pubDate>Mon, 23 Nov 2026 11:57:27 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Новий безплатний інструмент допомагає уникнути перегріву та плавлення кабелів живлення на потужних відеокартах.</description>
+    </item>
     <item>
       <title>«Плакати — це нормально»: українська розробниця створила унікальний трекер Sob Story</title>
       <link>https://yomaxxxi.github.io/news/plakaty-tse-normalno-ukrayinska-rozrobnytsya-stvoryla-unikalnyy-t/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 21 Nov 2026 08:53:00 +0000</pubDate>
       <category>Техніка</category>
       <description>Південноафриканський розробник та підприємець Дерік Пейн працює над амбітним проєктом Impossible OS — новою платформою для ПК на архітектурі x86-64, яку він пише повністю самотужки.</description>
-    </item>
-    <item>
-      <title>Новий CLI-інструмент дозволяє агентам завантажувати кінокліпи за цитатами з діалогів</title>
-      <link>https://yomaxxxi.github.io/news/novyy-cli-instrument-dozvolyaye-ahentam-zavantazhuvaty-kinoklipy-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/novyy-cli-instrument-dozvolyaye-ahentam-zavantazhuvaty-kinoklipy-/</guid>
-      <pubDate>Sat, 21 Nov 2026 07:52:00 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Сучасна індустрія розробки ШІ-агентів потребує все більше мультимодальних даних для тестування та інтеграції. Ентузіасти та розробники часто стикаються з проблемою пошуку конкретних відеофрагментів за текстовими репліками. Тепер для цього з&#x27;явився спеціалізований інструмент командного рядка scene-finder, який автоматизує пошук та завантаження кінокліпів напряму з бази clip.cafe за звичайними діалогами.</description>
     </item>
   </channel>
 </rss>
