@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:09:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:19:44 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Наче у GTA: Tesla додала у систему FSD фотореалістичний вид від третьої особи</title>
+      <link>https://yomaxxxi.github.io/news/nache-u-gta-tesla-dodala-u-systemu-fsd-fotorealistychnyy-vyd-vid-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/nache-u-gta-tesla-dodala-u-systemu-fsd-fotorealistychnyy-vyd-vid-/</guid>
+      <pubDate>Mon, 23 Nov 2026 07:19:44 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Компанія Tesla почала розгортання масштабного оновлення FSD v15, головною фішкою якого стала революційна візуалізація Reality View. Ілон Маск одразу порівняв її інтерфейс із популярною відеоігрою.</description>
+    </item>
     <item>
       <title>Google закриває застосунок Nest та класичного Google Assistant</title>
       <link>https://yomaxxxi.github.io/news/google-zakryvaye-zastosunok-nest-ta-klasychnoho-google-assistant/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 20 Nov 2026 16:07:56 +0000</pubDate>
       <category>Open Source</category>
       <description>Розробники втомилися від утилітарного, потворного дизайну діаграм у Mermaid та важких платних SaaS-інструментів на кшталт Lucidchart чи Miro для простих схематичних задач. Проєкт закриває одвічний біль візуалізації архітектури прямо через AI-агентів.</description>
-    </item>
-    <item>
-      <title>Мікро-ШІ дня: ElevenLabs Reader — перетворює будь-який текст на живу розмовну мову з емоціями за 60 секунд</title>
-      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-elevenlabs-reader-peretvoryuye-bud-yakyy-tekst-na-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-elevenlabs-reader-peretvoryuye-bud-yakyy-tekst-na-/</guid>
-      <pubDate>Fri, 20 Nov 2026 15:27:47 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Перетворення довгих статей, навчальних матеріалів та книг у якісне аудіо раніше вимагало дорогих платних підписок та складних редакторів. Цей інструмент робить процес миттєвим, озвучуючи документи природними голосами прямо на вашому пристрої.</description>
     </item>
   </channel>
 </rss>
