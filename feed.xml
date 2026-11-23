@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:19:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:49:20 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>PromptShield: локальний інструмент для зворотного приховування конфіденційних даних у запитах до LLM</title>
+      <link>https://yomaxxxi.github.io/news/promptshield-lokalnyy-instrument-dlya-zvorotnoho-prykhovuvannya-k/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/promptshield-lokalnyy-instrument-dlya-zvorotnoho-prykhovuvannya-k/</guid>
+      <pubDate>Mon, 23 Nov 2026 07:49:20 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Питання безпеки та захисту персональних даних під час взаємодії зі штучним інтелектом залишається одним із найгостріших для розробників та компаній. Відправлення нефільтрованого коду, ключів доступу чи особистої інформації до хмарних мовних моделей несе критичні ризики витоку. Новий проєкт PromptShield пропонує локальне рішення цієї проблеми, забезпечуючи надійну деінтифікацію конфіденційних даних перед їх обробкою у великих мовних моделях.</description>
+    </item>
     <item>
       <title>Наче у GTA: Tesla додала у систему FSD фотореалістичний вид від третьої особи</title>
       <link>https://yomaxxxi.github.io/news/nache-u-gta-tesla-dodala-u-systemu-fsd-fotorealistychnyy-vyd-vid-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 20 Nov 2026 16:18:29 +0000</pubDate>
       <category>Техніка</category>
       <description>Новий складаний смартфон Motorola з кодовою назвою Parker засвітився у документах сертифікації разом із живим знімком та потужними специфікаціями.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: cathrynlavery/diagram-design — Революційний агентський скіл для генерації ідеальних редакторських SVG-діаграм без жахливого Mermaid-коду та тіней!</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-cathrynlaverydiagram-design-revolyutsiynyy-ah/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-cathrynlaverydiagram-design-revolyutsiynyy-ah/</guid>
-      <pubDate>Fri, 20 Nov 2026 16:07:56 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Розробники втомилися від утилітарного, потворного дизайну діаграм у Mermaid та важких платних SaaS-інструментів на кшталт Lucidchart чи Miro для простих схематичних задач. Проєкт закриває одвічний біль візуалізації архітектури прямо через AI-агентів.</description>
     </item>
   </channel>
 </rss>
