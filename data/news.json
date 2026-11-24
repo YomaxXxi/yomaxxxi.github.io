@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 25931,
+      "slug": "spetsialnyy-reliz-apple-hotuyutsya-novi-prystroyi-u-kolori-produc",
+      "title": "Спеціальний реліз Apple: готуються нові пристрої у кольорі Product(RED)",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-24T14:55:28Z",
+      "date_formatted": "24 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/Apple-again-supporting-World-Aids-Day.jpg?quality=82&strip=all&resize=1200,628",
+      "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
+      "summary": "Компанія Apple готує чергове поповнення лінійки пристроїв спеціальної серії, присвяченої Всесвітньому дню боротьби зі СНІДом.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 25863,
       "slug": "shparhalka-hayd-yak-shvydko-vydalyty-obyekt-iz-foto-na-telefoni-b",
       "title": "Шпаргалка / Гайд: Як швидко видалити об'єкт із фото на телефоні без сторонніх програм",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Головного фігуранта гучної справи щодо зламу ігрового гіганта засуджено, але через особливості судової практики та час, проведений під вартою, він продовжить відбувати покарання поза межами колонії.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -101,7 +122,7 @@
       "summary": "Масштабний альянс переходить до наступного етапу: компанії прибирають людей-операторів із позашляховиків та готуються до комерційного запуску.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://img.mezha.ua/mezha/images/doc/7/4/335293/743edd865fc7c3faeae30b463701e0c6.jpeg",
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Запуск найочікуванішої гри десятиліття обвалив звичні показники мереж та встановив історичні рекорди на стрімінгових платформах.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 23227,
-      "slug": "motorola-detalno-opysuye-svoyi-plany-vprovadzhennya-android-17-dl",
-      "title": "Motorola детально описує свої плани впровадження Android 17 для 29 телефонів",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-20T05:05:48Z",
-      "date_formatted": "20 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Motorola-Razr-2026-folded-in-hand-scaled.jpg",
-      "image_caption": "Матеріали Android Authority / Офіційний реліз",
-      "summary": "Моторола підтвердила, що дев'ять існуючих смартфонів вже отримують стабільне оновлення до Android 17. Додаткових 20 смартфонів Edge, Razr і Moto G планують отримати оновлення протягом наступних кількох місяців.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
