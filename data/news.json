@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 25588,
+      "slug": "plume-launcher-poryatunok-dlya-starykh-prystroyiv-google-tv",
+      "title": "Plume Launcher: порятунок для старих пристроїв Google TV",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-24T09:03:09Z",
+      "date_formatted": "24 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/plume-launcher-home-screen-feature-1.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Легковаговий лаунчер Plume створений спеціально для того, щоб вдихнути нове життя у повільні медіаплеєри та вирішити проблему хронічних гальм на застарілому залізі.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 25558,
       "slug": "asus-vyrishyla-vlashtuvaty-pokuptsyam-podorozh-u-chasi-y-povernut",
       "title": "ASUS вирішила влаштувати покупцям подорож у часі й повернути 8 ГБ оперативної пам'яті в нові ПК",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали ITC.ua (TG) (Telegram) / Офіційний реліз",
       "summary": "Компанія розглядає повернення скромних 8 ГБ ОЗП у ноутбуки та десктопи початкового й середнього рівнів через шалене зростання вартості комплектуючих.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Якщо у вас залишилася колекція старих фільмів на DVD-носіях, запускати їх на сучасному 4K-телевізорі зазвичай боляче через розмите 480p зображення та артефакти стиснення. Проте сучасні технології дозволяють вирішити цю проблему без купівлі нових ремастерів.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://dev.ua/storage/images/55/09/73/70/derived/d4d02e7d853b81294ec12d0eee7ec7b5.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Цифровий детокс виходить на новий рівень: вітчизняний розробник Володимир Павленко презентував iOS-застосунок Bedline, який допомагає позбутися звички гортати стрічки соцмереж замість повноцінного відпочинку.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 22481,
-      "slug": "huawei-mate-90-air-kompaniya-propustyla-odne-pokolinnya-i-hotuye-",
-      "title": "Huawei Mate 90 Air: компанія пропустила одне покоління і готує новинку",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-19T09:40:59Z",
-      "date_formatted": "19 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://fdn.gsmarena.com/imgroot//news/26/11/huawei-mate-90-air-listed/-952x498w6/gsmarena_00.jpg",
-      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
-      "summary": "Компанія Huawei офіційно додала новий ультратонкий смартфон до свого онлайн-магазину, пропустивши індекс 80.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
