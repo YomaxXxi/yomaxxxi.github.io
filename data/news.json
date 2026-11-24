@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 25612,
+      "slug": "github-perlyna-dnya-google-labs-codestitch-skills-biblioteka-ahen",
+      "title": "GitHub-перлина дня: google-labs-code/stitch-skills — бібліотека агентських скілів для інтеграції з MCP-сервером Stitch",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-24T09:20:01Z",
+      "date_formatted": "24 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/google-labs-code/stitch-skills",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Сучасні AI-агенти пишуть код, але часто діють наосліп без стандартизованого розуміння дизайну та бізнес-логіки. Проєкт закриває цей біль, надаючи стандартизовані Agent Skills для Claude Code, Cursor та Gemini CLI.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/google-labs-code/stitch-skills",
+      "github_repo": "google-labs-code/stitch-skills"
+    },
+    {
       "id": 25588,
       "slug": "plume-launcher-poryatunok-dlya-starykh-prystroyiv-google-tv",
       "title": "Plume Launcher: порятунок для старих пристроїв Google TV",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Легковаговий лаунчер Plume створений спеціально для того, щоб вдихнути нове життя у повільні медіаплеєри та вирішити проблему хронічних гальм на застарілому залізі.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Робота з таблицями в розмітці Markdown завжди супроводжувалася певними незручностями. Традиційно редактори перемикалися в сітку лише тоді, коли ви не редагували документ, а при кліку перетворювали таблицю на суцільний блок коду з вертикальними рисками та дефісами. Тепер розробники EtherPK додали повноцінне редагування таблиць безпосередньо всередині документа, суттєво спрощуючи взаємодію з даними.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-one-ui-9-5-open-gate-recording-dual-cam-panorama/-952x498w6/gsmarena_001.jpg",
       "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
       "summary": "Компанія Samsung анонсувала бета-програму One UI 9.5 для актуальної серії пристроїв Galaxy S26, готуючи масштабне оновлення софту.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 22566,
-      "slug": "ukrayinskyy-rozrobnyk-stvoryv-bedline-zastosunok-dlya-borotby-z-p",
-      "title": "Український розробник створив Bedline: застосунок для боротьби з прокрастинацією перед сном",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-19T10:56:28Z",
-      "date_formatted": "19 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/55/09/73/70/derived/d4d02e7d853b81294ec12d0eee7ec7b5.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Цифровий детокс виходить на новий рівень: вітчизняний розробник Володимир Павленко презентував iOS-застосунок Bedline, який допомагає позбутися звички гортати стрічки соцмереж замість повноцінного відпочинку.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

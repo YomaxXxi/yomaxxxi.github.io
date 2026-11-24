@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 24 Nov 2026 09:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 09:20:01 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: google-labs-code/stitch-skills — бібліотека агентських скілів для інтеграції з MCP-сервером Stitch</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-google-labs-codestitch-skills-biblioteka-ahen/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-google-labs-codestitch-skills-biblioteka-ahen/</guid>
+      <pubDate>Tue, 24 Nov 2026 09:20:01 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Сучасні AI-агенти пишуть код, але часто діють наосліп без стандартизованого розуміння дизайну та бізнес-логіки. Проєкт закриває цей біль, надаючи стандартизовані Agent Skills для Claude Code, Cursor та Gemini CLI.</description>
+    </item>
     <item>
       <title>Plume Launcher: порятунок для старих пристроїв Google TV</title>
       <link>https://yomaxxxi.github.io/news/plume-launcher-poryatunok-dlya-starykh-prystroyiv-google-tv/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 21 Nov 2026 16:49:37 +0000</pubDate>
       <category>Техніка</category>
       <description>Новий розумний дисплей Apple HomeView працює за принципом CarPlay, віддзеркалюючи сумісні додатки з вашого смартфона чи планшета та гарантуючи повну конфіденційність даних.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: cursor/plugins — офіційна екосистема плагінів для Cursor IDE, що замінює десятки ручних налаштувань ШІ</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-cursorplugins-ofitsiyna-ekosystema-plahiniv-d/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-cursorplugins-ofitsiyna-ekosystema-plahiniv-d/</guid>
-      <pubDate>Sat, 21 Nov 2026 15:50:02 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Розробники, які активно використовують ШІ-редактори, часто стикаються з нестачею контексту, слабкою інтеграцією агентів у робочі пайплайни та відсутністю стандартизованих workflow. Цей репозиторій закриває біль ручної кастомізації, пропонуючи готові плагіни для безпеки, перевірки коду, генерації комітів та навчання.</description>
     </item>
   </channel>
 </rss>
