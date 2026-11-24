@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 24 Nov 2026 10:04:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:05:33 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Uber, Nuro та Lucid запускають тести роботаксі без водіїв</title>
+      <link>https://yomaxxxi.github.io/news/uber-nuro-ta-lucid-zapuskayut-testy-robotaksi-bez-vodiyiv/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/uber-nuro-ta-lucid-zapuskayut-testy-robotaksi-bez-vodiyiv/</guid>
+      <pubDate>Tue, 24 Nov 2026 11:05:33 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Масштабний альянс переходить до наступного етапу: компанії прибирають людей-операторів із позашляховиків та готуються до комерційного запуску.</description>
+    </item>
     <item>
       <title>HUAWEI Mate X8: новий флагманський складаний смартфон кидає виклик конкурентам</title>
       <link>https://yomaxxxi.github.io/news/huawei-mate-x8-novyy-flahmanskyy-skladanyy-smartfon-kydaye-vyklyk/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 22 Nov 2026 07:23:08 +0000</pubDate>
       <category>Геймінг</category>
       <description>Новий приквел культової франшизи перетворює знайому передісторію Панему на похмуре, емоційно нищівне та тематично зріле дослідження витоків тоталітаризму.</description>
-    </item>
-    <item>
-      <title>Amazon проти Міської ради Нью-Йорка: компанія розміщує попередження на посилках</title>
-      <link>https://yomaxxxi.github.io/news/amazon-proty-miskoyi-rady-nyu-yorka-kompaniya-rozmishchuye-popere/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/amazon-proty-miskoyi-rady-nyu-yorka-kompaniya-rozmishchuye-popere/</guid>
-      <pubDate>Sun, 22 Nov 2026 06:18:47 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Amazon знаходить нові способи протистояти ініціативам місцевої влади щодо регулювання доставки.</description>
     </item>
   </channel>
 </rss>

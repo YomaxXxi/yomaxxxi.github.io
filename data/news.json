@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 25681,
+      "slug": "uber-nuro-ta-lucid-zapuskayut-testy-robotaksi-bez-vodiyiv",
+      "title": "Uber, Nuro та Lucid запускають тести роботаксі без водіїв",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-24T11:05:33Z",
+      "date_formatted": "24 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Driverless-Image-2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "image_caption": "Матеріали The Verge / Офіційний реліз",
+      "summary": "Масштабний альянс переходить до наступного етапу: компанії прибирають людей-операторів із позашляховиків та готуються до комерційного запуску.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 25630,
       "slug": "huawei-mate-x8-novyy-flahmanskyy-skladanyy-smartfon-kydaye-vyklyk",
       "title": "HUAWEI Mate X8: новий флагманський складаний смартфон кидає виклик конкурентам",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Компанія HUAWEI офіційно представила в Китаї свій новий складаний пристрій, який пропонує передові характеристики та обійде за багатьма параметрами рішення від Samsung і Google.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Легковаговий лаунчер Plume створений спеціально для того, щоб вдихнути нове життя у повільні медіаплеєри та вирішити проблему хронічних гальм на застарілому залізі.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/project-suncatcher-logo.png?quality=90&strip=all&crop=0%2C19.088098918083%2C100%2C61.823802163833&w=1200",
       "image_caption": "Матеріали The Verge / Офіційний реліз",
       "summary": "Компанія Google уклала стратегічне партнерство з Blue Origin для виведення на орбіту спеціалізованих серверних супутників, які працюватимуть на базі власних процесорів корпорації.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 22673,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-ich-porty-u-telefonakh",
-      "title": "Технології, які ми втратили: ІЧ-порти у телефонах",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-19T12:53:17Z",
-      "date_formatted": "19 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "Справжня магія нульових: покласти два телефони «віч-на-віч» на відстані 2 см, затримати подих, щоб не збити з'єднання, і передати однокласнику новий рингтон чи культову гру Gravity Defied. Це була епоха чистої цифрової романтики.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
