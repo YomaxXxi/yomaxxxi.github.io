@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 24 Nov 2026 11:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:24:09 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Боротьба з монополією: екс-топменеджери Microsoft заснували стартап Marlowe</title>
+      <link>https://yomaxxxi.github.io/news/borotba-z-monopoliyeyu-eks-topmenedzhery-microsoft-zasnuvaly-star/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/borotba-z-monopoliyeyu-eks-topmenedzhery-microsoft-zasnuvaly-star/</guid>
+      <pubDate>Tue, 24 Nov 2026 12:24:09 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Ринок штучного інтелекту шукає шляхи виходу з глобального дефіциту заліза.</description>
+    </item>
     <item>
       <title>Uber, Nuro та Lucid запускають тести роботаксі без водіїв</title>
       <link>https://yomaxxxi.github.io/news/uber-nuro-ta-lucid-zapuskayut-testy-robotaksi-bez-vodiyiv/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 22 Nov 2026 08:42:49 +0000</pubDate>
       <category>Геймінг</category>
       <description>Ентузіаст та технологічний журналіст Бендж Едвардс переніс мініатюрну мовну модель на культову ігрову консоль 1990-х років.</description>
-    </item>
-    <item>
-      <title>Трагедія та цинізм: огляд фільму «Голодні ігри: Світанок перед Жнивами»</title>
-      <link>https://yomaxxxi.github.io/news/trahediya-ta-tsynizm-ohlyad-filmu-holodni-ihry-svitanok-pered-zhn/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/trahediya-ta-tsynizm-ohlyad-filmu-holodni-ihry-svitanok-pered-zhn/</guid>
-      <pubDate>Sun, 22 Nov 2026 07:23:08 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Новий приквел культової франшизи перетворює знайому передісторію Панему на похмуре, емоційно нищівне та тематично зріле дослідження витоків тоталітаризму.</description>
     </item>
   </channel>
 </rss>

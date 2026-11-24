@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 25741,
+      "slug": "borotba-z-monopoliyeyu-eks-topmenedzhery-microsoft-zasnuvaly-star",
+      "title": "Боротьба з монополією: екс-топменеджери Microsoft заснували стартап Marlowe",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-24T12:24:09Z",
+      "date_formatted": "24 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/93/16/49/31/derived/5ee77aac935d2b6b6c61a515903e2774.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Ринок штучного інтелекту шукає шляхи виходу з глобального дефіциту заліза.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 25681,
       "slug": "uber-nuro-ta-lucid-zapuskayut-testy-robotaksi-bez-vodiyiv",
       "title": "Uber, Nuro та Lucid запускають тести роботаксі без водіїв",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали The Verge / Офіційний реліз",
       "summary": "Масштабний альянс переходить до наступного етапу: компанії прибирають людей-операторів із позашляховиків та готуються до комерційного запуску.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Сучасні AI-агенти пишуть код, але часто діють наосліп без стандартизованого розуміння дизайну та бізнес-логіки. Проєкт закриває цей біль, надаючи стандартизовані Agent Skills для Claude Code, Cursor та Gemini CLI.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/google-labs-code/stitch-skills",
       "github_repo": "google-labs-code/stitch-skills"
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
       "summary": "Розберемо, як за допомогою сучасних AI-асистентів та протоколу MCP (Model Context Protocol) налаштувати безпечне підключення по SSH. Це дозволить давати штучному інтелекту команди для керування сервером (наприклад, Raspberry Pi) без ручного копіювання команд у термінал.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 22653,
-      "slug": "google-obyednuyetsya-z-blue-origin-dlya-zapusku-suputnykiv-iz-shi",
-      "title": "Google об'єднується з Blue Origin для запуску супутників із ШІ",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-19T13:44:02Z",
-      "date_formatted": "19 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/project-suncatcher-logo.png?quality=90&strip=all&crop=0%2C19.088098918083%2C100%2C61.823802163833&w=1200",
-      "image_caption": "Матеріали The Verge / Офіційний реліз",
-      "summary": "Компанія Google уклала стратегічне партнерство з Blue Origin для виведення на орбіту спеціалізованих серверних супутників, які працюватимуть на базі власних процесорів корпорації.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
