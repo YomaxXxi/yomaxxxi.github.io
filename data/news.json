@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 25630,
+      "slug": "huawei-mate-x8-novyy-flahmanskyy-skladanyy-smartfon-kydaye-vyklyk",
+      "title": "HUAWEI Mate X8: новий флагманський складаний смартфон кидає виклик конкурентам",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-24T10:04:16Z",
+      "date_formatted": "24 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/HUAWEI-Mate-X8-purple-variant.jpeg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Компанія HUAWEI офіційно представила в Китаї свій новий складаний пристрій, який пропонує передові характеристики та обійде за багатьма параметрами рішення від Samsung і Google.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 25612,
       "slug": "github-perlyna-dnya-google-labs-codestitch-skills-biblioteka-ahen",
       "title": "GitHub-перлина дня: google-labs-code/stitch-skills — бібліотека агентських скілів для інтеграції з MCP-сервером Stitch",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Сучасні AI-агенти пишуть код, але часто діють наосліп без стандартизованого розуміння дизайну та бізнес-логіки. Проєкт закриває цей біль, надаючи стандартизовані Agent Skills для Claude Code, Cursor та Gemini CLI.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/google-labs-code/stitch-skills",
       "github_repo": "google-labs-code/stitch-skills"
@@ -59,7 +80,7 @@
       "summary": "Компанія розглядає повернення скромних 8 ГБ ОЗП у ноутбуки та десктопи початкового й середнього рівнів через шалене зростання вартості комплектуючих.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Retro Tech / Офіційний реліз",
       "summary": "Справжня магія нульових: покласти два телефони «віч-на-віч» на відстані 2 см, затримати подих, щоб не збити з'єднання, і передати однокласнику новий рингтон чи культову гру Gravity Defied. Це була епоха чистої цифрової романтики.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 22592,
-      "slug": "one-ui-95-vid-samsung-novi-mozhlyvosti-dlya-zyomky-video",
-      "title": "One UI 9.5 від Samsung: нові можливості для зйомки відео",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-19T12:07:27Z",
-      "date_formatted": "19 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-one-ui-9-5-open-gate-recording-dual-cam-panorama/-952x498w6/gsmarena_001.jpg",
-      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
-      "summary": "Компанія Samsung анонсувала бета-програму One UI 9.5 для актуальної серії пристроїв Galaxy S26, готуючи масштабне оновлення софту.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

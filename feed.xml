@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 24 Nov 2026 09:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:04:16 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>HUAWEI Mate X8: новий флагманський складаний смартфон кидає виклик конкурентам</title>
+      <link>https://yomaxxxi.github.io/news/huawei-mate-x8-novyy-flahmanskyy-skladanyy-smartfon-kydaye-vyklyk/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/huawei-mate-x8-novyy-flahmanskyy-skladanyy-smartfon-kydaye-vyklyk/</guid>
+      <pubDate>Tue, 24 Nov 2026 10:04:16 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія HUAWEI офіційно представила в Китаї свій новий складаний пристрій, який пропонує передові характеристики та обійде за багатьма параметрами рішення від Samsung і Google.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: google-labs-code/stitch-skills — бібліотека агентських скілів для інтеграції з MCP-сервером Stitch</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-google-labs-codestitch-skills-biblioteka-ahen/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 22 Nov 2026 06:18:47 +0000</pubDate>
       <category>Техніка</category>
       <description>Amazon знаходить нові способи протистояти ініціативам місцевої влади щодо регулювання доставки.</description>
-    </item>
-    <item>
-      <title>Легке налаштування: як під&#x27;єднати Apple HomeView за допомогою iPhone</title>
-      <link>https://yomaxxxi.github.io/news/lehke-nalashtuvannya-yak-pidyednaty-apple-homeview-za-dopomohoyu-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/lehke-nalashtuvannya-yak-pidyednaty-apple-homeview-za-dopomohoyu-/</guid>
-      <pubDate>Sat, 21 Nov 2026 16:49:37 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Новий розумний дисплей Apple HomeView працює за принципом CarPlay, віддзеркалюючи сумісні додатки з вашого смартфона чи планшета та гарантуючи повну конфіденційність даних.</description>
     </item>
   </channel>
 </rss>
