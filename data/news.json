@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 25559,
+      "slug": "redaktor-etherpk-otrymav-potuzhne-onovlennya-redahuvannya-markdow",
+      "title": "Редактор EtherPK отримав потужне оновлення: редагування Markdown-таблиць прямо на льоту у стилі WYSIWYG",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-24T07:34:14Z",
+      "date_formatted": "24 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://blog.etherpk.com/assets/table-grid-tour.d1dfbfd4.gif",
+      "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
+      "summary": "Робота з таблицями в розмітці Markdown завжди супроводжувалася певними незручностями. Традиційно редактори перемикалися в сітку лише тоді, коли ви не редагували документ, а при кліку перетворювали таблицю на суцільний блок коду з вертикальними рисками та дефісами. Тепер розробники EtherPK додали повноцінне редагування таблиць безпосередньо всередині документа, суттєво спрощуючи взаємодію з даними.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 25368,
       "slug": "apskeyl-starykh-dvd-do-4k-yak-nvidia-rtx-gpu-vdykhaye-nove-zhytty",
       "title": "Апскейл старих DVD до 4K: як Nvidia RTX GPU вдихає нове життя в архівні фільми",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали XDA Developers / Офіційний реліз",
       "summary": "Якщо у вас залишилася колекція старих фільмів на DVD-носіях, запускати їх на сучасному 4K-телевізорі зазвичай боляче через розмите 480p зображення та артефакти стиснення. Проте сучасні технології дозволяють вирішити цю проблему без купівлі нових ремастерів.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Аналіз величезних обсягів документів і книг завжди забирав години часу, а розібратися в складних звітах бувало надзвичайно важко. Цей інструмент повністю замінює Notion AI і за лічені секунди перетворює ваші PDF-файли на інтерактивну базу знань із точними цитатами та генерує повноцінні аудіоподкасти для прослуховування на ходу.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/HKUDS/CLI-Anything",
       "github_repo": "HKUDS/CLI-Anything"
-    },
-    {
-      "id": 22418,
-      "slug": "zakhyst-dlya-iphone-vid-macpaw-kompaniya-vypustyla-zastosunok-moo",
-      "title": "Захист для iPhone від MacPaw: компанія випустила застосунок Moonlock",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-19T08:26:31Z",
-      "date_formatted": "19 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/26/47/27/90/derived/a5d3e5d569dc2fc8ac14dbe1129698f5.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Українська продуктова IT-компанія MacPaw презентувала мобільну версію застосунку для кібербезпеки Moonlock для користувачів iOS. Це перший мобільний продукт компанії, створений спеціально для захисту смартфонів від фішингу, спаму та витоків даних.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }

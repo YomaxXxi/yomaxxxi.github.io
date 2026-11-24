@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:34:14 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Редактор EtherPK отримав потужне оновлення: редагування Markdown-таблиць прямо на льоту у стилі WYSIWYG</title>
+      <link>https://yomaxxxi.github.io/news/redaktor-etherpk-otrymav-potuzhne-onovlennya-redahuvannya-markdow/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/redaktor-etherpk-otrymav-potuzhne-onovlennya-redahuvannya-markdow/</guid>
+      <pubDate>Tue, 24 Nov 2026 07:34:14 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Робота з таблицями в розмітці Markdown завжди супроводжувалася певними незручностями. Традиційно редактори перемикалися в сітку лише тоді, коли ви не редагували документ, а при кліку перетворювали таблицю на суцільний блок коду з вертикальними рисками та дефісами. Тепер розробники EtherPK додали повноцінне редагування таблиць безпосередньо всередині документа, суттєво спрощуючи взаємодію з даними.</description>
+    </item>
     <item>
       <title>Апскейл старих DVD до 4K: як Nvidia RTX GPU вдихає нове життя в архівні фільми</title>
       <link>https://yomaxxxi.github.io/news/apskeyl-starykh-dvd-do-4k-yak-nvidia-rtx-gpu-vdykhaye-nove-zhytty/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 21 Nov 2026 14:23:03 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Зберігати паролі у браузері зручно, але ризиковано: якщо ваш пристрій розблокований або хтось отримає доступ до вашого профілю Google, усі облікові записи опиняться під загрозою. Цей гайд допоможе швидко та безпечно перенести дані у спеціалізований менеджер паролів Bitwarden.</description>
-    </item>
-    <item>
-      <title>Новий прорив Neuralink: учасник випробування зіграв у GTA 6 силою думки</title>
-      <link>https://yomaxxxi.github.io/news/novyy-proryv-neuralink-uchasnyk-vyprobuvannya-zihrav-u-gta-6-sylo/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/novyy-proryv-neuralink-uchasnyk-vyprobuvannya-zihrav-u-gta-6-sylo/</guid>
-      <pubDate>Sat, 21 Nov 2026 13:41:30 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Компанія Neuralink продемонструвала вражаючі можливості нейроінтерфейсу, опублікувавши відео, на якому пацієнт проходить місію у грі без жодних фізичних геймпадів чи натискання кнопок.</description>
     </item>
   </channel>
 </rss>
