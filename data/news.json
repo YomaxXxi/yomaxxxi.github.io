@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 25800,
+      "slug": "vyrok-khakeru-za-vytik-gta-6-sim-rokiv-uvyaznennya-ta-nehayne-zvi",
+      "title": "Вирок хакеру за витік GTA 6: сім років ув'язнення та негайне звільнення",
+      "category": "Геймінг",
+      "category_slug": "gaming",
+      "date": "2026-11-24T13:41:27Z",
+      "date_formatted": "24 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://img.mezha.ua/mezha/images/doc/6/7/335655/67bf038c54477f196ec3dc85ef3bbc31.jpeg",
+      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
+      "summary": "Головного фігуранта гучної справи щодо зламу ігрового гіганта засуджено, але через особливості судової практики та час, проведений під вартою, він продовжить відбувати покарання поза межами колонії.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 25792,
       "slug": "tekhnolohiyi-yaki-my-vtratyly-aparatni-klaviatury-z-alhorytmom-t9",
       "title": "Технології, які ми втратили: Апаратні клавіатури з алгоритмом T9",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Ринок штучного інтелекту шукає шляхи виходу з глобального дефіциту заліза.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Компанія HUAWEI офіційно представила в Китаї свій новий складаний пристрій, який пропонує передові характеристики та обійде за багатьма параметрами рішення від Samsung і Google.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/firecrawl/firecrawl",
       "github_repo": "firecrawl/firecrawl"
-    },
-    {
-      "id": 22811,
-      "slug": "jpmorgan-chase-pidtverdyv-vytik-danykh-cherez-ataku-na-storonnikh",
-      "title": "JPMorgan Chase підтвердив витік даних через атаку на сторонніх постачальників",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-19T15:04:14Z",
-      "date_formatted": "19 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305014881.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_caption": "Матеріали The Verge / Офіційний реліз",
-      "summary": "Банківський гігант повідомив про кібератаку, яка зачепила маркетингові дані клієнтів, проте наголосив на відсутності зв'язку з нещодавнім загальним збоєм.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }
