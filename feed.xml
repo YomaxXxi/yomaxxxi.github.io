@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 24 Nov 2026 14:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:50:02 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: openvinotoolkit/openvino — Потужний відкритий рушій для оптимізації та прискорення ШІ-інференсу, що замінює повільні стандартні пайплайни PyTorch/TensorFlow на «залізі».</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-openvinotoolkitopenvino-potuzhnyy-vidkrytyy-r/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-openvinotoolkitopenvino-potuzhnyy-vidkrytyy-r/</guid>
+      <pubDate>Tue, 24 Nov 2026 15:50:02 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Розробники ML-систем постійно стикаються з болем: моделі з Hugging Face гальмують на процесорах, споживають забагато пам&#x27;яті та коштують шалених грошей на GPU у хмарі. OpenVINO закриває цей біль, перетворюючи важкі моделі на супершвидкісні об&#x27;єкти для локального «заліза».</description>
+    </item>
     <item>
       <title>Спеціальний реліз Apple: готуються нові пристрої у кольорі Product(RED)</title>
       <link>https://yomaxxxi.github.io/news/spetsialnyy-reliz-apple-hotuyutsya-novi-prystroyi-u-kolori-produc/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 22 Nov 2026 12:50:28 +0000</pubDate>
       <category>Техніка</category>
       <description>Пам&#x27;ятаєте той магічний час, коли музика була чимось колективним, а не ізольованим у затичках? Інженери культових плеєрів та ранніх медіафонів впроваджували геніальне рішення — другий повноцінний аудіороз&#x27;єм 3.5 мм прямо на корпусі пристрою.</description>
-    </item>
-    <item>
-      <title>Порівняння Apple AirPods 5 та AirPods Pro 3: ключові відмінності</title>
-      <link>https://yomaxxxi.github.io/news/porivnyannya-apple-airpods-5-ta-airpods-pro-3-klyuchovi-vidminnos/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/porivnyannya-apple-airpods-5-ta-airpods-pro-3-klyuchovi-vidminnos/</guid>
-      <pubDate>Sun, 22 Nov 2026 12:13:47 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Apple оновила свою лінійку навушників, і тепер користувачам доводиться обирати між доступнішими базовими моделями та флагманським рішенням з розширеними можливостями. Давайте розберемося, у чому головна різниця між новинками.</description>
     </item>
   </channel>
 </rss>

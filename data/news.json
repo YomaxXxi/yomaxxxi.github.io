@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 25976,
+      "slug": "github-perlyna-dnya-openvinotoolkitopenvino-potuzhnyy-vidkrytyy-r",
+      "title": "GitHub-перлина дня: openvinotoolkit/openvino — Потужний відкритий рушій для оптимізації та прискорення ШІ-інференсу, що замінює повільні стандартні пайплайни PyTorch/TensorFlow на «залізі».",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-24T15:50:02Z",
+      "date_formatted": "24 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/openvinotoolkit/openvino",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Розробники ML-систем постійно стикаються з болем: моделі з Hugging Face гальмують на процесорах, споживають забагато пам'яті та коштують шалених грошей на GPU у хмарі. OpenVINO закриває цей біль, перетворюючи важкі моделі на супершвидкісні об'єкти для локального «заліза».",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/openvinotoolkit/openvino",
+      "github_repo": "openvinotoolkit/openvino"
+    },
+    {
       "id": 25931,
       "slug": "spetsialnyy-reliz-apple-hotuyutsya-novi-prystroyi-u-kolori-produc",
       "title": "Спеціальний реліз Apple: готуються нові пристрої у кольорі Product(RED)",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
       "summary": "Компанія Apple готує чергове поповнення лінійки пристроїв спеціальної серії, присвяченої Всесвітньому дню боротьби зі СНІДом.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -101,7 +122,7 @@
       "summary": "Ринок штучного інтелекту шукає шляхи виходу з глобального дефіциту заліза.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-phone-showing-App-Lock-menu-in-One-UI-9.5-scaled.jpg",
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Користувачі, які очікували отримати нативну функцію блокування через сервіси мобілізації, змушені будуть оновлювати систему до актуальних релізів.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 23247,
-      "slug": "gta-6-sprychynyla-rekordnyy-strybok-internet-trafiku-strimy-zibra",
-      "title": "GTA 6 спричинила рекордний стрибок інтернет-трафіку – стріми зібрали майже 8 млн глядачів",
-      "category": "Геймінг",
-      "category_slug": "gaming",
-      "date": "2026-11-20T06:20:22Z",
-      "date_formatted": "20 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/7/4/335293/743edd865fc7c3faeae30b463701e0c6.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Запуск найочікуванішої гри десятиліття обвалив звичні показники мереж та встановив історичні рекорди на стрімінгових платформах.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
