@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 25863,
+      "slug": "shparhalka-hayd-yak-shvydko-vydalyty-obyekt-iz-foto-na-telefoni-b",
+      "title": "Шпаргалка / Гайд: Як швидко видалити об'єкт із фото на телефоні без сторонніх програм",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-24T14:22:59Z",
+      "date_formatted": "24 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Цей інструмент допоможе прибрати зайвих людей, випадкові предмети чи недоліки з кадру за кілька секунд. Для цього не потрібно завантажувати сторонні редактори чи купувати підписки — усе вже є у вашому смартфоні.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 25800,
       "slug": "vyrok-khakeru-za-vytik-gta-6-sim-rokiv-uvyaznennya-ta-nehayne-zvi",
       "title": "Вирок хакеру за витік GTA 6: сім років ув'язнення та негайне звільнення",
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 22926,
-      "slug": "github-perlyna-dnya-firecrawlfirecrawl-knowledge-infrastruktura-d",
-      "title": "GitHub-перлина дня: firecrawl/firecrawl — Knowledge інфраструктура для перетворення сайтів на LLM-ready дані (замінадорогих SaaS парсерів)",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-19T16:31:08Z",
-      "date_formatted": "19 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/firecrawl/firecrawl",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Розробники AI-агентів знають цей біль: щоб дати штучному інтелекту актуальні дані з мережі, доводиться писати криві парсери, боротися з Cloudflare, JS-рендерингом та форматами. Firecrawl вирішує це радикально, перетворюючи будь-який вебсайт на чистий Markdown одним запитом.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/firecrawl/firecrawl",
-      "github_repo": "firecrawl/firecrawl"
     }
   ]
 }

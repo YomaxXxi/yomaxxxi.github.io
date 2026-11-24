@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 24 Nov 2026 13:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:22:59 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Шпаргалка / Гайд: Як швидко видалити об&#x27;єкт із фото на телефоні без сторонніх програм</title>
+      <link>https://yomaxxxi.github.io/news/shparhalka-hayd-yak-shvydko-vydalyty-obyekt-iz-foto-na-telefoni-b/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shparhalka-hayd-yak-shvydko-vydalyty-obyekt-iz-foto-na-telefoni-b/</guid>
+      <pubDate>Tue, 24 Nov 2026 14:22:59 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Цей інструмент допоможе прибрати зайвих людей, випадкові предмети чи недоліки з кадру за кілька секунд. Для цього не потрібно завантажувати сторонні редактори чи купувати підписки — усе вже є у вашому смартфоні.</description>
+    </item>
     <item>
       <title>Вирок хакеру за витік GTA 6: сім років ув&#x27;язнення та негайне звільнення</title>
       <link>https://yomaxxxi.github.io/news/vyrok-khakeru-za-vytik-gta-6-sim-rokiv-uvyaznennya-ta-nehayne-zvi/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 22 Nov 2026 11:00:30 +0000</pubDate>
       <category>Техніка</category>
       <description>Південнокорейський техногігант готує серйозне оновлення інтерфейсу, наближаючи свою фірмову панель сповіщень до рішення від Apple.</description>
-    </item>
-    <item>
-      <title>Знайдено ідеальний інструмент для vibe-кодингу: чому всі говорять про Dyad</title>
-      <link>https://yomaxxxi.github.io/news/znaydeno-idealnyy-instrument-dlya-vibe-kodynhu-chomu-vsi-hovoryat/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/znaydeno-idealnyy-instrument-dlya-vibe-kodynhu-chomu-vsi-hovoryat/</guid>
-      <pubDate>Sun, 22 Nov 2026 09:45:42 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Забудьте про складні термінали та нескінченні правок: розробка ПЗ стає доступнішою завдяки новим відкритим інструментам.</description>
     </item>
   </channel>
 </rss>
