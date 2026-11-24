@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 24 Nov 2026 07:34:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:43:41 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ASUS вирішила влаштувати покупцям подорож у часі й повернути 8 ГБ оперативної пам&#x27;яті в нові ПК</title>
+      <link>https://yomaxxxi.github.io/news/asus-vyrishyla-vlashtuvaty-pokuptsyam-podorozh-u-chasi-y-povernut/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/asus-vyrishyla-vlashtuvaty-pokuptsyam-podorozh-u-chasi-y-povernut/</guid>
+      <pubDate>Tue, 24 Nov 2026 07:43:41 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія розглядає повернення скромних 8 ГБ ОЗП у ноутбуки та десктопи початкового й середнього рівнів через шалене зростання вартості комплектуючих.</description>
+    </item>
     <item>
       <title>Редактор EtherPK отримав потужне оновлення: редагування Markdown-таблиць прямо на льоту у стилі WYSIWYG</title>
       <link>https://yomaxxxi.github.io/news/redaktor-etherpk-otrymav-potuzhne-onovlennya-redahuvannya-markdow/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 21 Nov 2026 15:00:53 +0000</pubDate>
       <category>Техніка</category>
       <description>IT-адміністратори нарешті отримали інструмент для моніторингу програм, які розробники та інші співробітники встановлюють на робочі Mac без офіційного погодження.</description>
-    </item>
-    <item>
-      <title>Як перенести всі паролі з Google Chrome у безпечний менеджер Bitwarden</title>
-      <link>https://yomaxxxi.github.io/news/yak-perenesty-vsi-paroli-z-google-chrome-u-bezpechnyy-menedzher-b/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yak-perenesty-vsi-paroli-z-google-chrome-u-bezpechnyy-menedzher-b/</guid>
-      <pubDate>Sat, 21 Nov 2026 14:23:03 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Зберігати паролі у браузері зручно, але ризиковано: якщо ваш пристрій розблокований або хтось отримає доступ до вашого профілю Google, усі облікові записи опиняться під загрозою. Цей гайд допоможе швидко та безпечно перенести дані у спеціалізований менеджер паролів Bitwarden.</description>
     </item>
   </channel>
 </rss>
