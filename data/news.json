@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 25792,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-aparatni-klaviatury-z-alhorytmom-t9",
+      "title": "Технології, які ми втратили: Апаратні клавіатури з алгоритмом T9",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-24T12:50:28Z",
+      "date_formatted": "24 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "Золота доба мобілок подарувала нам інженерне диво — Т9. Алгоритм перетворював звичайне багаторазове натискання кнопок на швидкий інтелектуальний набір.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 25741,
       "slug": "borotba-z-monopoliyeyu-eks-topmenedzhery-microsoft-zasnuvaly-star",
       "title": "Боротьба з монополією: екс-топменеджери Microsoft заснували стартап Marlowe",
@@ -1233,27 +1254,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305014881.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "image_caption": "Матеріали The Verge / Офіційний реліз",
       "summary": "Банківський гігант повідомив про кібератаку, яка зачепила маркетингові дані клієнтів, проте наголосив на відсутності зв'язку з нещодавнім загальним збоєм.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 22785,
-      "slug": "yak-pidklyuchytysya-do-linux-servera-po-ssh-pryamo-z-chatgpt-chy-",
-      "title": "Як підключитися до Linux-сервера по SSH прямо з ChatGPT чи Claude",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-19T14:25:50Z",
-      "date_formatted": "19 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
-      "summary": "Розберемо, як за допомогою сучасних AI-асистентів та протоколу MCP (Model Context Protocol) налаштувати безпечне підключення по SSH. Це дозволить давати штучному інтелекту команди для керування сервером (наприклад, Raspberry Pi) без ручного копіювання команд у термінал.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

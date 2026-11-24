@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 24 Nov 2026 12:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:50:28 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Технології, які ми втратили: Апаратні клавіатури з алгоритмом T9</title>
+      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-aparatni-klaviatury-z-alhorytmom-t9/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-aparatni-klaviatury-z-alhorytmom-t9/</guid>
+      <pubDate>Tue, 24 Nov 2026 12:50:28 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Золота доба мобілок подарувала нам інженерне диво — Т9. Алгоритм перетворював звичайне багаторазове натискання кнопок на швидкий інтелектуальний набір.</description>
+    </item>
     <item>
       <title>Боротьба з монополією: екс-топменеджери Microsoft заснували стартап Marlowe</title>
       <link>https://yomaxxxi.github.io/news/borotba-z-monopoliyeyu-eks-topmenedzhery-microsoft-zasnuvaly-star/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 22 Nov 2026 09:20:02 +0000</pubDate>
       <category>Open Source</category>
       <description>Звичайні AI-чати часто плутаються у складних контекстах безпеки та дають загальні поради. Claude-BugHunter закриває цей біль, перетворюючи Claude Code на автономного пентестера та дослідника вразливостей.</description>
-    </item>
-    <item>
-      <title>ChatGPT «стиснули» для запуску на 16-бітній приставці Super Nintendo</title>
-      <link>https://yomaxxxi.github.io/news/chatgpt-stysnuly-dlya-zapusku-na-16-bitniy-prystavtsi-super-ninte/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/chatgpt-stysnuly-dlya-zapusku-na-16-bitniy-prystavtsi-super-ninte/</guid>
-      <pubDate>Sun, 22 Nov 2026 08:42:49 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Ентузіаст та технологічний журналіст Бендж Едвардс переніс мініатюрну мовну модель на культову ігрову консоль 1990-х років.</description>
     </item>
   </channel>
 </rss>
