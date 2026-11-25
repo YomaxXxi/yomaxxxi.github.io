@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 25 Nov 2026 07:34:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:39:56 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude відтепер перетворює будь-які артефакти на повноцінні застосунки</title>
+      <link>https://yomaxxxi.github.io/news/claude-vidteper-peretvoryuye-bud-yaki-artefakty-na-povnotsinni-za/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/claude-vidteper-peretvoryuye-bud-yaki-artefakty-na-povnotsinni-za/</guid>
+      <pubDate>Wed, 25 Nov 2026 08:39:56 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Компанія Anthropic викотила велике оновлення для десктопних клієнтів ШІ-асистента на Windows та macOS, що кардинально змінює підхід до розробки ПЗ.</description>
+    </item>
     <item>
       <title>Checkwash: інструмент для перевірки Git diff на зниження якості тестів</title>
       <link>https://yomaxxxi.github.io/news/checkwash-instrument-dlya-perevirky-git-diff-na-znyzhennya-yakost/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 23 Nov 2026 06:09:22 +0000</pubDate>
       <category>Техніка</category>
       <description>Техногігант продовжує глобальну реструктуризацію своєї розумної екосистеми, оголосивши про остаточне згортання старих платформ та перехід на єдині сервіси управління.</description>
-    </item>
-    <item>
-      <title>Як очистити кеш на Google TV: інструкція для прискорення системи</title>
-      <link>https://yomaxxxi.github.io/news/yak-ochystyty-kesh-na-google-tv-instruktsiya-dlya-pryskorennya-sy/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yak-ochystyty-kesh-na-google-tv-instruktsiya-dlya-pryskorennya-sy/</guid>
-      <pubDate>Mon, 23 Nov 2026 04:42:13 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Більшість пристроїв на базі Google TV мають обмежений обсяг пам&#x27;яті, через що управління кешем є критично важливим для стабільної роботи.</description>
     </item>
   </channel>
 </rss>

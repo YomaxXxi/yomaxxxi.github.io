@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 26381,
+      "slug": "claude-vidteper-peretvoryuye-bud-yaki-artefakty-na-povnotsinni-za",
+      "title": "Claude відтепер перетворює будь-які артефакти на повноцінні застосунки",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-25T08:39:56Z",
+      "date_formatted": "25 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://img.mezha.ua/mezha/images/doc/e/5/335737/e501cb9d98a820bd4a9d6657f6aeb72f.jpeg",
+      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
+      "summary": "Компанія Anthropic викотила велике оновлення для десктопних клієнтів ШІ-асистента на Windows та macOS, що кардинально змінює підхід до розробки ПЗ.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 26353,
       "slug": "checkwash-instrument-dlya-perevirky-git-diff-na-znyzhennya-yakost",
       "title": "Checkwash: інструмент для перевірки Git diff на зниження якості тестів",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
       "summary": "Сучасні розробники та ШІ-асистенти часто пишуть код швидко, але при цьому іноді «мовчки» послаблюють чи відключають тести заради успішного білду. Утиліта checkwash створена саме для того, щоб перевіряти Git diff на наявність відомих патернів, які роблять тести слабшими або взагалі марними.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/taipei49314/checkwash",
       "github_repo": "taipei49314/checkwash"
@@ -59,7 +80,7 @@
       "summary": "Стало відомо, скільки доведеться заплатити за наступне покоління популярного фітнес-браслета від Samsung.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://dev.ua/storage/images/24/56/48/58/derived/ea024e7bba2c7e7ac84634161744ffa1.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Українська студія GSC Game World відзначає другу річницю з моменту релізу шутера «S.T.A.L.K.E.R. 2: Серце Чорнобиля», який вийшов 20 листопада 2024 року. За два роки проєкт пройшов шлях від релізної версії 1.0 до патчу 2.1, вийшов на PlayStation 5, переїхав на оновлену версію рушія Unreal Engine 5 та отримав перше сюжетне доповнення.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 23383,
-      "slug": "security-bite-problemy-pryvatnosti-meta-muse-ta-yikhni-naslidky",
-      "title": "Security Bite: проблеми приватності Meta Muse та їхні наслідки",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-20T13:00:11Z",
-      "date_formatted": "20 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp",
-      "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
-      "summary": "Свіжий подкаст від 9to5Mac присвячений гучному інциденту довкола штучного інтелекту від компанії Meta.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
