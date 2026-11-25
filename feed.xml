@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 25 Nov 2026 11:17:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:25:10 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple готує нові версії (Product) Red: анонс HomePod mini 2 та AirPods Max 2 вже наступного тижня</title>
+      <link>https://yomaxxxi.github.io/news/apple-hotuye-novi-versiyi-product-red-anons-homepod-mini-2-ta-air/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/apple-hotuye-novi-versiyi-product-red-anons-homepod-mini-2-ta-air/</guid>
+      <pubDate>Wed, 25 Nov 2026 12:25:10 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія Apple планує розширити свою лінійку благодійних пристроїв до Всесвітнього дня боротьби зі СНІДом, який відзначається 1 грудня.</description>
+    </item>
     <item>
       <title>Microsoft оголошує Code Red через наймасштабніший збій в історії</title>
       <link>https://yomaxxxi.github.io/news/microsoft-oholoshuye-code-red-cherez-naymasshtabnishyy-zbiy-v-ist/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 23 Nov 2026 09:20:02 +0000</pubDate>
       <category>Open Source</category>
       <description>Коли ваш CI/CD пайплайн червоніє, він зазвичай повідомляє про сам факт збою, але не пояснює його корінь і тим паче не виправляє його. Під тиском дедлайнів розробники просто тисють кнопку рестарту, накопичуючи технічний борг та захаращуючи мейн. OpenSRE вирішує цей біль як CLI-агент, що самостійно аналізує логи падіння, виявляє причину та генерує готовий до рев&#x27;ю патч.</description>
-    </item>
-    <item>
-      <title>Фінанси в IT: 44% українських фахівців витрачають усе, що заробляють або більше</title>
-      <link>https://yomaxxxi.github.io/news/finansy-v-it-44-ukrayinskykh-fakhivtsiv-vytrachayut-use-shcho-zar/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/finansy-v-it-44-ukrayinskykh-fakhivtsiv-vytrachayut-use-shcho-zar/</guid>
-      <pubDate>Mon, 23 Nov 2026 08:27:43 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Нове дослідження ринку праці розкриває реальний стан фінансової подушки українських IT-фахівців у поточних умовах.</description>
     </item>
   </channel>
 </rss>
