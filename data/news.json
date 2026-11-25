@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 26353,
+      "slug": "checkwash-instrument-dlya-perevirky-git-diff-na-znyzhennya-yakost",
+      "title": "Checkwash: інструмент для перевірки Git diff на зниження якості тестів",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-25T07:34:28Z",
+      "date_formatted": "25 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/6ca792e6f58e65667fdf7f5c2a39c1b8d226fea6e8825b4bb7c83c6fb96d1ae2/taipei49314/checkwash",
+      "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
+      "summary": "Сучасні розробники та ШІ-асистенти часто пишуть код швидко, але при цьому іноді «мовчки» послаблюють чи відключають тести заради успішного білду. Утиліта checkwash створена саме для того, щоб перевіряти Git diff на наявність відомих патернів, які роблять тести слабшими або взагалі марними.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/taipei49314/checkwash",
+      "github_repo": "taipei49314/checkwash"
+    },
+    {
       "id": 26345,
       "slug": "byd-tang-tretoho-pokolinnya-novyy-elektrokrosover-rozmirom-iz-tes",
       "title": "BYD Tang третього покоління: новий електрокросовер розміром із Tesla Model X",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали ITC.ua (TG) (Telegram) / Офіційний реліз",
       "summary": "Компанія BYD офіційно вивела на ринок третє покоління свого флагманського електрокросовера Tang, який націлений прямо на конкуренцію із західними преміум-брендами.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Водії зіткнулися з неприємною проблемою: під час запуску навігації замість карти з'являється повністю чорний екран або дратівлива чорна смуга.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp",
       "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
       "summary": "Свіжий подкаст від 9to5Mac присвячений гучному інциденту довкола штучного інтелекту від компанії Meta.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 23384,
-      "slug": "yarmarka-ukrayinska-alternatyva-google-play-iz-rozshyrenymy-filtr",
-      "title": "«Ярмарка»: українська альтернатива Google Play із розширеними фільтрами безпеки",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-20T11:03:31Z",
-      "date_formatted": "20 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/19/49/18/43/derived/0774811d7aeba75cbd00c5ef8796d119.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Команда компанії «Починець» представила власний каталог Android-застосунків, створений через брак гнучких інструментів пошуку в офіційних маркетплейсах.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

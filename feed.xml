@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 25 Nov 2026 07:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:34:28 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Checkwash: інструмент для перевірки Git diff на зниження якості тестів</title>
+      <link>https://yomaxxxi.github.io/news/checkwash-instrument-dlya-perevirky-git-diff-na-znyzhennya-yakost/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/checkwash-instrument-dlya-perevirky-git-diff-na-znyzhennya-yakost/</guid>
+      <pubDate>Wed, 25 Nov 2026 07:34:28 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Сучасні розробники та ШІ-асистенти часто пишуть код швидко, але при цьому іноді «мовчки» послаблюють чи відключають тести заради успішного білду. Утиліта checkwash створена саме для того, щоб перевіряти Git diff на наявність відомих патернів, які роблять тести слабшими або взагалі марними.</description>
+    </item>
     <item>
       <title>BYD Tang третього покоління: новий електрокросовер розміром із Tesla Model X</title>
       <link>https://yomaxxxi.github.io/news/byd-tang-tretoho-pokolinnya-novyy-elektrokrosover-rozmirom-iz-tes/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 23 Nov 2026 04:42:13 +0000</pubDate>
       <category>Техніка</category>
       <description>Більшість пристроїв на базі Google TV мають обмежений обсяг пам&#x27;яті, через що управління кешем є критично важливим для стабільної роботи.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: XiaoYouChR/Ghost-Downloader-3 — потужний комбайн для завантаження файлів, стрімінгу та медіа, що замінює десяток утиліт та дорогих менеджерів завантажень!</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-xiaoyouchrghost-downloader-3-potuzhnyy-kombay/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-xiaoyouchrghost-downloader-3-potuzhnyy-kombay/</guid>
-      <pubDate>Sun, 22 Nov 2026 15:50:01 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Знайома ситуація: для музики — одна прогу, для відео з YouTube — інша, для торентів — третя, а для масивних датасетів із HuggingFace чи репозиторіїв з GitHub — взагалі костилі в консолі? Цей проєкт закриває весь цей болісний зоопарк софту однією швидкою self-hosted системою. Проєкт стрімко увірвався в тренди завдяки продуманому обходу антибот-систем та неймовірній всеїдності форматів.</description>
     </item>
   </channel>
 </rss>
