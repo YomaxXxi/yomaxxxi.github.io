@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 25 Nov 2026 09:58:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:17:26 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Microsoft оголошує Code Red через наймасштабніший збій в історії</title>
+      <link>https://yomaxxxi.github.io/news/microsoft-oholoshuye-code-red-cherez-naymasshtabnishyy-zbiy-v-ist/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/microsoft-oholoshuye-code-red-cherez-naymasshtabnishyy-zbiy-v-ist/</guid>
+      <pubDate>Wed, 25 Nov 2026 11:17:26 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія зіткнулася з безпрецедентною кризою в роботі хмарних сервісів.</description>
+    </item>
     <item>
       <title>«Нуль відповіді»: Telegram не реагує на офіційні звернення ЦПД при РНБО</title>
       <link>https://yomaxxxi.github.io/news/nul-vidpovidi-telegram-ne-reahuye-na-ofitsiyni-zvernennya-tspd-pr/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 23 Nov 2026 08:27:43 +0000</pubDate>
       <category>Техніка</category>
       <description>Нове дослідження ринку праці розкриває реальний стан фінансової подушки українських IT-фахівців у поточних умовах.</description>
-    </item>
-    <item>
-      <title>PromptShield: локальний інструмент для зворотного приховування конфіденційних даних у запитах до LLM</title>
-      <link>https://yomaxxxi.github.io/news/promptshield-lokalnyy-instrument-dlya-zvorotnoho-prykhovuvannya-k/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/promptshield-lokalnyy-instrument-dlya-zvorotnoho-prykhovuvannya-k/</guid>
-      <pubDate>Mon, 23 Nov 2026 07:49:20 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Питання безпеки та захисту персональних даних під час взаємодії зі штучним інтелектом залишається одним із найгостріших для розробників та компаній. Відправлення нефільтрованого коду, ключів доступу чи особистої інформації до хмарних мовних моделей несе критичні ризики витоку. Новий проєкт PromptShield пропонує локальне рішення цієї проблеми, забезпечуючи надійну деінтифікацію конфіденційних даних перед їх обробкою у великих мовних моделях.</description>
     </item>
   </channel>
 </rss>
