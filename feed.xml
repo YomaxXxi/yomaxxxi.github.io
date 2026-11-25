@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 25 Nov 2026 13:41:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:50:57 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Мікро-ШІ дня: Perplexity AI — розумний пошук з джерелами за 60 секунд</title>
+      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-perplexity-ai-rozumnyy-poshuk-z-dzherelamy-za-60-s/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-perplexity-ai-rozumnyy-poshuk-z-dzherelamy-za-60-s/</guid>
+      <pubDate>Wed, 25 Nov 2026 14:50:57 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Замість того, щоб годинами перегортати десятки рекламних сайтів та сторінок у Google у пошуках точної відповіді, цей ШІ-пошуковик миттєво аналізує мережу та видає чіткий структурований текст із реальними посиланнями на джерела.</description>
+    </item>
     <item>
       <title>Нові процесори Intel Nova Lake-S: деталі про сім моделей серії Core Ultra</title>
       <link>https://yomaxxxi.github.io/news/novi-protsesory-intel-nova-lake-s-detali-pro-sim-modeley-seriyi-c/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 23 Nov 2026 11:57:27 +0000</pubDate>
       <category>Техніка</category>
       <description>Новий безплатний інструмент допомагає уникнути перегріву та плавлення кабелів живлення на потужних відеокартах.</description>
-    </item>
-    <item>
-      <title>«Плакати — це нормально»: українська розробниця створила унікальний трекер Sob Story</title>
-      <link>https://yomaxxxi.github.io/news/plakaty-tse-normalno-ukrayinska-rozrobnytsya-stvoryla-unikalnyy-t/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/plakaty-tse-normalno-ukrayinska-rozrobnytsya-stvoryla-unikalnyy-t/</guid>
-      <pubDate>Mon, 23 Nov 2026 10:47:14 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Product Motion Illustrator Тетяна Климань презентувала новий застосунок для iPhone під назвою Sob Story, який допомагає відстежувати емоційний стан та фіксувати причини сліз без зайвого стресу та реєстрацій.</description>
     </item>
   </channel>
 </rss>
