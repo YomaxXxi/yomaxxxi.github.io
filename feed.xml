@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 25 Nov 2026 06:17:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:27:47 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BYD Tang третього покоління: новий електрокросовер розміром із Tesla Model X</title>
+      <link>https://yomaxxxi.github.io/news/byd-tang-tretoho-pokolinnya-novyy-elektrokrosover-rozmirom-iz-tes/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/byd-tang-tretoho-pokolinnya-novyy-elektrokrosover-rozmirom-iz-tes/</guid>
+      <pubDate>Wed, 25 Nov 2026 07:27:47 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія BYD офіційно вивела на ринок третє покоління свого флагманського електрокросовера Tang, який націлений прямо на конкуренцію із західними преміум-брендами.</description>
+    </item>
     <item>
       <title>Samsung Galaxy Fit4: розкрито європейську ціну фітнес-трекера</title>
       <link>https://yomaxxxi.github.io/news/samsung-galaxy-fit4-rozkryto-yevropeysku-tsinu-fitnes-trekera/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 22 Nov 2026 15:50:01 +0000</pubDate>
       <category>Open Source</category>
       <description>Знайома ситуація: для музики — одна прогу, для відео з YouTube — інша, для торентів — третя, а для масивних датасетів із HuggingFace чи репозиторіїв з GitHub — взагалі костилі в консолі? Цей проєкт закриває весь цей болісний зоопарк софту однією швидкою self-hosted системою. Проєкт стрімко увірвався в тренди завдяки продуманому обходу антибот-систем та неймовірній всеїдності форматів.</description>
-    </item>
-    <item>
-      <title>Скільки пам&#x27;яті насправді займає Apple Intelligence на iPhone?</title>
-      <link>https://yomaxxxi.github.io/news/skilky-pamyati-naspravdi-zaymaye-apple-intelligence-na-iphone/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/skilky-pamyati-naspravdi-zaymaye-apple-intelligence-na-iphone/</guid>
-      <pubDate>Sun, 22 Nov 2026 14:55:29 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Нові функції штучного інтелекту в iOS 27 пропонують чимало корисних можливостей, проте вони вимагають чимало вільного простору на накопичувачі вашого пристрою.</description>
     </item>
   </channel>
 </rss>
