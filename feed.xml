@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 24 Nov 2026 15:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:52:06 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Збій в Android Auto: Google Maps перетворюється на чорний екран</title>
+      <link>https://yomaxxxi.github.io/news/zbiy-v-android-auto-google-maps-peretvoryuyetsya-na-chornyy-ekran/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/zbiy-v-android-auto-google-maps-peretvoryuyetsya-na-chornyy-ekran/</guid>
+      <pubDate>Wed, 25 Nov 2026 04:52:06 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Водії зіткнулися з неприємною проблемою: під час запуску навігації замість карти з&#x27;являється повністю чорний екран або дратівлива чорна смуга.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: openvinotoolkit/openvino — Потужний відкритий рушій для оптимізації та прискорення ШІ-інференсу, що замінює повільні стандартні пайплайни PyTorch/TensorFlow на «залізі».</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-openvinotoolkitopenvino-potuzhnyy-vidkrytyy-r/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 22 Nov 2026 13:40:48 +0000</pubDate>
       <category>Техніка</category>
       <description>Якщо ви втомилися від обмежень закритій екосистеми iPadOS і шукаєте потужний пристрій на іншій платформі, ринок пропонує чимало цікавих конкурентів. Головним візаві Apple у світі Android залишається преміальний планшет від Samsung.</description>
-    </item>
-    <item>
-      <title>Технології, які ми втратили: Подвійні аудіовиходи</title>
-      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-podviyni-audiovykhody/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-podviyni-audiovykhody/</guid>
-      <pubDate>Sun, 22 Nov 2026 12:50:28 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Пам&#x27;ятаєте той магічний час, коли музика була чимось колективним, а не ізольованим у затичках? Інженери культових плеєрів та ранніх медіафонів впроваджували геніальне рішення — другий повноцінний аудіороз&#x27;єм 3.5 мм прямо на корпусі пристрою.</description>
     </item>
   </channel>
 </rss>

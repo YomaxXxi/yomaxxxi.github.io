@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 26284,
+      "slug": "zbiy-v-android-auto-google-maps-peretvoryuyetsya-na-chornyy-ekran",
+      "title": "Збій в Android Auto: Google Maps перетворюється на чорний екран",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-25T04:52:06Z",
+      "date_formatted": "25 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/Android-Auto-2024.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Водії зіткнулися з неприємною проблемою: під час запуску навігації замість карти з'являється повністю чорний екран або дратівлива чорна смуга.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 25976,
       "slug": "github-perlyna-dnya-openvinotoolkitopenvino-potuzhnyy-vidkrytyy-r",
       "title": "GitHub-перлина дня: openvinotoolkit/openvino — Потужний відкритий рушій для оптимізації та прискорення ШІ-інференсу, що замінює повільні стандартні пайплайни PyTorch/TensorFlow на «залізі».",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Розробники ML-систем постійно стикаються з болем: моделі з Hugging Face гальмують на процесорах, споживають забагато пам'яті та коштують шалених грошей на GPU у хмарі. OpenVINO закриває цей біль, перетворюючи важкі моделі на супершвидкісні об'єкти для локального «заліза».",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/openvinotoolkit/openvino",
       "github_repo": "openvinotoolkit/openvino"
@@ -80,7 +101,7 @@
       "summary": "Головного фігуранта гучної справи щодо зламу ігрового гіганта засуджено, але через особливості судової практики та час, проведений під вартою, він продовжить відбувати покарання поза межами колонії.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/blackarck/intaiassist",
       "github_repo": "blackarck/intaiassist"
-    },
-    {
-      "id": 23236,
-      "slug": "google-ofitsiyno-pidtverdyla-vbudovane-blokuvannya-zastosunkiv-ne",
-      "title": "Google офіційно підтвердила: вбудоване блокування застосунків не з'явиться на старих версіях Android",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-20T09:43:50Z",
-      "date_formatted": "20 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-phone-showing-App-Lock-menu-in-One-UI-9.5-scaled.jpg",
-      "image_caption": "Матеріали Android Authority / Офіційний реліз",
-      "summary": "Користувачі, які очікували отримати нативну функцію блокування через сервіси мобілізації, змушені будуть оновлювати систему до актуальних релізів.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }
