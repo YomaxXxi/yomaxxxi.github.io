@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 25 Nov 2026 08:39:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:20:13 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: mjmirza/app-store-compliance — Відкритий гайд та пре-субмішн гард для уникнення блокувань в App Store та Google Play</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-mjmirzaapp-store-compliance-vidkrytyy-hayd-ta/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-mjmirzaapp-store-compliance-vidkrytyy-hayd-ta/</guid>
+      <pubDate>Wed, 25 Nov 2026 09:20:13 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Розробники мобільних додатків знають цей біль: тиждень очікування модерації — і реджект через банальну помилку в Privacy Manifest або неочевидний пункт політики Apple/Google. Цей проєкт замінює дорогі консультації з юристами та закриті комерційні аудиторські сервіси перевірки мобільного софту перед релізом.</description>
+    </item>
     <item>
       <title>Claude відтепер перетворює будь-які артефакти на повноцінні застосунки</title>
       <link>https://yomaxxxi.github.io/news/claude-vidteper-peretvoryuye-bud-yaki-artefakty-na-povnotsinni-za/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 23 Nov 2026 07:19:44 +0000</pubDate>
       <category>Геймінг</category>
       <description>Компанія Tesla почала розгортання масштабного оновлення FSD v15, головною фішкою якого стала революційна візуалізація Reality View. Ілон Маск одразу порівняв її інтерфейс із популярною відеоігрою.</description>
-    </item>
-    <item>
-      <title>Google закриває застосунок Nest та класичного Google Assistant</title>
-      <link>https://yomaxxxi.github.io/news/google-zakryvaye-zastosunok-nest-ta-klasychnoho-google-assistant/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-zakryvaye-zastosunok-nest-ta-klasychnoho-google-assistant/</guid>
-      <pubDate>Mon, 23 Nov 2026 06:09:22 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Техногігант продовжує глобальну реструктуризацію своєї розумної екосистеми, оголосивши про остаточне згортання старих платформ та перехід на єдині сервіси управління.</description>
     </item>
   </channel>
 </rss>

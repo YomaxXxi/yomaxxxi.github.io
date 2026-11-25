@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 26414,
+      "slug": "github-perlyna-dnya-mjmirzaapp-store-compliance-vidkrytyy-hayd-ta",
+      "title": "GitHub-перлина дня: mjmirza/app-store-compliance — Відкритий гайд та пре-субмішн гард для уникнення блокувань в App Store та Google Play",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-25T09:20:13Z",
+      "date_formatted": "25 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/mjmirza/app-store-compliance",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Розробники мобільних додатків знають цей біль: тиждень очікування модерації — і реджект через банальну помилку в Privacy Manifest або неочевидний пункт політики Apple/Google. Цей проєкт замінює дорогі консультації з юристами та закриті комерційні аудиторські сервіси перевірки мобільного софту перед релізом.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/mjmirza/app-store-compliance",
+      "github_repo": "mjmirza/app-store-compliance"
+    },
+    {
       "id": 26381,
       "slug": "claude-vidteper-peretvoryuye-bud-yaki-artefakty-na-povnotsinni-za",
       "title": "Claude відтепер перетворює будь-які артефакти на повноцінні застосунки",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Компанія Anthropic викотила велике оновлення для десктопних клієнтів ШІ-асистента на Windows та macOS, що кардинально змінює підхід до розробки ПЗ.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Компанія BYD офіційно вивела на ринок третє покоління свого флагманського електрокросовера Tang, який націлений прямо на конкуренцію із західними преміум-брендами.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://eleven-public-cdn.elevenlabs.io/payloadcmsreader/mpygd9h0dy-og_image.webp",
       "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
       "summary": "Перетворення довгих статей, навчальних матеріалів та книг у якісне аудіо раніше вимагало дорогих платних підписок та складних редакторів. Цей інструмент робить процес миттєвим, озвучуючи документи природними голосами прямо на вашому пристрої.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 23369,
-      "slug": "tse-bulo-toho-varte-v-gsc-rozpovily-yak-aktsent-na-ukrayinskiy-id",
-      "title": "«Це було того варте». В GSC розповіли, як акцент на українській ідентичності та відмова від російської в S.T.A.L.K.E.R. 2 вплинув на розробку гри",
-      "category": "Геймінг",
-      "category_slug": "gaming",
-      "date": "2026-11-20T15:10:07Z",
-      "date_formatted": "20 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/24/56/48/58/derived/ea024e7bba2c7e7ac84634161744ffa1.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Українська студія GSC Game World відзначає другу річницю з моменту релізу шутера «S.T.A.L.K.E.R. 2: Серце Чорнобиля», який вийшов 20 листопада 2024 року. За два роки проєкт пройшов шлях від релізної версії 1.0 до патчу 2.1, вийшов на PlayStation 5, переїхав на оновлену версію рушія Unreal Engine 5 та отримав перше сюжетне доповнення.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
