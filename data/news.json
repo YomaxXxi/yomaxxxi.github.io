@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 26627,
+      "slug": "novi-protsesory-intel-nova-lake-s-detali-pro-sim-modeley-seriyi-c",
+      "title": "Нові процесори Intel Nova Lake-S: деталі про сім моделей серії Core Ultra",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-25T13:41:09Z",
+      "date_formatted": "25 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.mos.cms.futurecdn.net/229FoESMtHATGsTaPQxpLj-1920-80.jpg",
+      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
+      "summary": "Мережа отримала нові дані про десктопні процесори наступного покоління від Intel, які пропонують від 22 до 28 ядер та підтримку найшвидшої пам'яті.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 26589,
       "slug": "tekhnolohiyi-yaki-my-vtratyly-aparatni-dok-stantsiyi-dlya-noutbuk",
       "title": "Технології, які ми втратили: Апаратні док-станції для ноутбуків",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
       "summary": "Компанія Apple планує розширити свою лінійку благодійних пристроїв до Всесвітнього дня боротьби зі СНІДом, який відзначається 1 грудня.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Державні структури України успішно взаємодіють з більшістю міжнародних технологічних платформ, проте комунікація з популярним месенджером залишається заблокованою.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://dev.ua/storage/images/43/22/10/34/derived/e3a45755fb7a23ea52cdd35ba05d750b.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Компанія випустила масштабний редизайн мобільного клієнта з новою нижньою панеллю.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 23908,
-      "slug": "sudovyy-pozov-proty-apple-startap-vymahaye-milyony-v-indiyi",
-      "title": "Судовий позов проти Apple: стартап вимагає мільйони в Індії",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-21T06:15:24Z",
-      "date_formatted": "21 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg",
-      "image_caption": "Матеріали TechCrunch / Офіційний реліз",
-      "summary": "Американський стартап GG Technologies звернувся до суду в Індії з вимогою стягнути з корпорації Apple ₹15 мільярдів (близько $161.86 мільйона) через нібито порушення патентних прав.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

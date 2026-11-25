@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 25 Nov 2026 12:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 13:41:09 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Нові процесори Intel Nova Lake-S: деталі про сім моделей серії Core Ultra</title>
+      <link>https://yomaxxxi.github.io/news/novi-protsesory-intel-nova-lake-s-detali-pro-sim-modeley-seriyi-c/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/novi-protsesory-intel-nova-lake-s-detali-pro-sim-modeley-seriyi-c/</guid>
+      <pubDate>Wed, 25 Nov 2026 13:41:09 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Мережа отримала нові дані про десктопні процесори наступного покоління від Intel, які пропонують від 22 до 28 ядер та підтримку найшвидшої пам&#x27;яті.</description>
+    </item>
     <item>
       <title>Технології, які ми втратили: Апаратні док-станції для ноутбуків</title>
       <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-aparatni-dok-stantsiyi-dlya-noutbuk/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 23 Nov 2026 10:47:14 +0000</pubDate>
       <category>Техніка</category>
       <description>Product Motion Illustrator Тетяна Климань презентувала новий застосунок для iPhone під назвою Sob Story, який допомагає відстежувати емоційний стан та фіксувати причини сліз без зайвого стресу та реєстрацій.</description>
-    </item>
-    <item>
-      <title>Локальний суперкомп&#x27;ютер: ентузіаст під&#x27;єднав чотири Nvidia V100 до міні-ПК Lenovo</title>
-      <link>https://yomaxxxi.github.io/news/lokalnyy-superkompyuter-entuziast-pidyednav-chotyry-nvidia-v100-d/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/lokalnyy-superkompyuter-entuziast-pidyednav-chotyry-nvidia-v100-d/</guid>
-      <pubDate>Mon, 23 Nov 2026 09:28:08 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Ентузіаст Майкл зібрав унікальну домашню систему для локального запуску штучного інтелекту, об&#x27;єднавши компактний десктоп та чотири серверні відеокарти із загальним об&#x27;ємом відеопам&#x27;яті у 128 ГБ VRAM.</description>
     </item>
   </channel>
 </rss>
