@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 26589,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-aparatni-dok-stantsiyi-dlya-noutbuk",
+      "title": "Технології, які ми втратили: Апаратні док-станції для ноутбуків",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-25T12:50:28Z",
+      "date_formatted": "25 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "Прийшли на робоче місце, легкий рух — і ноутбук зі смачним механічним «клац» сідає на масивну базу. Жодних дротів, що плутаються під руками. Миттєво оживають три монітори, гігабітний Ethernet, периферія та зарядка.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 26545,
       "slug": "apple-hotuye-novi-versiyi-product-red-anons-homepod-mini-2-ta-air",
       "title": "Apple готує нові версії (Product) Red: анонс HomePod mini 2 та AirPods Max 2 вже наступного тижня",
@@ -1233,27 +1254,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg",
       "image_caption": "Матеріали TechCrunch / Офіційний реліз",
       "summary": "Американський стартап GG Technologies звернувся до суду в Індії з вимогою стягнути з корпорації Apple ₹15 мільярдів (близько $161.86 мільйона) через нібито порушення патентних прав.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 23910,
-      "slug": "chy-varto-kupuvaty-samsung-galaxy-s26-ultra-naprykintsi-2026-roku",
-      "title": "Чи варто купувати Samsung Galaxy S26 Ultra наприкінці 2026 року?",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-21T04:05:48Z",
-      "date_formatted": "21 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-11.jpg?quality=82&strip=all&w=1600",
-      "image_caption": "Матеріали 9to5Google (Android & Google) / Офіційний реліз",
-      "summary": "Флагманський смартфон від Samsung залишається одним із найкращих виборів на ринку завдяки зрілому залізу, довгій підтримці та унікальним програмним фішкам на базі One UI 9 та Android 17.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

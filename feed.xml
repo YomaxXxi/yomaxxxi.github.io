@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 25 Nov 2026 12:25:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:50:28 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Технології, які ми втратили: Апаратні док-станції для ноутбуків</title>
+      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-aparatni-dok-stantsiyi-dlya-noutbuk/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-aparatni-dok-stantsiyi-dlya-noutbuk/</guid>
+      <pubDate>Wed, 25 Nov 2026 12:50:28 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Прийшли на робоче місце, легкий рух — і ноутбук зі смачним механічним «клац» сідає на масивну базу. Жодних дротів, що плутаються під руками. Миттєво оживають три монітори, гігабітний Ethernet, периферія та зарядка.</description>
+    </item>
     <item>
       <title>Apple готує нові версії (Product) Red: анонс HomePod mini 2 та AirPods Max 2 вже наступного тижня</title>
       <link>https://yomaxxxi.github.io/news/apple-hotuye-novi-versiyi-product-red-anons-homepod-mini-2-ta-air/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 23 Nov 2026 09:28:08 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Ентузіаст Майкл зібрав унікальну домашню систему для локального запуску штучного інтелекту, об&#x27;єднавши компактний десктоп та чотири серверні відеокарти із загальним об&#x27;ємом відеопам&#x27;яті у 128 ГБ VRAM.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: Tracer-Cloud/opensre — потужний агент для надійності CI/CD, що автоматично діагностує та лагодить падіння білдів замість дорогих Enterprise-платформ спостережуваності.</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-tracer-cloudopensre-potuzhnyy-ahent-dlya-nadi/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-tracer-cloudopensre-potuzhnyy-ahent-dlya-nadi/</guid>
-      <pubDate>Mon, 23 Nov 2026 09:20:02 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Коли ваш CI/CD пайплайн червоніє, він зазвичай повідомляє про сам факт збою, але не пояснює його корінь і тим паче не виправляє його. Під тиском дедлайнів розробники просто тисють кнопку рестарту, накопичуючи технічний борг та захаращуючи мейн. OpenSRE вирішує цей біль як CLI-агент, що самостійно аналізує логи падіння, виявляє причину та генерує готовий до рев&#x27;ю патч.</description>
     </item>
   </channel>
 </rss>
