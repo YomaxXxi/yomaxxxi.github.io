@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 26429,
+      "slug": "nul-vidpovidi-telegram-ne-reahuye-na-ofitsiyni-zvernennya-tspd-pr",
+      "title": "«Нуль відповіді»: Telegram не реагує на офіційні звернення ЦПД при РНБО",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-25T09:58:11Z",
+      "date_formatted": "25 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/10/56/56/83/derived/1c07214926179e2f84a84e8f5b34556c.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Державні структури України успішно взаємодіють з більшістю міжнародних технологічних платформ, проте комунікація з популярним месенджером залишається заблокованою.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 26414,
       "slug": "github-perlyna-dnya-mjmirzaapp-store-compliance-vidkrytyy-hayd-ta",
       "title": "GitHub-перлина дня: mjmirza/app-store-compliance — Відкритий гайд та пре-субмішн гард для уникнення блокувань в App Store та Google Play",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Розробники мобільних додатків знають цей біль: тиждень очікування модерації — і реджект через банальну помилку в Privacy Manifest або неочевидний пункт політики Apple/Google. Цей проєкт замінює дорогі консультації з юристами та закриті комерційні аудиторські сервіси перевірки мобільного софту перед релізом.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/mjmirza/app-store-compliance",
       "github_repo": "mjmirza/app-store-compliance"
@@ -59,7 +80,7 @@
       "summary": "Сучасні розробники та ШІ-асистенти часто пишуть код швидко, але при цьому іноді «мовчки» послаблюють чи відключають тести заради успішного білду. Утиліта checkwash створена саме для того, щоб перевіряти Git diff на наявність відомих патернів, які роблять тести слабшими або взагалі марними.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/taipei49314/checkwash",
       "github_repo": "taipei49314/checkwash"
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/cathrynlavery/diagram-design",
       "github_repo": "cathrynlavery/diagram-design"
-    },
-    {
-      "id": 23598,
-      "slug": "mikro-shi-dnya-elevenlabs-reader-peretvoryuye-bud-yakyy-tekst-na-",
-      "title": "Мікро-ШІ дня: ElevenLabs Reader — перетворює будь-який текст на живу розмовну мову з емоціями за 60 секунд",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-20T15:27:47Z",
-      "date_formatted": "20 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://eleven-public-cdn.elevenlabs.io/payloadcmsreader/mpygd9h0dy-og_image.webp",
-      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
-      "summary": "Перетворення довгих статей, навчальних матеріалів та книг у якісне аудіо раніше вимагало дорогих платних підписок та складних редакторів. Цей інструмент робить процес миттєвим, озвучуючи документи природними голосами прямо на вашому пристрої.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }

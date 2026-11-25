@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 25 Nov 2026 09:20:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:58:11 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>«Нуль відповіді»: Telegram не реагує на офіційні звернення ЦПД при РНБО</title>
+      <link>https://yomaxxxi.github.io/news/nul-vidpovidi-telegram-ne-reahuye-na-ofitsiyni-zvernennya-tspd-pr/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/nul-vidpovidi-telegram-ne-reahuye-na-ofitsiyni-zvernennya-tspd-pr/</guid>
+      <pubDate>Wed, 25 Nov 2026 09:58:11 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Державні структури України успішно взаємодіють з більшістю міжнародних технологічних платформ, проте комунікація з популярним месенджером залишається заблокованою.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: mjmirza/app-store-compliance — Відкритий гайд та пре-субмішн гард для уникнення блокувань в App Store та Google Play</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-mjmirzaapp-store-compliance-vidkrytyy-hayd-ta/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 23 Nov 2026 07:49:20 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Питання безпеки та захисту персональних даних під час взаємодії зі штучним інтелектом залишається одним із найгостріших для розробників та компаній. Відправлення нефільтрованого коду, ключів доступу чи особистої інформації до хмарних мовних моделей несе критичні ризики витоку. Новий проєкт PromptShield пропонує локальне рішення цієї проблеми, забезпечуючи надійну деінтифікацію конфіденційних даних перед їх обробкою у великих мовних моделях.</description>
-    </item>
-    <item>
-      <title>Наче у GTA: Tesla додала у систему FSD фотореалістичний вид від третьої особи</title>
-      <link>https://yomaxxxi.github.io/news/nache-u-gta-tesla-dodala-u-systemu-fsd-fotorealistychnyy-vyd-vid-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/nache-u-gta-tesla-dodala-u-systemu-fsd-fotorealistychnyy-vyd-vid-/</guid>
-      <pubDate>Mon, 23 Nov 2026 07:19:44 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Компанія Tesla почала розгортання масштабного оновлення FSD v15, головною фішкою якого стала революційна візуалізація Reality View. Ілон Маск одразу порівняв її інтерфейс із популярною відеоігрою.</description>
     </item>
   </channel>
 </rss>
