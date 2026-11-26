@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 26 Nov 2026 07:34:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:34:45 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Turbo Desktop: новий стандарт безпеки для десктопних ШІ-агентів у середовищі Windows</title>
+      <link>https://yomaxxxi.github.io/news/turbo-desktop-novyy-standart-bezpeky-dlya-desktopnykh-shi-ahentiv/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/turbo-desktop-novyy-standart-bezpeky-dlya-desktopnykh-shi-ahentiv/</guid>
+      <pubDate>Thu, 26 Nov 2026 07:34:45 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Екосистема інструментів для автономних агентів продовжує еволюціонувати. Замість неефективних циклів обробки скріншотів, новий відкритий проєкт пропонує пряму взаємодію з інтерфейсом через Windows UI Automation. Це суттєво економить токени, запобігає конфліктам фокусу та дозволяє ШІ керувати десктопними додатками у середовищі Windows 10/11 з безпрецедентним рівнем контролю з боку користувача.</description>
+    </item>
     <item>
       <title>Redmi K100 Ultra: з&#x27;явилися перші подробиці про потужну камери майбутньої новинки</title>
       <link>https://yomaxxxi.github.io/news/redmi-k100-ultra-zyavylysya-pershi-podrobytsi-pro-potuzhnu-kamery/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 23 Nov 2026 14:51:31 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Аналіз величезних обсягів документів і книг завжди забирав години часу, а розібратися в складних звітах бувало надзвичайно важко. Цей інструмент повністю замінює Notion AI і за лічені секунди перетворює ваші PDF-файли на інтерактивну базу знань із точними цитатами та генерує повноцінні аудіоподкасти для прослуховування на ходу.</description>
-    </item>
-    <item>
-      <title>Компанія Reto, відома за проєктами під брендами Kodak, представила новий трекер SlideTag, який поєднує функції пошуку речей та ретро-дизайн класичних 35-мм слайдів.</title>
-      <link>https://yomaxxxi.github.io/news/kompaniya-reto-vidoma-za-proyektamy-pid-brendamy-kodak-predstavyl/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/kompaniya-reto-vidoma-za-proyektamy-pid-brendamy-kodak-predstavyl/</guid>
-      <pubDate>Mon, 23 Nov 2026 13:41:08 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Огляд найважливіших деталей, фактів та експертної аналітики від редакції Polyvanyi News.</description>
     </item>
   </channel>
 </rss>

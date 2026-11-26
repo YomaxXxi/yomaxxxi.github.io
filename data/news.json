@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 27094,
+      "slug": "turbo-desktop-novyy-standart-bezpeky-dlya-desktopnykh-shi-ahentiv",
+      "title": "Turbo Desktop: новий стандарт безпеки для десктопних ШІ-агентів у середовищі Windows",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-26T07:34:45Z",
+      "date_formatted": "26 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/f64edec9c83e32921054699d16a61a3d87271ffb7dd1d6e0cf58d6b3b16d7520/Tthanh2k6/turbo-desktop",
+      "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
+      "summary": "Екосистема інструментів для автономних агентів продовжує еволюціонувати. Замість неефективних циклів обробки скріншотів, новий відкритий проєкт пропонує пряму взаємодію з інтерфейсом через Windows UI Automation. Це суттєво економить токени, запобігає конфліктам фокусу та дозволяє ШІ керувати десктопними додатками у середовищі Windows 10/11 з безпрецедентним рівнем контролю з боку користувача.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/Tthanh2k6/turbo-desktop",
+      "github_repo": "Tthanh2k6/turbo-desktop"
+    },
+    {
       "id": 27082,
       "slug": "redmi-k100-ultra-zyavylysya-pershi-podrobytsi-pro-potuzhnu-kamery",
       "title": "Redmi K100 Ultra: з'явилися перші подробиці про потужну камери майбутньої новинки",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
       "summary": "Інсайдер Digital Chat Station поділився характеристиками нового інженерного зразка майбутнього флагмана Redmi, який обіцяє суттєвий апгрейд порівняно з попереднім поколінням.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Замість того, щоб годинами перегортати десятки рекламних сайтів та сторінок у Google у пошуках точної відповіді, цей ШІ-пошуковик миттєво аналізує мережу та видає чіткий структурований текст із реальними посиланнями на джерела.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 23956,
-      "slug": "github-perlyna-dnya-nginxnginx-ofitsiynyy-repozytoriy-lehendarnoh",
-      "title": "GitHub-перлина дня: nginx/nginx — Офіційний репозиторій легендарного вебсервера та зворотного проксі",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-21T09:22:50Z",
-      "date_formatted": "21 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/nginx/nginx",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "NGINX — це абсолютний фундамент сучасного інтернету, який слугує найпопулярнішим вебсервером, високопродуктивним балансувальником навантаження, зворотним проксі (reverse proxy) та API Gateway. Проєкт закриває потреби у швидкій обробці мільйонів з'єднань одночасно.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/nginx/nginx",
-      "github_repo": "nginx/nginx"
     }
   ]
 }
