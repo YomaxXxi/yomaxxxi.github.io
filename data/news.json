@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 27300,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-modulni-smartfony-project-ara",
+      "title": "Технології, які ми втратили: Модульні смартфони (Project Ara)",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-26T12:50:29Z",
+      "date_formatted": "26 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Project_Ara_Spiral_2_Prototype_%2816130905989%29.jpg",
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "Це була справжня мрія епохи інженерної романтики — смартфон як LEGO. Ви могли самостійно збирати девайс під власні потреби, замінюючи лише те, що реально застаріло, замість покупки нового флагмана.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 27284,
       "slug": "come-for-the-games-stay-for-the-community-with-geforce-now",
       "title": "Come for the Games, Stay for the Community With GeForce NOW",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Nvidia Newsroom / Офіційний реліз",
       "summary": "Черговий четвер у хмарі Nvidia присвячений геймерам, контент-креаторам та амбасадорам, які перетворюють кожну ігрову сесію на спільну подію.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Моделі вже доступні для попереднього замовлення, а відкриті продажі стартують 3 грудня.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Workbrew.jpg?quality=82&strip=all&resize=1200,628",
       "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
       "summary": "IT-адміністратори нарешті отримали інструмент для моніторингу програм, які розробники та інші співробітники встановлюють на робочі Mac без офіційного погодження.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 24088,
-      "slug": "yak-perenesty-vsi-paroli-z-google-chrome-u-bezpechnyy-menedzher-b",
-      "title": "Як перенести всі паролі з Google Chrome у безпечний менеджер Bitwarden",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-21T14:23:03Z",
-      "date_formatted": "21 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
-      "summary": "Зберігати паролі у браузері зручно, але ризиковано: якщо ваш пристрій розблокований або хтось отримає доступ до вашого профілю Google, усі облікові записи опиняться під загрозою. Цей гайд допоможе швидко та безпечно перенести дані у спеціалізований менеджер паролів Bitwarden.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
