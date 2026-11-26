@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 27311,
+      "slug": "chatgpt-na-sluzhbi-u-shakhrayiv-na-odeshchyni-cholovik-pidrobyv-p",
+      "title": "ChatGPT на службі у шахраїв: на Одещині чоловік підробив пенсійне посвідчення",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-26T13:42:06Z",
+      "date_formatted": "26 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/17/52/23/58/derived/bfbabc16882c3a1861ee0882acd78e52.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Технології генеративного штучного інтелекту продовжують знаходити незвичне і водночас незаконне застосування в Україні.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 27300,
       "slug": "tekhnolohiyi-yaki-my-vtratyly-modulni-smartfony-project-ara",
       "title": "Технології, які ми втратили: Модульні смартфони (Project Ara)",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Retro Tech / Офіційний реліз",
       "summary": "Це була справжня мрія епохи інженерної романтики — смартфон як LEGO. Ви могли самостійно збирати девайс під власні потреби, замінюючи лише те, що реально застаріло, замість покупки нового флагмана.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Попри жорсткі експортні обмеження США, найпотужніші чіпи Nvidia Blackwell B300 можна без проблем придбати на ринку Хуацянбей у Шеньчжені з п'ятикратною націнкою.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/cursor/plugins",
       "github_repo": "cursor/plugins"
-    },
-    {
-      "id": 24038,
-      "slug": "workbrew-20-povnyy-kontrol-softu-rozrobnykiv-v-ekosystemi-apple",
-      "title": "Workbrew 2.0: повний контроль софту розробників в екосистемі Apple",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-21T15:00:53Z",
-      "date_formatted": "21 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Workbrew.jpg?quality=82&strip=all&resize=1200,628",
-      "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
-      "summary": "IT-адміністратори нарешті отримали інструмент для моніторингу програм, які розробники та інші співробітники встановлюють на робочі Mac без офіційного погодження.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }

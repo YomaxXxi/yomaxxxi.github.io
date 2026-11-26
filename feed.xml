@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 26 Nov 2026 12:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:42:06 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ChatGPT на службі у шахраїв: на Одещині чоловік підробив пенсійне посвідчення</title>
+      <link>https://yomaxxxi.github.io/news/chatgpt-na-sluzhbi-u-shakhrayiv-na-odeshchyni-cholovik-pidrobyv-p/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/chatgpt-na-sluzhbi-u-shakhrayiv-na-odeshchyni-cholovik-pidrobyv-p/</guid>
+      <pubDate>Thu, 26 Nov 2026 13:42:06 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Технології генеративного штучного інтелекту продовжують знаходити незвичне і водночас незаконне застосування в Україні.</description>
+    </item>
     <item>
       <title>Технології, які ми втратили: Модульні смартфони (Project Ara)</title>
       <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-modulni-smartfony-project-ara/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 24 Nov 2026 09:20:01 +0000</pubDate>
       <category>Open Source</category>
       <description>Сучасні AI-агенти пишуть код, але часто діють наосліп без стандартизованого розуміння дизайну та бізнес-логіки. Проєкт закриває цей біль, надаючи стандартизовані Agent Skills для Claude Code, Cursor та Gemini CLI.</description>
-    </item>
-    <item>
-      <title>Plume Launcher: порятунок для старих пристроїв Google TV</title>
-      <link>https://yomaxxxi.github.io/news/plume-launcher-poryatunok-dlya-starykh-prystroyiv-google-tv/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/plume-launcher-poryatunok-dlya-starykh-prystroyiv-google-tv/</guid>
-      <pubDate>Tue, 24 Nov 2026 09:03:09 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Легковаговий лаунчер Plume створений спеціально для того, щоб вдихнути нове життя у повільні медіаплеєри та вирішити проблему хронічних гальм на застарілому залізі.</description>
     </item>
   </channel>
 </rss>
