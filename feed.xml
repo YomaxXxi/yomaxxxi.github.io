@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 26 Nov 2026 07:34:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:44:56 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Huawei готує до релізу базовий смартфон Osta O1 із процесором Kirin</title>
+      <link>https://yomaxxxi.github.io/news/huawei-hotuye-do-relizu-bazovyy-smartfon-osta-o1-iz-protsesorom-k/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/huawei-hotuye-do-relizu-bazovyy-smartfon-osta-o1-iz-protsesorom-k/</guid>
+      <pubDate>Thu, 26 Nov 2026 08:44:56 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Інсайдер Digital Chat Station поділився першими характеристиками базової моделі Huawei Osta O1, яка стане продовженням розвитку нового суббренда компанії після нещодавнього анонсу Osta O1 Pro.</description>
+    </item>
     <item>
       <title>Turbo Desktop: новий стандарт безпеки для десктопних ШІ-агентів у середовищі Windows</title>
       <link>https://yomaxxxi.github.io/news/turbo-desktop-novyy-standart-bezpeky-dlya-desktopnykh-shi-ahentiv/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 23 Nov 2026 15:50:02 +0000</pubDate>
       <category>Open Source</category>
       <description>Монтаж довгих подкастів, інтерв&#x27;ю чи лекцій у короткі вірусні ролки для TikTok, Reels та YouTube Shorts забирає години ручної праці. Проєкт AutoClip закриває цей біль, автоматично перетворюючи лонгріди на серію якісних вертикальних відео згенерованими субтитрами, обкладинками та готовими описами.</description>
-    </item>
-    <item>
-      <title>Мікро-ШІ дня: Google NotebookLM — персональна база знань та подкасти з документів</title>
-      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-google-notebooklm-personalna-baza-znan-ta-podkasty/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-google-notebooklm-personalna-baza-znan-ta-podkasty/</guid>
-      <pubDate>Mon, 23 Nov 2026 14:51:31 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Аналіз величезних обсягів документів і книг завжди забирав години часу, а розібратися в складних звітах бувало надзвичайно важко. Цей інструмент повністю замінює Notion AI і за лічені секунди перетворює ваші PDF-файли на інтерактивну базу знань із точними цитатами та генерує повноцінні аудіоподкасти для прослуховування на ходу.</description>
     </item>
   </channel>
 </rss>

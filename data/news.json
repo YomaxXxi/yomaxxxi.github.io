@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 27120,
+      "slug": "huawei-hotuye-do-relizu-bazovyy-smartfon-osta-o1-iz-protsesorom-k",
+      "title": "Huawei готує до релізу базовий смартфон Osta O1 із процесором Kirin",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-26T08:44:56Z",
+      "date_formatted": "26 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-osta-o1-rumor/-952x498w6/gsmarena_000.jpg",
+      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
+      "summary": "Інсайдер Digital Chat Station поділився першими характеристиками базової моделі Huawei Osta O1, яка стане продовженням розвитку нового суббренда компанії після нещодавнього анонсу Osta O1 Pro.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 27094,
       "slug": "turbo-desktop-novyy-standart-bezpeky-dlya-desktopnykh-shi-ahentiv",
       "title": "Turbo Desktop: новий стандарт безпеки для десктопних ШІ-агентів у середовищі Windows",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
       "summary": "Екосистема інструментів для автономних агентів продовжує еволюціонувати. Замість неефективних циклів обробки скріншотів, новий відкритий проєкт пропонує пряму взаємодію з інтерфейсом через Windows UI Automation. Це суттєво економить токени, запобігає конфліктам фокусу та дозволяє ШІ керувати десктопними додатками у середовищі Windows 10/11 з безпрецедентним рівнем контролю з боку користувача.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/Tthanh2k6/turbo-desktop",
       "github_repo": "Tthanh2k6/turbo-desktop"
@@ -59,7 +80,7 @@
       "summary": "Компанія Nothing готується змінити підхід до запису нотаток за допомогою свого першого ШІ-гаджета.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/moved-kindle-library-off-kindle-and-paired-with-claude.JPG",
       "image_caption": "Матеріали XDA Developers / Офіційний реліз",
       "summary": "Більше жодних зникнень куплених книг чи обмежень від Amazon. Розповідаємо, як звільнити свою бібліотеку з Kindle Paperwhite (12th generation) та навчити штучний інтелект розуміти ваші читацькі звички.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 23962,
-      "slug": "novyy-proryv-u-stysnenni-danykh-1-hb-vikipediyi-stysnuto-do-10539",
-      "title": "Новий прорив у стисненні даних: 1 ГБ Вікіпедії стиснуто до 105.39 МБ за допомогою ШІ",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-21T10:05:41Z",
-      "date_formatted": "21 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.mos.cms.futurecdn.net/iPmrEtNmpAx79TNibeBMXb-1920-80.jpg",
-      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
-      "summary": "Дослідник Томмі Хе представив розробку tufazip від Tufa Labs, яка встановила новий стандарт для нейромережевих алгоритмів на бенчмарку Large Text Compression Benchmark.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
