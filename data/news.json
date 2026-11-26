@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 27065,
+      "slug": "nothing-predstavyla-ear-note-navushnyky-z-vbudovanym-sht-asystent",
+      "title": "Nothing представила Ear (note): навушники з вбудованим ШT-асистентом",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-26T06:27:12Z",
+      "date_formatted": "26 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/nothing-ear-note/-952x498w6/gsmarena_000.jpg",
+      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
+      "summary": "Компанія Nothing готується змінити підхід до запису нотаток за допомогою свого першого ШІ-гаджета.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 26702,
       "slug": "mikro-shi-dnya-perplexity-ai-rozumnyy-poshuk-z-dzherelamy-za-60-s",
       "title": "Мікро-ШІ дня: Perplexity AI — розумний пошук з джерелами за 60 секунд",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
       "summary": "Замість того, щоб годинами перегортати десятки рекламних сайтів та сторінок у Google у пошуках точної відповіді, цей ШІ-пошуковик миттєво аналізує мережу та видає чіткий структурований текст із реальними посиланнями на джерела.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Компанія Apple планує розширити свою лінійку благодійних пристроїв до Всесвітнього дня боротьби зі СНІДом, який відзначається 1 грудня.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 23944,
-      "slug": "novyy-cli-instrument-dozvolyaye-ahentam-zavantazhuvaty-kinoklipy-",
-      "title": "Новий CLI-інструмент дозволяє агентам завантажувати кінокліпи за цитатами з діалогів",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-21T07:52:00Z",
-      "date_formatted": "21 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/02621858894e2eacc4b2e372bce680d2e274b77d2d46184d9918336cb51c10ce/robinroy03/scene-finder",
-      "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
-      "summary": "Сучасна індустрія розробки ШІ-агентів потребує все більше мультимодальних даних для тестування та інтеграції. Ентузіасти та розробники часто стикаються з проблемою пошуку конкретних відеофрагментів за текстовими репліками. Тепер для цього з'явився спеціалізований інструмент командного рядка scene-finder, який автоматизує пошук та завантаження кінокліпів напряму з бази clip.cafe за звичайними діалогами.",
-      "reading_time": "3 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/robinroy03/scene-finder",
-      "github_repo": "robinroy03/scene-finder"
     }
   ]
 }
