@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 27399,
+      "slug": "apple-hotuye-cherhove-masshtabne-onovlennya-spovishchen-u-maybutn",
+      "title": "Apple готує чергове масштабне оновлення сповіщень у майбутній iOS 28",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-26T14:59:44Z",
+      "date_formatted": "26 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/ios-28-revamped-notifications-rumor/-952x498w6/gsmarena_00.jpg",
+      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
+      "summary": "Компанія Apple планує суттєво переробити систему сповіщень та Центр сповіщень в операційній системі iOS 28, анонс якої очікується на конференції WWDC наступного року.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 27390,
       "slug": "yak-zvilnyty-hihabayty-pamyati-na-iphone-cherez-chystku-keshu-tel",
       "title": "Як звільнити гігабайти пам'яті на iPhone через чистку кешу Telegram",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Технології генеративного штучного інтелекту продовжують знаходити незвичне і водночас незаконне застосування в Україні.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Черговий четвер у хмарі Nvidia присвячений геймерам, контент-креаторам та амбасадорам, які перетворюють кожну ігрову сесію на спільну подію.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&strip=all&crop=0%2C27.608909762858%2C100%2C39.421004003696&w=1200",
       "image_caption": "Матеріали The Verge / Офіційний реліз",
       "summary": "Amazon знаходить нові способи протистояти ініціативам місцевої влади щодо регулювання доставки.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 24157,
-      "slug": "lehke-nalashtuvannya-yak-pidyednaty-apple-homeview-za-dopomohoyu-",
-      "title": "Легке налаштування: як під'єднати Apple HomeView за допомогою iPhone",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-21T16:49:37Z",
-      "date_formatted": "21 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.engadget.com/img/gallery/setting-up-an-apple-homeview-is-ridiculously-easy-thanks-to-your-iphone/l-intro-1794833959.jpg",
-      "image_caption": "Матеріали Engadget / Офіційний реліз",
-      "summary": "Новий розумний дисплей Apple HomeView працює за принципом CarPlay, віддзеркалюючи сумісні додатки з вашого смартфона чи планшета та гарантуючи повну конфіденційність даних.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

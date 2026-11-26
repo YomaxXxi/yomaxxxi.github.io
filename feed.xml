@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:59:44 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple готує чергове масштабне оновлення сповіщень у майбутній iOS 28</title>
+      <link>https://yomaxxxi.github.io/news/apple-hotuye-cherhove-masshtabne-onovlennya-spovishchen-u-maybutn/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/apple-hotuye-cherhove-masshtabne-onovlennya-spovishchen-u-maybutn/</guid>
+      <pubDate>Thu, 26 Nov 2026 14:59:44 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія Apple планує суттєво переробити систему сповіщень та Центр сповіщень в операційній системі iOS 28, анонс якої очікується на конференції WWDC наступного року.</description>
+    </item>
     <item>
       <title>Як звільнити гігабайти пам&#x27;яті на iPhone через чистку кешу Telegram</title>
       <link>https://yomaxxxi.github.io/news/yak-zvilnyty-hihabayty-pamyati-na-iphone-cherez-chystku-keshu-tel/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 24 Nov 2026 11:05:33 +0000</pubDate>
       <category>Техніка</category>
       <description>Масштабний альянс переходить до наступного етапу: компанії прибирають людей-операторів із позашляховиків та готуються до комерційного запуску.</description>
-    </item>
-    <item>
-      <title>HUAWEI Mate X8: новий флагманський складаний смартфон кидає виклик конкурентам</title>
-      <link>https://yomaxxxi.github.io/news/huawei-mate-x8-novyy-flahmanskyy-skladanyy-smartfon-kydaye-vyklyk/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/huawei-mate-x8-novyy-flahmanskyy-skladanyy-smartfon-kydaye-vyklyk/</guid>
-      <pubDate>Tue, 24 Nov 2026 10:04:16 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія HUAWEI офіційно представила в Китаї свій новий складаний пристрій, який пропонує передові характеристики та обійде за багатьма параметрами рішення від Samsung і Google.</description>
     </item>
   </channel>
 </rss>
