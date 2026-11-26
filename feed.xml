@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 26 Nov 2026 08:44:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:05:22 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Флагманська серія vivo X500 дебютує в Індії: оголошено офіційні ціни</title>
+      <link>https://yomaxxxi.github.io/news/flahmanska-seriya-vivo-x500-debyutuye-v-indiyi-oholosheno-ofitsiy/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/flahmanska-seriya-vivo-x500-debyutuye-v-indiyi-oholosheno-ofitsiy/</guid>
+      <pubDate>Thu, 26 Nov 2026 10:05:22 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Моделі вже доступні для попереднього замовлення, а відкриті продажі стартують 3 грудня.</description>
+    </item>
     <item>
       <title>Huawei готує до релізу базовий смартфон Osta O1 із процесором Kirin</title>
       <link>https://yomaxxxi.github.io/news/huawei-hotuye-do-relizu-bazovyy-smartfon-osta-o1-iz-protsesorom-k/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 24 Nov 2026 06:30:06 +0000</pubDate>
       <category>Техніка</category>
       <description>Якщо у вас залишилася колекція старих фільмів на DVD-носіях, запускати їх на сучасному 4K-телевізорі зазвичай боляче через розмите 480p зображення та артефакти стиснення. Проте сучасні технології дозволяють вирішити цю проблему без купівлі нових ремастерів.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: zhouxiaoka/autoclip — потужний open-source десктопний інструмент для автоматичного монтажу та перепрофілювання довгих відео за допомогою AI</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-zhouxiaokaautoclip-potuzhnyy-open-source-desk/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-zhouxiaokaautoclip-potuzhnyy-open-source-desk/</guid>
-      <pubDate>Mon, 23 Nov 2026 15:50:02 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Монтаж довгих подкастів, інтерв&#x27;ю чи лекцій у короткі вірусні ролки для TikTok, Reels та YouTube Shorts забирає години ручної праці. Проєкт AutoClip закриває цей біль, автоматично перетворюючи лонгріди на серію якісних вертикальних відео згенерованими субтитрами, обкладинками та готовими описами.</description>
     </item>
   </channel>
 </rss>

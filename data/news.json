@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 27141,
+      "slug": "flahmanska-seriya-vivo-x500-debyutuye-v-indiyi-oholosheno-ofitsiy",
+      "title": "Флагманська серія vivo X500 дебютує в Індії: оголошено офіційні ціни",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-26T10:05:22Z",
+      "date_formatted": "26 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/vivo-x500-series-india-pricing/-952x498w6/gsmarena_00.jpg",
+      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
+      "summary": "Моделі вже доступні для попереднього замовлення, а відкриті продажі стартують 3 грудня.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 27120,
       "slug": "huawei-hotuye-do-relizu-bazovyy-smartfon-osta-o1-iz-protsesorom-k",
       "title": "Huawei готує до релізу базовий смартфон Osta O1 із процесором Kirin",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
       "summary": "Інсайдер Digital Chat Station поділився першими характеристиками базової моделі Huawei Osta O1, яка стане продовженням розвитку нового суббренда компанії після нещодавнього анонсу Osta O1 Pro.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Інсайдер Digital Chat Station поділився характеристиками нового інженерного зразка майбутнього флагмана Redmi, який обіцяє суттєвий апгрейд порівняно з попереднім поколінням.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Retro Tech / Офіційний реліз",
       "summary": "Пам'ятаєте цей божественний звук клацання металу? Зсувна шторка на тильній панелі Sony Ericsson K750i чи Nokia N73 була справжнім фетишем епохи. Вона перетворювала звичайну «дзвонилку» на брутальний компакт-камеру.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 24007,
-      "slug": "vykhid-z-ekosystemy-amazon-yak-avtor-obyednav-kindle-calibre-web-",
-      "title": "Вихід з екосистеми Amazon: як автор об'єднав Kindle, Calibre-Web та Claude для аналізу книг",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-21T12:04:08Z",
-      "date_formatted": "21 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/moved-kindle-library-off-kindle-and-paired-with-claude.JPG",
-      "image_caption": "Матеріали XDA Developers / Офіційний реліз",
-      "summary": "Більше жодних зникнень куплених книг чи обмежень від Amazon. Розповідаємо, як звільнити свою бібліотеку з Kindle Paperwhite (12th generation) та навчити штучний інтелект розуміти ваші читацькі звички.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
