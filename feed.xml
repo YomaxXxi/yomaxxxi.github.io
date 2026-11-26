@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 26 Nov 2026 11:11:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:31:35 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Come for the Games, Stay for the Community With GeForce NOW</title>
+      <link>https://yomaxxxi.github.io/news/come-for-the-games-stay-for-the-community-with-geforce-now/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/come-for-the-games-stay-for-the-community-with-geforce-now/</guid>
+      <pubDate>Thu, 26 Nov 2026 12:31:35 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Черговий четвер у хмарі Nvidia присвячений геймерам, контент-креаторам та амбасадорам, які перетворюють кожну ігрову сесію на спільну подію.</description>
+    </item>
     <item>
       <title>Заборонені сервери Nvidia Blackwell B300 вільно продаються в Китаї за ціною до $3.4 мільйона</title>
       <link>https://yomaxxxi.github.io/news/zaboroneni-servery-nvidia-blackwell-b300-vilno-prodayutsya-v-kyta/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 24 Nov 2026 07:43:41 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія розглядає повернення скромних 8 ГБ ОЗП у ноутбуки та десктопи початкового й середнього рівнів через шалене зростання вартості комплектуючих.</description>
-    </item>
-    <item>
-      <title>Редактор EtherPK отримав потужне оновлення: редагування Markdown-таблиць прямо на льоту у стилі WYSIWYG</title>
-      <link>https://yomaxxxi.github.io/news/redaktor-etherpk-otrymav-potuzhne-onovlennya-redahuvannya-markdow/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/redaktor-etherpk-otrymav-potuzhne-onovlennya-redahuvannya-markdow/</guid>
-      <pubDate>Tue, 24 Nov 2026 07:34:14 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Робота з таблицями в розмітці Markdown завжди супроводжувалася певними незручностями. Традиційно редактори перемикалися в сітку лише тоді, коли ви не редагували документ, а при кліку перетворювали таблицю на суцільний блок коду з вертикальними рисками та дефісами. Тепер розробники EtherPK додали повноцінне редагування таблиць безпосередньо всередині документа, суттєво спрощуючи взаємодію з даними.</description>
     </item>
   </channel>
 </rss>
