@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 27390,
+      "slug": "yak-zvilnyty-hihabayty-pamyati-na-iphone-cherez-chystku-keshu-tel",
+      "title": "Як звільнити гігабайти пам'яті на iPhone через чистку кешу Telegram",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-26T14:23:00Z",
+      "date_formatted": "26 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Активне використання месенджерів часто забиває пам'ять смартфона гігабайтами непотрібних файлів. У цьому гайді розберемося, як швидко та безпечно очистити кеш Telegram на iPhone і налаштувати автовидалення, щоб більше не стикатися з попередженнями про брак місця.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 27311,
       "slug": "chatgpt-na-sluzhbi-u-shakhrayiv-na-odeshchyni-cholovik-pidrobyv-p",
       "title": "ChatGPT на службі у шахраїв: на Одещині чоловік підробив пенсійне посвідчення",
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 24141,
-      "slug": "github-perlyna-dnya-cursorplugins-ofitsiyna-ekosystema-plahiniv-d",
-      "title": "GitHub-перлина дня: cursor/plugins — офіційна екосистема плагінів для Cursor IDE, що замінює десятки ручних налаштувань ШІ",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-21T15:50:02Z",
-      "date_formatted": "21 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/cursor/plugins",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Розробники, які активно використовують ШІ-редактори, часто стикаються з нестачею контексту, слабкою інтеграцією агентів у робочі пайплайни та відсутністю стандартизованих workflow. Цей репозиторій закриває біль ручної кастомізації, пропонуючи готові плагіни для безпеки, перевірки коду, генерації комітів та навчання.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/cursor/plugins",
-      "github_repo": "cursor/plugins"
     }
   ]
 }

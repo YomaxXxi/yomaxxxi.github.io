@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 26 Nov 2026 13:42:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:23:00 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Як звільнити гігабайти пам&#x27;яті на iPhone через чистку кешу Telegram</title>
+      <link>https://yomaxxxi.github.io/news/yak-zvilnyty-hihabayty-pamyati-na-iphone-cherez-chystku-keshu-tel/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yak-zvilnyty-hihabayty-pamyati-na-iphone-cherez-chystku-keshu-tel/</guid>
+      <pubDate>Thu, 26 Nov 2026 14:23:00 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Активне використання месенджерів часто забиває пам&#x27;ять смартфона гігабайтами непотрібних файлів. У цьому гайді розберемося, як швидко та безпечно очистити кеш Telegram на iPhone і налаштувати автовидалення, щоб більше не стикатися з попередженнями про брак місця.</description>
+    </item>
     <item>
       <title>ChatGPT на службі у шахраїв: на Одещині чоловік підробив пенсійне посвідчення</title>
       <link>https://yomaxxxi.github.io/news/chatgpt-na-sluzhbi-u-shakhrayiv-na-odeshchyni-cholovik-pidrobyv-p/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 24 Nov 2026 10:04:16 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія HUAWEI офіційно представила в Китаї свій новий складаний пристрій, який пропонує передові характеристики та обійде за багатьма параметрами рішення від Samsung і Google.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: google-labs-code/stitch-skills — бібліотека агентських скілів для інтеграції з MCP-сервером Stitch</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-google-labs-codestitch-skills-biblioteka-ahen/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-google-labs-codestitch-skills-biblioteka-ahen/</guid>
-      <pubDate>Tue, 24 Nov 2026 09:20:01 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Сучасні AI-агенти пишуть код, але часто діють наосліп без стандартизованого розуміння дизайну та бізнес-логіки. Проєкт закриває цей біль, надаючи стандартизовані Agent Skills для Claude Code, Cursor та Gemini CLI.</description>
     </item>
   </channel>
 </rss>
