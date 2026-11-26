@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 27222,
+      "slug": "zaboroneni-servery-nvidia-blackwell-b300-vilno-prodayutsya-v-kyta",
+      "title": "Заборонені сервери Nvidia Blackwell B300 вільно продаються в Китаї за ціною до $3.4 мільйона",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-26T11:11:55Z",
+      "date_formatted": "26 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.mos.cms.futurecdn.net/iPmrEtNmpAx79TNibeBMXb-1920-80.jpg",
+      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
+      "summary": "Попри жорсткі експортні обмеження США, найпотужніші чіпи Nvidia Blackwell B300 можна без проблем придбати на ринку Хуацянбей у Шеньчжені з п'ятикратною націнкою.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 27141,
       "slug": "flahmanska-seriya-vivo-x500-debyutuye-v-indiyi-oholosheno-ofitsiy",
       "title": "Флагманська серія vivo X500 дебютує в Індії: оголошено офіційні ціни",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
       "summary": "Моделі вже доступні для попереднього замовлення, а відкриті продажі стартують 3 грудня.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Екосистема інструментів для автономних агентів продовжує еволюціонувати. Замість неефективних циклів обробки скріншотів, новий відкритий проєкт пропонує пряму взаємодію з інтерфейсом через Windows UI Automation. Це суттєво економить токени, запобігає конфліктам фокусу та дозволяє ШІ керувати десктопними додатками у середовищі Windows 10/11 з безпрецедентним рівнем контролю з боку користувача.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/Tthanh2k6/turbo-desktop",
       "github_repo": "Tthanh2k6/turbo-desktop"
     },
@@ -1233,27 +1254,6 @@
       "image": "https://img.mezha.ua/mezha/images/doc/2/f/335466/2f477eed1c8097e57df4074de6585db7.jpeg",
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Компанія Neuralink продемонструвала вражаючі можливості нейроінтерфейсу, опублікувавши відео, на якому пацієнт проходить місію у грі без жодних фізичних геймпадів чи натискання кнопок.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 24042,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-mekhanichna-shtorka-obyektyva",
-      "title": "Технології, які ми втратили: Механічна шторка об'єктива",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-21T12:50:33Z",
-      "date_formatted": "21 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "Пам'ятаєте цей божественний звук клацання металу? Зсувна шторка на тильній панелі Sony Ericsson K750i чи Nokia N73 була справжнім фетишем епохи. Вона перетворювала звичайну «дзвонилку» на брутальний компакт-камеру.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 26 Nov 2026 10:05:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 11:11:55 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Заборонені сервери Nvidia Blackwell B300 вільно продаються в Китаї за ціною до $3.4 мільйона</title>
+      <link>https://yomaxxxi.github.io/news/zaboroneni-servery-nvidia-blackwell-b300-vilno-prodayutsya-v-kyta/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/zaboroneni-servery-nvidia-blackwell-b300-vilno-prodayutsya-v-kyta/</guid>
+      <pubDate>Thu, 26 Nov 2026 11:11:55 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Попри жорсткі експортні обмеження США, найпотужніші чіпи Nvidia Blackwell B300 можна без проблем придбати на ринку Хуацянбей у Шеньчжені з п&#x27;ятикратною націнкою.</description>
+    </item>
     <item>
       <title>Флагманська серія vivo X500 дебютує в Індії: оголошено офіційні ціни</title>
       <link>https://yomaxxxi.github.io/news/flahmanska-seriya-vivo-x500-debyutuye-v-indiyi-oholosheno-ofitsiy/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 24 Nov 2026 07:34:14 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Робота з таблицями в розмітці Markdown завжди супроводжувалася певними незручностями. Традиційно редактори перемикалися в сітку лише тоді, коли ви не редагували документ, а при кліку перетворювали таблицю на суцільний блок коду з вертикальними рисками та дефісами. Тепер розробники EtherPK додали повноцінне редагування таблиць безпосередньо всередині документа, суттєво спрощуючи взаємодію з даними.</description>
-    </item>
-    <item>
-      <title>Апскейл старих DVD до 4K: як Nvidia RTX GPU вдихає нове життя в архівні фільми</title>
-      <link>https://yomaxxxi.github.io/news/apskeyl-starykh-dvd-do-4k-yak-nvidia-rtx-gpu-vdykhaye-nove-zhytty/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/apskeyl-starykh-dvd-do-4k-yak-nvidia-rtx-gpu-vdykhaye-nove-zhytty/</guid>
-      <pubDate>Tue, 24 Nov 2026 06:30:06 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Якщо у вас залишилася колекція старих фільмів на DVD-носіях, запускати їх на сучасному 4K-телевізорі зазвичай боляче через розмите 480p зображення та артефакти стиснення. Проте сучасні технології дозволяють вирішити цю проблему без купівлі нових ремастерів.</description>
     </item>
   </channel>
 </rss>
