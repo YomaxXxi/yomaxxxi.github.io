@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 27082,
+      "slug": "redmi-k100-ultra-zyavylysya-pershi-podrobytsi-pro-potuzhnu-kamery",
+      "title": "Redmi K100 Ultra: з'явилися перші подробиці про потужну камери майбутньої новинки",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-26T07:34:11Z",
+      "date_formatted": "26 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/redmi-k100-ultra-camera-details-leak/-952x498w6/gsmarena_000.jpg",
+      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
+      "summary": "Інсайдер Digital Chat Station поділився характеристиками нового інженерного зразка майбутнього флагмана Redmi, який обіцяє суттєвий апгрейд порівняно з попереднім поколінням.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 27065,
       "slug": "nothing-predstavyla-ear-note-navushnyky-z-vbudovanym-sht-asystent",
       "title": "Nothing представила Ear (note): навушники з вбудованим ШT-асистентом",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
       "summary": "Компанія Nothing готується змінити підхід до запису нотаток за допомогою свого першого ШІ-гаджета.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Мережа отримала нові дані про десктопні процесори наступного покоління від Intel, які пропонують від 22 до 28 ядер та підтримку найшвидшої пам'яті.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/nginx/nginx",
       "github_repo": "nginx/nginx"
-    },
-    {
-      "id": 23949,
-      "slug": "rozrobnyk-odynak-stvoryuye-z-nulya-operatsiynu-systemu-impossible",
-      "title": "Розробник-одинак створює з нуля операційну систему Impossible OS із підтримкою програм для Windows та Linux",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-21T08:53:00Z",
-      "date_formatted": "21 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/51/55/53/06/derived/ce29928529c6d447fd42bf07ffbb5ef8.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Південноафриканський розробник та підприємець Дерік Пейн працює над амбітним проєктом Impossible OS — новою платформою для ПК на архітектурі x86-64, яку він пише повністю самотужки.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }

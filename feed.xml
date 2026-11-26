@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:27:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:34:11 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Redmi K100 Ultra: з&#x27;явилися перші подробиці про потужну камери майбутньої новинки</title>
+      <link>https://yomaxxxi.github.io/news/redmi-k100-ultra-zyavylysya-pershi-podrobytsi-pro-potuzhnu-kamery/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/redmi-k100-ultra-zyavylysya-pershi-podrobytsi-pro-potuzhnu-kamery/</guid>
+      <pubDate>Thu, 26 Nov 2026 07:34:11 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Інсайдер Digital Chat Station поділився характеристиками нового інженерного зразка майбутнього флагмана Redmi, який обіцяє суттєвий апгрейд порівняно з попереднім поколінням.</description>
+    </item>
     <item>
       <title>Nothing представила Ear (note): навушники з вбудованим ШT-асистентом</title>
       <link>https://yomaxxxi.github.io/news/nothing-predstavyla-ear-note-navushnyky-z-vbudovanym-sht-asystent/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 23 Nov 2026 13:41:08 +0000</pubDate>
       <category>Техніка</category>
       <description>Огляд найважливіших деталей, фактів та експертної аналітики від редакції Polyvanyi News.</description>
-    </item>
-    <item>
-      <title>Технології, які ми втратили: Сонячні панелі на задній кришці</title>
-      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-sonyachni-paneli-na-zadniy-kryshtsi/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-sonyachni-paneli-na-zadniy-kryshtsi/</guid>
-      <pubDate>Mon, 23 Nov 2026 12:50:28 +0000</pubDate>
-      <category>Техніка</category>
-      <description>У золоту еру експериментів компанії намагалися зробити мобільні пристрої енергонезалежними. Пам&#x27;ятаєте Samsung Blue Earth чи Puma Phone? Ідея була фантастичною: телефон просто лежить на столику кав&#x27;ярні чи панелі авто і наповнюється енергією від сонця.</description>
     </item>
   </channel>
 </rss>
