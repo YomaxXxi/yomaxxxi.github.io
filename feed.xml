@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:39:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:48:21 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SpaceX отримала дозвіл на мільйон супутників для космічних датацентрів</title>
+      <link>https://yomaxxxi.github.io/news/spacex-otrymala-dozvil-na-milyon-suputnykiv-dlya-kosmichnykh-data/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/spacex-otrymala-dozvil-na-milyon-suputnykiv-dlya-kosmichnykh-data/</guid>
+      <pubDate>Fri, 27 Nov 2026 07:48:21 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Федеральна комісія зі зв’язку США схвалила історичний запит компанії на створення масштабної мережі Starmind для обробки даних на орбіті.</description>
+    </item>
     <item>
       <title>Прорив від TCL CSOT: представлено технологію друкованих OLED-екранів IJP OLED</title>
       <link>https://yomaxxxi.github.io/news/proryv-vid-tcl-csot-predstavleno-tekhnolohiyu-drukovanykh-oled-ek/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 24 Nov 2026 13:41:27 +0000</pubDate>
       <category>Геймінг</category>
       <description>Головного фігуранта гучної справи щодо зламу ігрового гіганта засуджено, але через особливості судової практики та час, проведений під вартою, він продовжить відбувати покарання поза межами колонії.</description>
-    </item>
-    <item>
-      <title>Технології, які ми втратили: Апаратні клавіатури з алгоритмом T9</title>
-      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-aparatni-klaviatury-z-alhorytmom-t9/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-aparatni-klaviatury-z-alhorytmom-t9/</guid>
-      <pubDate>Tue, 24 Nov 2026 12:50:28 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Золота доба мобілок подарувала нам інженерне диво — Т9. Алгоритм перетворював звичайне багаторазове натискання кнопок на швидкий інтелектуальний набір.</description>
     </item>
   </channel>
 </rss>
