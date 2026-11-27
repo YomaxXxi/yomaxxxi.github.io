@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 28005,
+      "slug": "mikro-shi-dnya-suno-ai-heneratsiya-povnotsinnykh-pisen-z-vokalom-",
+      "title": "Мікро-ШІ дня: Suno AI — генерація повноцінних пісень з вокалом та музикою за хвилину",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-27T14:50:57Z",
+      "date_formatted": "27 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn-o.suno.com/meta-preview.jpg",
+      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
+      "summary": "Створюйте музику професійної якості без студій та музичної освіти.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 27978,
       "slug": "airpods-pro-3-rik-potomu-chomu-tse-naykrashcha-investytsiya-v-eko",
       "title": "AirPods Pro 3 рік потому: чому це найкраща інвестиція в екосистему Apple",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
       "summary": "Минув рік із моменту релізу навушників AirPods Pro 3, і за цей час вони довели статус чи не найвигіднішого покупця у світі персонального аудіо, особливо на тлі поточного зниження ціни.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Сервіс анонімного пошуку роботи Djinni офіційно додав підтримку зовнішніх ШІ-асистентів через передовий протокол Model Context Protocol.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.engadget.com/img/gallery/how-much-storage-does-apple-intelligence-use-on-your-iphone/l-intro-1794596549.jpg",
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Нові функції штучного інтелекту в iOS 27 пропонують чимало корисних можливостей, проте вони вимагають чимало вільного простору на накопичувачі вашого пристрою.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 24464,
-      "slug": "alternatyvy-ipad-pro-chotyry-naykrashchi-planshety-dlya-tykh-khto",
-      "title": "Альтернативи iPad Pro: чотири найкращі планшети для тих, хто хоче відмовитися від Apple",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-22T13:40:48Z",
-      "date_formatted": "22 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.engadget.com/img/gallery/4-ipad-pro-alternatives-for-those-looking-to-ditch-apple/l-intro-1794555342.jpg",
-      "image_caption": "Матеріали Engadget / Офіційний реліз",
-      "summary": "Якщо ви втомилися від обмежень закритій екосистеми iPadOS і шукаєте потужний пристрій на іншій платформі, ринок пропонує чимало цікавих конкурентів. Головним візаві Apple у світі Android залишається преміальний планшет від Samsung.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

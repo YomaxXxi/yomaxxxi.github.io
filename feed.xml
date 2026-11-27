@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 27 Nov 2026 14:49:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:50:57 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Мікро-ШІ дня: Suno AI — генерація повноцінних пісень з вокалом та музикою за хвилину</title>
+      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-suno-ai-heneratsiya-povnotsinnykh-pisen-z-vokalom-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-suno-ai-heneratsiya-povnotsinnykh-pisen-z-vokalom-/</guid>
+      <pubDate>Fri, 27 Nov 2026 14:50:57 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Створюйте музику професійної якості без студій та музичної освіти.</description>
+    </item>
     <item>
       <title>AirPods Pro 3 рік потому: чому це найкраща інвестиція в екосистему Apple</title>
       <link>https://yomaxxxi.github.io/news/airpods-pro-3-rik-potomu-chomu-tse-naykrashcha-investytsiya-v-eko/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 25 Nov 2026 07:27:47 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія BYD офіційно вивела на ринок третє покоління свого флагманського електрокросовера Tang, який націлений прямо на конкуренцію із західними преміум-брендами.</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy Fit4: розкрито європейську ціну фітнес-трекера</title>
-      <link>https://yomaxxxi.github.io/news/samsung-galaxy-fit4-rozkryto-yevropeysku-tsinu-fitnes-trekera/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/samsung-galaxy-fit4-rozkryto-yevropeysku-tsinu-fitnes-trekera/</guid>
-      <pubDate>Wed, 25 Nov 2026 06:17:55 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Стало відомо, скільки доведеться заплатити за наступне покоління популярного фітнес-браслета від Samsung.</description>
     </item>
   </channel>
 </rss>
