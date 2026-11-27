@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 27 Nov 2026 13:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:49:22 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AirPods Pro 3 рік потому: чому це найкраща інвестиція в екосистему Apple</title>
+      <link>https://yomaxxxi.github.io/news/airpods-pro-3-rik-potomu-chomu-tse-naykrashcha-investytsiya-v-eko/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/airpods-pro-3-rik-potomu-chomu-tse-naykrashcha-investytsiya-v-eko/</guid>
+      <pubDate>Fri, 27 Nov 2026 14:49:22 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Минув рік із моменту релізу навушників AirPods Pro 3, і за цей час вони довели статус чи не найвигіднішого покупця у світі персонального аудіо, особливо на тлі поточного зниження ціни.</description>
+    </item>
     <item>
       <title>Повна українізація Orca: український розробник створив відкритий мовний пакет для ШІ-агента</title>
       <link>https://yomaxxxi.github.io/news/povna-ukrayinizatsiya-orca-ukrayinskyy-rozrobnyk-stvoryv-vidkryty/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 25 Nov 2026 06:17:55 +0000</pubDate>
       <category>Техніка</category>
       <description>Стало відомо, скільки доведеться заплатити за наступне покоління популярного фітнес-браслета від Samsung.</description>
-    </item>
-    <item>
-      <title>Збій в Android Auto: Google Maps перетворюється на чорний екран</title>
-      <link>https://yomaxxxi.github.io/news/zbiy-v-android-auto-google-maps-peretvoryuyetsya-na-chornyy-ekran/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/zbiy-v-android-auto-google-maps-peretvoryuyetsya-na-chornyy-ekran/</guid>
-      <pubDate>Wed, 25 Nov 2026 04:52:06 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Водії зіткнулися з неприємною проблемою: під час запуску навігації замість карти з&#x27;являється повністю чорний екран або дратівлива чорна смуга.</description>
     </item>
   </channel>
 </rss>

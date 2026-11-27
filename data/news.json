@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 27978,
+      "slug": "airpods-pro-3-rik-potomu-chomu-tse-naykrashcha-investytsiya-v-eko",
+      "title": "AirPods Pro 3 рік потому: чому це найкраща інвестиція в екосистему Apple",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-27T14:49:22Z",
+      "date_formatted": "27 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/AirPods-Pro-3-review0004.jpg?quality=82&strip=all&resize=1200,628",
+      "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
+      "summary": "Минув рік із моменту релізу навушників AirPods Pro 3, і за цей час вони довели статус чи не найвигіднішого покупця у світі персонального аудіо, особливо на тлі поточного зниження ціни.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 27792,
       "slug": "povna-ukrayinizatsiya-orca-ukrayinskyy-rozrobnyk-stvoryv-vidkryty",
       "title": "Повна українізація Orca: український розробник створив відкритий мовний пакет для ШІ-агента",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Український айтівець Олег Оліяр розробив і опублікував на GitHub безплатний мовний пакет-плагін, який повністю перекладає інтерфейс популярної платформи для роботи з ШІ-агентами Orca.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Активіст Елліот Каллендер розпочав голодування через використання технології рекурсивного самовдосконалення штучного інтелекту.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.engadget.com/img/gallery/4-ipad-pro-alternatives-for-those-looking-to-ditch-apple/l-intro-1794555342.jpg",
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Якщо ви втомилися від обмежень закритій екосистеми iPadOS і шукаєте потужний пристрій на іншій платформі, ринок пропонує чимало цікавих конкурентів. Головним візаві Apple у світі Android залишається преміальний планшет від Samsung.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 24438,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-podviyni-audiovykhody",
-      "title": "Технології, які ми втратили: Подвійні аудіовиходи",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-22T12:50:28Z",
-      "date_formatted": "22 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "Пам'ятаєте той магічний час, коли музика була чимось колективним, а не ізольованим у затичках? Інженери культових плеєрів та ранніх медіафонів впроваджували геніальне рішення — другий повноцінний аудіороз'єм 3.5 мм прямо на корпусі пристрою.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
