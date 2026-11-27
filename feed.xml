@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 27 Nov 2026 08:52:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:57:45 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Djinni інтегрує ШІ: до платформи тепер можна підключити Claude або ChatGPT через MCP</title>
+      <link>https://yomaxxxi.github.io/news/djinni-intehruye-shi-do-platformy-teper-mozhna-pidklyuchyty-claud/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/djinni-intehruye-shi-do-platformy-teper-mozhna-pidklyuchyty-claud/</guid>
+      <pubDate>Fri, 27 Nov 2026 09:57:45 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Сервіс анонімного пошуку роботи Djinni офіційно додав підтримку зовнішніх ШІ-асистентів через передовий протокол Model Context Protocol.</description>
+    </item>
     <item>
       <title>Протести проти ШІ: активісти оголосили голодування біля штаб-квартири Anthropic</title>
       <link>https://yomaxxxi.github.io/news/protesty-proty-shi-aktyvisty-oholosyly-holoduvannya-bilya-shtab-k/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 24 Nov 2026 15:50:02 +0000</pubDate>
       <category>Open Source</category>
       <description>Розробники ML-систем постійно стикаються з болем: моделі з Hugging Face гальмують на процесорах, споживають забагато пам&#x27;яті та коштують шалених грошей на GPU у хмарі. OpenVINO закриває цей біль, перетворюючи важкі моделі на супершвидкісні об&#x27;єкти для локального «заліза».</description>
-    </item>
-    <item>
-      <title>Спеціальний реліз Apple: готуються нові пристрої у кольорі Product(RED)</title>
-      <link>https://yomaxxxi.github.io/news/spetsialnyy-reliz-apple-hotuyutsya-novi-prystroyi-u-kolori-produc/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/spetsialnyy-reliz-apple-hotuyutsya-novi-prystroyi-u-kolori-produc/</guid>
-      <pubDate>Tue, 24 Nov 2026 14:55:28 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія Apple готує чергове поповнення лінійки пристроїв спеціальної серії, присвяченої Всесвітньому дню боротьби зі СНІДом.</description>
     </item>
   </channel>
 </rss>

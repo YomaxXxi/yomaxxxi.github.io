@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 27724,
+      "slug": "djinni-intehruye-shi-do-platformy-teper-mozhna-pidklyuchyty-claud",
+      "title": "Djinni інтегрує ШІ: до платформи тепер можна підключити Claude або ChatGPT через MCP",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-27T09:57:45Z",
+      "date_formatted": "27 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/50/00/54/02/derived/21e0c01e540b1692a143767d50f3e57f.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Сервіс анонімного пошуку роботи Djinni офіційно додав підтримку зовнішніх ШІ-асистентів через передовий протокол Model Context Protocol.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 27713,
       "slug": "protesty-proty-shi-aktyvisty-oholosyly-holoduvannya-bilya-shtab-k",
       "title": "Протести проти ШІ: активісти оголосили голодування біля штаб-квартири Anthropic",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "Активіст Елліот Каллендер розпочав голодування через використання технології рекурсивного самовдосконалення штучного інтелекту.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Федеральна комісія зі зв’язку США схвалила історичний запит компанії на створення масштабної мережі Starmind для обробки даних на орбіті.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.engadget.com/img/gallery/apple-airpods-5-vs-airpods-pro-3-what-are-the-key-differences/l-intro-1794426870.jpg",
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Apple оновила свою лінійку навушників, і тепер користувачам доводиться обирати між доступнішими базовими моделями та флагманським рішенням з розширеними можливостями. Давайте розберемося, у чому головна різниця між новинками.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 24375,
-      "slug": "samsung-pereosmyslyuye-interfeys-analoh-dynamic-island-zyavytsya-",
-      "title": "Samsung переосмислює інтерфейс: аналог Dynamic Island з'явиться у серії Galaxy S27",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-22T11:00:30Z",
-      "date_formatted": "22 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/7/2/335495/7244014d5c631f970ae735b7e12a62b0.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Південнокорейський техногігант готує серйозне оновлення інтерфейсу, наближаючи свою фірмову панель сповіщень до рішення від Apple.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
