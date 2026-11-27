@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 27 Nov 2026 07:48:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:19:39 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Show HN: Europe Instead — пошук європейських альтернатив звичним сервісам</title>
+      <link>https://yomaxxxi.github.io/news/show-hn-europe-instead-poshuk-yevropeyskykh-alternatyv-zvychnym-s/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/show-hn-europe-instead-poshuk-yevropeyskykh-alternatyv-zvychnym-s/</guid>
+      <pubDate>Fri, 27 Nov 2026 08:19:39 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Питання цифрового суверенітету та пошуку локальних програмних рішень усе частіше турбує європейських користувачів та бізнес. Залежність від монопольних американських платформ створює чимало ризиків, проте знайти якісні та прозорі аналоги буває непросто. Новий проєкт пропонує не просто каталог, а принципово інший підхід до ранжування програмного забезпечення на основі доказів, а не рекламних бюджетів.</description>
+    </item>
     <item>
       <title>SpaceX отримала дозвіл на мільйон супутників для космічних датацентрів</title>
       <link>https://yomaxxxi.github.io/news/spacex-otrymala-dozvil-na-milyon-suputnykiv-dlya-kosmichnykh-data/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 24 Nov 2026 14:22:59 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Цей інструмент допоможе прибрати зайвих людей, випадкові предмети чи недоліки з кадру за кілька секунд. Для цього не потрібно завантажувати сторонні редактори чи купувати підписки — усе вже є у вашому смартфоні.</description>
-    </item>
-    <item>
-      <title>Вирок хакеру за витік GTA 6: сім років ув&#x27;язнення та негайне звільнення</title>
-      <link>https://yomaxxxi.github.io/news/vyrok-khakeru-za-vytik-gta-6-sim-rokiv-uvyaznennya-ta-nehayne-zvi/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/vyrok-khakeru-za-vytik-gta-6-sim-rokiv-uvyaznennya-ta-nehayne-zvi/</guid>
-      <pubDate>Tue, 24 Nov 2026 13:41:27 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Головного фігуранта гучної справи щодо зламу ігрового гіганта засуджено, але через особливості судової практики та час, проведений під вартою, він продовжить відбувати покарання поза межами колонії.</description>
     </item>
   </channel>
 </rss>

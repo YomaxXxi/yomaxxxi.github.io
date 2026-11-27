@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 27705,
+      "slug": "show-hn-europe-instead-poshuk-yevropeyskykh-alternatyv-zvychnym-s",
+      "title": "Show HN: Europe Instead — пошук європейських альтернатив звичним сервісам",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-27T08:19:39Z",
+      "date_formatted": "27 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://europeinstead.com/en/opengraph-image?3ad140c750a18d7a",
+      "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
+      "summary": "Питання цифрового суверенітету та пошуку локальних програмних рішень усе частіше турбує європейських користувачів та бізнес. Залежність від монопольних американських платформ створює чимало ризиків, проте знайти якісні та прозорі аналоги буває непросто. Новий проєкт пропонує не просто каталог, а принципово інший підхід до ранжування програмного забезпечення на основі доказів, а не рекламних бюджетів.",
+      "reading_time": "3 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 27684,
       "slug": "spacex-otrymala-dozvil-na-milyon-suputnykiv-dlya-kosmichnykh-data",
       "title": "SpaceX отримала дозвіл на мільйон супутників для космічних датацентрів",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали AIN.ua / Офіційний реліз",
       "summary": "Федеральна комісія зі зв’язку США схвалила історичний запит компанії на створення масштабної мережі Starmind для обробки даних на орбіті.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Компанія Samsung активно готує наступника нинішнього покоління пристроїв, і новий Samsung Galaxy A38 вже встиг пройти тестування продуктивності в бенчмарку.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 24351,
-      "slug": "github-perlyna-dnya-elementalsoulsclaude-bughunter-potuzhnyy-nabi",
-      "title": "GitHub-перлина дня: elementalsouls/Claude-BugHunter — Потужний набір скілів для Claude Code, що перетворює ШІ на senior-інженера з безпеки та pentester-а",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-22T09:20:02Z",
-      "date_formatted": "22 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/elementalsouls/Claude-BugHunter",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Звичайні AI-чати часто плутаються у складних контекстах безпеки та дають загальні поради. Claude-BugHunter закриває цей біль, перетворюючи Claude Code на автономного пентестера та дослідника вразливостей.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "github_repo": "elementalsouls/Claude-BugHunter"
     }
   ]
 }
