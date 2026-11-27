@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 27 Nov 2026 14:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:50:58 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Keychron G6 HE: потенційний вбивця Logitech чи черговий компроміс?</title>
+      <link>https://yomaxxxi.github.io/news/keychron-g6-he-potentsiynyy-vbyvtsya-logitech-chy-cherhovyy-kompr/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/keychron-g6-he-potentsiynyy-vbyvtsya-logitech-chy-cherhovyy-kompr/</guid>
+      <pubDate>Fri, 27 Nov 2026 15:50:58 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Компанія Keychron випустила нову геймерську мишу Keychron G6 HE, яка використовує магнітні перемикачі, подібні до технології у мишах Logitech Superstrike, але з однією помітною проблемою в ергономіці кліків.</description>
+    </item>
     <item>
       <title>Мікро-ШІ дня: Suno AI — генерація повноцінних пісень з вокалом та музикою за хвилину</title>
       <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-suno-ai-heneratsiya-povnotsinnykh-pisen-z-vokalom-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 25 Nov 2026 07:34:28 +0000</pubDate>
       <category>Open Source</category>
       <description>Сучасні розробники та ШІ-асистенти часто пишуть код швидко, але при цьому іноді «мовчки» послаблюють чи відключають тести заради успішного білду. Утиліта checkwash створена саме для того, щоб перевіряти Git diff на наявність відомих патернів, які роблять тести слабшими або взагалі марними.</description>
-    </item>
-    <item>
-      <title>BYD Tang третього покоління: новий електрокросовер розміром із Tesla Model X</title>
-      <link>https://yomaxxxi.github.io/news/byd-tang-tretoho-pokolinnya-novyy-elektrokrosover-rozmirom-iz-tes/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/byd-tang-tretoho-pokolinnya-novyy-elektrokrosover-rozmirom-iz-tes/</guid>
-      <pubDate>Wed, 25 Nov 2026 07:27:47 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія BYD офіційно вивела на ринок третє покоління свого флагманського електрокросовера Tang, який націлений прямо на конкуренцію із західними преміум-брендами.</description>
     </item>
   </channel>
 </rss>

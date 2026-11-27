@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 28030,
+      "slug": "keychron-g6-he-potentsiynyy-vbyvtsya-logitech-chy-cherhovyy-kompr",
+      "title": "Keychron G6 HE: потенційний вбивця Logitech чи черговий компроміс?",
+      "category": "Геймінг",
+      "category_slug": "gaming",
+      "date": "2026-11-27T15:50:58Z",
+      "date_formatted": "27 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268886_Keychron_G6_HE_gaming_mouse_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_caption": "Матеріали The Verge / Офіційний реліз",
+      "summary": "Компанія Keychron випустила нову геймерську мишу Keychron G6 HE, яка використовує магнітні перемикачі, подібні до технології у мишах Logitech Superstrike, але з однією помітною проблемою в ергономіці кліків.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 28005,
       "slug": "mikro-shi-dnya-suno-ai-heneratsiya-povnotsinnykh-pisen-z-vokalom-",
       "title": "Мікро-ШІ дня: Suno AI — генерація повноцінних пісень з вокалом та музикою за хвилину",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
       "summary": "Створюйте музику професійної якості без студій та музичної освіти.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Український айтівець Олег Оліяр розробив і опублікував на GitHub безплатний мовний пакет-плагін, який повністю перекладає інтерфейс популярної платформи для роботи з ШІ-агентами Orca.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
       "github_repo": "XiaoYouChR/Ghost-Downloader-3"
-    },
-    {
-      "id": 24468,
-      "slug": "skilky-pamyati-naspravdi-zaymaye-apple-intelligence-na-iphone",
-      "title": "Скільки пам'яті насправді займає Apple Intelligence на iPhone?",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-22T14:55:29Z",
-      "date_formatted": "22 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.engadget.com/img/gallery/how-much-storage-does-apple-intelligence-use-on-your-iphone/l-intro-1794596549.jpg",
-      "image_caption": "Матеріали Engadget / Офіційний реліз",
-      "summary": "Нові функції штучного інтелекту в iOS 27 пропонують чимало корисних можливостей, проте вони вимагають чимало вільного простору на накопичувачі вашого пристрою.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }
