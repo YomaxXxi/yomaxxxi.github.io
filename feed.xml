@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:59:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:23:44 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Samsung Galaxy A38 засвітився у Geekbench: що відомо про новий середньобюджетник</title>
+      <link>https://yomaxxxi.github.io/news/samsung-galaxy-a38-zasvityvsya-u-geekbench-shcho-vidomo-pro-novyy/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/samsung-galaxy-a38-zasvityvsya-u-geekbench-shcho-vidomo-pro-novyy/</guid>
+      <pubDate>Fri, 27 Nov 2026 04:23:44 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія Samsung активно готує наступника нинішнього покоління пристроїв, і новий Samsung Galaxy A38 вже встиг пройти тестування продуктивності в бенчмарку.</description>
+    </item>
     <item>
       <title>Apple готує чергове масштабне оновлення сповіщень у майбутній iOS 28</title>
       <link>https://yomaxxxi.github.io/news/apple-hotuye-cherhove-masshtabne-onovlennya-spovishchen-u-maybutn/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 24 Nov 2026 12:24:09 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Ринок штучного інтелекту шукає шляхи виходу з глобального дефіциту заліза.</description>
-    </item>
-    <item>
-      <title>Uber, Nuro та Lucid запускають тести роботаксі без водіїв</title>
-      <link>https://yomaxxxi.github.io/news/uber-nuro-ta-lucid-zapuskayut-testy-robotaksi-bez-vodiyiv/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/uber-nuro-ta-lucid-zapuskayut-testy-robotaksi-bez-vodiyiv/</guid>
-      <pubDate>Tue, 24 Nov 2026 11:05:33 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Масштабний альянс переходить до наступного етапу: компанії прибирають людей-операторів із позашляховиків та готуються до комерційного запуску.</description>
     </item>
   </channel>
 </rss>
