@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 27 Nov 2026 09:57:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:33:20 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Повна українізація Orca: український розробник створив відкритий мовний пакет для ШІ-агента</title>
+      <link>https://yomaxxxi.github.io/news/povna-ukrayinizatsiya-orca-ukrayinskyy-rozrobnyk-stvoryv-vidkryty/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/povna-ukrayinizatsiya-orca-ukrayinskyy-rozrobnyk-stvoryv-vidkryty/</guid>
+      <pubDate>Fri, 27 Nov 2026 13:33:20 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Український айтівець Олег Оліяр розробив і опублікував на GitHub безплатний мовний пакет-плагін, який повністю перекладає інтерфейс популярної платформи для роботи з ШІ-агентами Orca.</description>
+    </item>
     <item>
       <title>Djinni інтегрує ШІ: до платформи тепер можна підключити Claude або ChatGPT через MCP</title>
       <link>https://yomaxxxi.github.io/news/djinni-intehruye-shi-do-platformy-teper-mozhna-pidklyuchyty-claud/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 25 Nov 2026 04:52:06 +0000</pubDate>
       <category>Техніка</category>
       <description>Водії зіткнулися з неприємною проблемою: під час запуску навігації замість карти з&#x27;являється повністю чорний екран або дратівлива чорна смуга.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: openvinotoolkit/openvino — Потужний відкритий рушій для оптимізації та прискорення ШІ-інференсу, що замінює повільні стандартні пайплайни PyTorch/TensorFlow на «залізі».</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-openvinotoolkitopenvino-potuzhnyy-vidkrytyy-r/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-openvinotoolkitopenvino-potuzhnyy-vidkrytyy-r/</guid>
-      <pubDate>Tue, 24 Nov 2026 15:50:02 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Розробники ML-систем постійно стикаються з болем: моделі з Hugging Face гальмують на процесорах, споживають забагато пам&#x27;яті та коштують шалених грошей на GPU у хмарі. OpenVINO закриває цей біль, перетворюючи важкі моделі на супершвидкісні об&#x27;єкти для локального «заліза».</description>
     </item>
   </channel>
 </rss>
