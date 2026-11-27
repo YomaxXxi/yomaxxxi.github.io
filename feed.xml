@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:50:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 16:20:24 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: storytold/craft-anything — Open-source рушій на Rust, що сканує будь-який софт чи гру та створює їхню копію за допомогою AI, замінюючи дорогі послуги архітекторів та реверс-інженерів</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-storytoldcraft-anything-open-source-rushiy-na/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-storytoldcraft-anything-open-source-rushiy-na/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:20:24 +0000</pubDate>
+      <category>Open Source</category>
+      <description>У чому суть проєкту та який біль закриває? Розробники щодня витрачають години на реверс-інжиніринг чужого коду, вивчення інтерфейсів та написання прототипів з нуля. Craft Anything повністю змінює правила гри. Ви вказуєте на будь-який сайт, додаток, гру чи файл, ставите задачу — і потужний AI-агент сканує оригінал, розбирає його архітектуру та збирає власний чистий аналог у потрібному стеку.</description>
+    </item>
     <item>
       <title>Keychron G6 HE: потенційний вбивця Logitech чи черговий компроміс?</title>
       <link>https://yomaxxxi.github.io/news/keychron-g6-he-potentsiynyy-vbyvtsya-logitech-chy-cherhovyy-kompr/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 25 Nov 2026 08:39:56 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Компанія Anthropic викотила велике оновлення для десктопних клієнтів ШІ-асистента на Windows та macOS, що кардинально змінює підхід до розробки ПЗ.</description>
-    </item>
-    <item>
-      <title>Checkwash: інструмент для перевірки Git diff на зниження якості тестів</title>
-      <link>https://yomaxxxi.github.io/news/checkwash-instrument-dlya-perevirky-git-diff-na-znyzhennya-yakost/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/checkwash-instrument-dlya-perevirky-git-diff-na-znyzhennya-yakost/</guid>
-      <pubDate>Wed, 25 Nov 2026 07:34:28 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Сучасні розробники та ШІ-асистенти часто пишуть код швидко, але при цьому іноді «мовчки» послаблюють чи відключають тести заради успішного білду. Утиліта checkwash створена саме для того, щоб перевіряти Git diff на наявність відомих патернів, які роблять тести слабшими або взагалі марними.</description>
     </item>
   </channel>
 </rss>

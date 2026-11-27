@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 28063,
+      "slug": "github-perlyna-dnya-storytoldcraft-anything-open-source-rushiy-na",
+      "title": "GitHub-перлина дня: storytold/craft-anything — Open-source рушій на Rust, що сканує будь-який софт чи гру та створює їхню копію за допомогою AI, замінюючи дорогі послуги архітекторів та реверс-інженерів",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-27T16:20:24Z",
+      "date_formatted": "27 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/storytold/craft-anything",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "У чому суть проєкту та який біль закриває? Розробники щодня витрачають години на реверс-інжиніринг чужого коду, вивчення інтерфейсів та написання прототипів з нуля. Craft Anything повністю змінює правила гри. Ви вказуєте на будь-який сайт, додаток, гру чи файл, ставите задачу — і потужний AI-агент сканує оригінал, розбирає його архітектуру та збирає власний чистий аналог у потрібному стеку.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/storytold/craft-anything",
+      "github_repo": "storytold/craft-anything"
+    },
+    {
       "id": 28030,
       "slug": "keychron-g6-he-potentsiynyy-vbyvtsya-logitech-chy-cherhovyy-kompr",
       "title": "Keychron G6 HE: потенційний вбивця Logitech чи черговий компроміс?",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали The Verge / Офіційний реліз",
       "summary": "Компанія Keychron випустила нову геймерську мишу Keychron G6 HE, яка використовує магнітні перемикачі, подібні до технології у мишах Logitech Superstrike, але з однією помітною проблемою в ергономіці кліків.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Минув рік із моменту релізу навушників AirPods Pro 3, і за цей час вони довели статус чи не найвигіднішого покупця у світі персонального аудіо, особливо на тлі поточного зниження ціни.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 24516,
-      "slug": "github-perlyna-dnya-xiaoyouchrghost-downloader-3-potuzhnyy-kombay",
-      "title": "GitHub-перлина дня: XiaoYouChR/Ghost-Downloader-3 — потужний комбайн для завантаження файлів, стрімінгу та медіа, що замінює десяток утиліт та дорогих менеджерів завантажень!",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-22T15:50:01Z",
-      "date_formatted": "22 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/XiaoYouChR/Ghost-Downloader-3",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Знайома ситуація: для музики — одна прогу, для відео з YouTube — інша, для торентів — третя, а для масивних датасетів із HuggingFace чи репозиторіїв з GitHub — взагалі костилі в консолі? Цей проєкт закриває весь цей болісний зоопарк софту однією швидкою self-hosted системою. Проєкт стрімко увірвався в тренди завдяки продуманому обходу антибот-систем та неймовірній всеїдності форматів.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "github_repo": "XiaoYouChR/Ghost-Downloader-3"
     }
   ]
 }
