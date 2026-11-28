@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 28 Nov 2026 12:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:41:35 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Заборонені AI-стійки NVIDIA Blackwell виявили в Китаї</title>
+      <link>https://yomaxxxi.github.io/news/zaboroneni-ai-stiyky-nvidia-blackwell-vyyavyly-v-kytayi/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/zaboroneni-ai-stiyky-nvidia-blackwell-vyyavyly-v-kytayi/</guid>
+      <pubDate>Sat, 28 Nov 2026 13:41:35 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Скандал навколо обходу експортного контролю: у дата-центрі Шанхаю помічено новітнє обладнання NVIDIA, пов&#x27;язане з мільйонними кредитами та підозрами у шпигунстві.</description>
+    </item>
     <item>
       <title>Технології, які ми втратили: 3D Touch в iPhone</title>
       <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-3d-touch-v-iphone/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 26 Nov 2026 07:34:45 +0000</pubDate>
       <category>Open Source</category>
       <description>Екосистема інструментів для автономних агентів продовжує еволюціонувати. Замість неефективних циклів обробки скріншотів, новий відкритий проєкт пропонує пряму взаємодію з інтерфейсом через Windows UI Automation. Це суттєво економить токени, запобігає конфліктам фокусу та дозволяє ШІ керувати десктопними додатками у середовищі Windows 10/11 з безпрецедентним рівнем контролю з боку користувача.</description>
-    </item>
-    <item>
-      <title>Redmi K100 Ultra: з&#x27;явилися перші подробиці про потужну камери майбутньої новинки</title>
-      <link>https://yomaxxxi.github.io/news/redmi-k100-ultra-zyavylysya-pershi-podrobytsi-pro-potuzhnu-kamery/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/redmi-k100-ultra-zyavylysya-pershi-podrobytsi-pro-potuzhnu-kamery/</guid>
-      <pubDate>Thu, 26 Nov 2026 07:34:11 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Інсайдер Digital Chat Station поділився характеристиками нового інженерного зразка майбутнього флагмана Redmi, який обіцяє суттєвий апгрейд порівняно з попереднім поколінням.</description>
     </item>
   </channel>
 </rss>

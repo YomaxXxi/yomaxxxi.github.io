@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 28427,
+      "slug": "zaboroneni-ai-stiyky-nvidia-blackwell-vyyavyly-v-kytayi",
+      "title": "Заборонені AI-стійки NVIDIA Blackwell виявили в Китаї",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-28T13:41:35Z",
+      "date_formatted": "28 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.mos.cms.futurecdn.net/iaLn9eep6ryDrWj6V9zkb9-2560-80.jpg",
+      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
+      "summary": "Скандал навколо обходу експортного контролю: у дата-центрі Шанхаю помічено новітнє обладнання NVIDIA, пов'язане з мільйонними кредитами та підозрами у шпигунстві.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 28406,
       "slug": "tekhnolohiyi-yaki-my-vtratyly-3d-touch-v-iphone",
       "title": "Технології, які ми втратили: 3D Touch в iPhone",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Retro Tech / Офіційний реліз",
       "summary": "У золоту епоху інженерних експериментів Apple подарувала нам магію, яку ми досі згадуємо з сумом. 3D Touch дозволяв екрану відчувати, наскільки сильно ви на нього тиснете, відкриваючи абсолютно новий шар взаємодії.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Розробник створив унікальну асемблерну систему для запуску мовних моделей, яка завантажується за мить і працює швидше за звичні ОС.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/kodak-slidetag-1.jpg?quality=82&strip=all&resize=1200,628",
       "image_caption": "Матеріали 9to5Google (Android & Google) / Офіційний реліз",
       "summary": "Огляд найважливіших деталей, фактів та експертної аналітики від редакції Polyvanyi News.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 25001,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-sonyachni-paneli-na-zadniy-kryshtsi",
-      "title": "Технології, які ми втратили: Сонячні панелі на задній кришці",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-23T12:50:28Z",
-      "date_formatted": "23 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "У золоту еру експериментів компанії намагалися зробити мобільні пристрої енергонезалежними. Пам'ятаєте Samsung Blue Earth чи Puma Phone? Ідея була фантастичною: телефон просто лежить на столику кав'ярні чи панелі авто і наповнюється енергією від сонця.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
