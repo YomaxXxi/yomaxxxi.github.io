@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 28452,
+      "slug": "yak-nalashtuvaty-blokuvannya-spam-dzvinkiv-na-iphone-ta-android",
+      "title": "Як налаштувати блокування спам-дзвінків на iPhone та Android",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-28T14:23:02Z",
+      "date_formatted": "28 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Більше не доведеться витрачати час на рекламні пропозиції та шахраїв. За кілька хвилин ви налаштуєте вбудовані функції смартфона і підключите захист від мобільних операторів.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 28427,
       "slug": "zaboroneni-ai-stiyky-nvidia-blackwell-vyyavyly-v-kytayi",
       "title": "Заборонені AI-стійки NVIDIA Blackwell виявили в Китаї",
@@ -1233,27 +1254,6 @@
       "image": "https://notebook.google/_/static/branding/v6/og/notebook_lm_share.png",
       "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
       "summary": "Аналіз величезних обсягів документів і книг завжди забирав години часу, а розібратися в складних звітах бувало надзвичайно важко. Цей інструмент повністю замінює Notion AI і за лічені секунди перетворює ваші PDF-файли на інтерактивну базу знань із точними цитатами та генерує повноцінні аудіоподкасти для прослуховування на ходу.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 25017,
-      "slug": "kompaniya-reto-vidoma-za-proyektamy-pid-brendamy-kodak-predstavyl",
-      "title": "Компанія Reto, відома за проєктами під брендами Kodak, представила новий трекер SlideTag, який поєднує функції пошуку речей та ретро-дизайн класичних 35-мм слайдів.",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-23T13:41:08Z",
-      "date_formatted": "23 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/kodak-slidetag-1.jpg?quality=82&strip=all&resize=1200,628",
-      "image_caption": "Матеріали 9to5Google (Android & Google) / Офіційний реліз",
-      "summary": "Огляд найважливіших деталей, фактів та експертної аналітики від редакції Polyvanyi News.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 28 Nov 2026 13:41:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:23:02 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Як налаштувати блокування спам-дзвінків на iPhone та Android</title>
+      <link>https://yomaxxxi.github.io/news/yak-nalashtuvaty-blokuvannya-spam-dzvinkiv-na-iphone-ta-android/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yak-nalashtuvaty-blokuvannya-spam-dzvinkiv-na-iphone-ta-android/</guid>
+      <pubDate>Sat, 28 Nov 2026 14:23:02 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Більше не доведеться витрачати час на рекламні пропозиції та шахраїв. За кілька хвилин ви налаштуєте вбудовані функції смартфона і підключите захист від мобільних операторів.</description>
+    </item>
     <item>
       <title>Заборонені AI-стійки NVIDIA Blackwell виявили в Китаї</title>
       <link>https://yomaxxxi.github.io/news/zaboroneni-ai-stiyky-nvidia-blackwell-vyyavyly-v-kytayi/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 26 Nov 2026 08:44:56 +0000</pubDate>
       <category>Техніка</category>
       <description>Інсайдер Digital Chat Station поділився першими характеристиками базової моделі Huawei Osta O1, яка стане продовженням розвитку нового суббренда компанії після нещодавнього анонсу Osta O1 Pro.</description>
-    </item>
-    <item>
-      <title>Turbo Desktop: новий стандарт безпеки для десктопних ШІ-агентів у середовищі Windows</title>
-      <link>https://yomaxxxi.github.io/news/turbo-desktop-novyy-standart-bezpeky-dlya-desktopnykh-shi-ahentiv/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/turbo-desktop-novyy-standart-bezpeky-dlya-desktopnykh-shi-ahentiv/</guid>
-      <pubDate>Thu, 26 Nov 2026 07:34:45 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Екосистема інструментів для автономних агентів продовжує еволюціонувати. Замість неефективних циклів обробки скріншотів, новий відкритий проєкт пропонує пряму взаємодію з інтерфейсом через Windows UI Automation. Це суттєво економить токени, запобігає конфліктам фокусу та дозволяє ШІ керувати десктопними додатками у середовищі Windows 10/11 з безпрецедентним рівнем контролю з боку користувача.</description>
     </item>
   </channel>
 </rss>
