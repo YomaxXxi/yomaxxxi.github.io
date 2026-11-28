@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 28347,
+      "slug": "aleksey-fatyeyev-vydalyv-linux-zarady-24-kb-asemblernoho-seredovy",
+      "title": "Алексей Фатєєв видалив Linux заради 24 КБ асемблерного середовища",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-28T10:28:44Z",
+      "date_formatted": "28 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.mos.cms.futurecdn.net/Hq9boHAew6Tq3qR8Vsnd6c-1920-80.jpg",
+      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
+      "summary": "Розробник створив унікальну асемблерну систему для запуску мовних моделей, яка завантажується за мить і працює швидше за звичні ОС.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 28297,
       "slug": "syla-shtuchnoho-intelektu-marketoloh-stvoryv-zastosunok-dlya-vysh",
       "title": "Сила штучного інтелекту: маркетолог створив застосунок для вишивання за 5 днів за допомогою Claude Code",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Маркетолог Максим Кірієнко розробив безкоштовний сервіс Eugene Stitch для вишивання хрестиком, який за перші 10 днів зібрав понад 900 користувачів завдяки можливостям ШІ.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Сучасні розробники все частіше стикаються з проблемою, коли один локальний інструмент перетворюється на цілу екосистему серверів, ноутбуків та хмарних вузлів. Коли ви запускаєте кілька сесій ШІ на різних машинах, починається класичний хаос: помилки доступу до артефактів, ізольовані сесії, які не бачать одна одну, та постійна потреба перемикатися між акаунтами в браузері. Проєкт Fleetlayer створений спеціально для того, щоб об'єднати цей розрізнений парк інструментів в єдину керовану систему.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://dev.ua/storage/images/53/62/87/92/derived/770506e662665c05f300ac013b2d38a7.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Product Motion Illustrator Тетяна Климань презентувала новий застосунок для iPhone під назвою Sob Story, який допомагає відстежувати емоційний стан та фіксувати причини сліз без зайвого стресу та реєстрацій.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 24810,
-      "slug": "lokalnyy-superkompyuter-entuziast-pidyednav-chotyry-nvidia-v100-d",
-      "title": "Локальний суперкомп'ютер: ентузіаст під'єднав чотири Nvidia V100 до міні-ПК Lenovo",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-23T09:28:08Z",
-      "date_formatted": "23 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.mos.cms.futurecdn.net/5ZyMS8WJrHKpGBjgF6DXxn-1456-80.jpg",
-      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
-      "summary": "Ентузіаст Майкл зібрав унікальну домашню систему для локального запуску штучного інтелекту, об'єднавши компактний десктоп та чотири серверні відеокарти із загальним об'ємом відеопам'яті у 128 ГБ VRAM.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
