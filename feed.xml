@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 27 Nov 2026 16:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:14:02 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Продуктивні сервери NVIDIA B300 дуже легко знайти в Китаї, якщо знати потрібних людей – The Washington Post</title>
+      <link>https://yomaxxxi.github.io/news/produktyvni-servery-nvidia-b300-duzhe-lehko-znayty-v-kytayi-yaksh/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/produktyvni-servery-nvidia-b300-duzhe-lehko-znayty-v-kytayi-yaksh/</guid>
+      <pubDate>Sat, 28 Nov 2026 04:14:02 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Попри жорсткі санкції та заборони, придбати найсучасніше та найпродуктивніше обладнання NVIDIA на китайському ринку виявляється напрочуд просто. Головними умовами є наявність необхідної величезної суми грошей та вихід на потрібних постачальників.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: storytold/craft-anything — Open-source рушій на Rust, що сканує будь-який софт чи гру та створює їхню копію за допомогою AI, замінюючи дорогі послуги архітекторів та реверс-інженерів</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-storytoldcraft-anything-open-source-rushiy-na/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 25 Nov 2026 09:20:13 +0000</pubDate>
       <category>Open Source</category>
       <description>Розробники мобільних додатків знають цей біль: тиждень очікування модерації — і реджект через банальну помилку в Privacy Manifest або неочевидний пункт політики Apple/Google. Цей проєкт замінює дорогі консультації з юристами та закриті комерційні аудиторські сервіси перевірки мобільного софту перед релізом.</description>
-    </item>
-    <item>
-      <title>Claude відтепер перетворює будь-які артефакти на повноцінні застосунки</title>
-      <link>https://yomaxxxi.github.io/news/claude-vidteper-peretvoryuye-bud-yaki-artefakty-na-povnotsinni-za/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/claude-vidteper-peretvoryuye-bud-yaki-artefakty-na-povnotsinni-za/</guid>
-      <pubDate>Wed, 25 Nov 2026 08:39:56 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Компанія Anthropic викотила велике оновлення для десктопних клієнтів ШІ-асистента на Windows та macOS, що кардинально змінює підхід до розробки ПЗ.</description>
     </item>
   </channel>
 </rss>
