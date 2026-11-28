@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 28406,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-3d-touch-v-iphone",
+      "title": "Технології, які ми втратили: 3D Touch в iPhone",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-28T12:50:28Z",
+      "date_formatted": "28 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/IPhone_6s_-_display_-_3D_Touch_sensor-7633.jpg",
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "У золоту епоху інженерних експериментів Apple подарувала нам магію, яку ми досі згадуємо з сумом. 3D Touch дозволяв екрану відчувати, наскільки сильно ви на нього тиснете, відкриваючи абсолютно новий шар взаємодії.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 28368,
       "slug": "novyy-ukrayinskyy-servis-zbih-yak-chetvero-rozrobnykiv-stvoryly-p",
       "title": "Новий український сервіс «Збіг»: як четверо розробників створили платформу для пошуку попутників",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали AIN.ua / Офіційний реліз",
       "summary": "За тиждень та власним коштом команда розробників запустила сервіс, який допомагає водіям і пасажирам із Києва знаходити попутників зі схожими маршрутами.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Маркетолог Максим Кірієнко розробив безкоштовний сервіс Eugene Stitch для вишивання хрестиком, який за перші 10 днів зібрав понад 900 користувачів завдяки можливостям ШІ.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Retro Tech / Офіційний реліз",
       "summary": "У золоту еру експериментів компанії намагалися зробити мобільні пристрої енергонезалежними. Пам'ятаєте Samsung Blue Earth чи Puma Phone? Ідея була фантастичною: телефон просто лежить на столику кав'ярні чи панелі авто і наповнюється енергією від сонця.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 24924,
-      "slug": "zakhyst-dlya-zaliza-predstavleno-dodatok-rtx-lens-dlya-monitorynh",
-      "title": "Захист для заліза: представлено додаток RTX Lens для моніторингу 16-пінових роз'ємів",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-23T11:57:27Z",
-      "date_formatted": "23 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.mos.cms.futurecdn.net/rbu2h6JFJkeByAw3SJAbrg-2500-80.jpg",
-      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
-      "summary": "Новий безплатний інструмент допомагає уникнути перегріву та плавлення кабелів живлення на потужних відеокартах.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

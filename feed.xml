@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 28 Nov 2026 11:48:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:50:28 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Технології, які ми втратили: 3D Touch в iPhone</title>
+      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-3d-touch-v-iphone/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-3d-touch-v-iphone/</guid>
+      <pubDate>Sat, 28 Nov 2026 12:50:28 +0000</pubDate>
+      <category>Техніка</category>
+      <description>У золоту епоху інженерних експериментів Apple подарувала нам магію, яку ми досі згадуємо з сумом. 3D Touch дозволяв екрану відчувати, наскільки сильно ви на нього тиснете, відкриваючи абсолютно новий шар взаємодії.</description>
+    </item>
     <item>
       <title>Новий український сервіс «Збіг»: як четверо розробників створили платформу для пошуку попутників</title>
       <link>https://yomaxxxi.github.io/news/novyy-ukrayinskyy-servis-zbih-yak-chetvero-rozrobnykiv-stvoryly-p/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 26 Nov 2026 07:34:11 +0000</pubDate>
       <category>Техніка</category>
       <description>Інсайдер Digital Chat Station поділився характеристиками нового інженерного зразка майбутнього флагмана Redmi, який обіцяє суттєвий апгрейд порівняно з попереднім поколінням.</description>
-    </item>
-    <item>
-      <title>Nothing представила Ear (note): навушники з вбудованим ШT-асистентом</title>
-      <link>https://yomaxxxi.github.io/news/nothing-predstavyla-ear-note-navushnyky-z-vbudovanym-sht-asystent/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/nothing-predstavyla-ear-note-navushnyky-z-vbudovanym-sht-asystent/</guid>
-      <pubDate>Thu, 26 Nov 2026 06:27:12 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Компанія Nothing готується змінити підхід до запису нотаток за допомогою свого першого ШІ-гаджета.</description>
     </item>
   </channel>
 </rss>
