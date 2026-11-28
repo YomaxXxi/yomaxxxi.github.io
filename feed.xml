@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 28 Nov 2026 08:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:12:48 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Сила штучного інтелекту: маркетолог створив застосунок для вишивання за 5 днів за допомогою Claude Code</title>
+      <link>https://yomaxxxi.github.io/news/syla-shtuchnoho-intelektu-marketoloh-stvoryv-zastosunok-dlya-vysh/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/syla-shtuchnoho-intelektu-marketoloh-stvoryv-zastosunok-dlya-vysh/</guid>
+      <pubDate>Sat, 28 Nov 2026 09:12:48 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Маркетолог Максим Кірієнко розробив безкоштовний сервіс Eugene Stitch для вишивання хрестиком, який за перші 10 днів зібрав понад 900 користувачів завдяки можливостям ШІ.</description>
+    </item>
     <item>
       <title>Європейська стрічка новин від українців: як працює Veridonia без алгоритмів</title>
       <link>https://yomaxxxi.github.io/news/yevropeyska-strichka-novyn-vid-ukrayintsiv-yak-pratsyuye-veridoni/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 25 Nov 2026 13:41:09 +0000</pubDate>
       <category>Техніка</category>
       <description>Мережа отримала нові дані про десктопні процесори наступного покоління від Intel, які пропонують від 22 до 28 ядер та підтримку найшвидшої пам&#x27;яті.</description>
-    </item>
-    <item>
-      <title>Технології, які ми втратили: Апаратні док-станції для ноутбуків</title>
-      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-aparatni-dok-stantsiyi-dlya-noutbuk/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-aparatni-dok-stantsiyi-dlya-noutbuk/</guid>
-      <pubDate>Wed, 25 Nov 2026 12:50:28 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Прийшли на робоче місце, легкий рух — і ноутбук зі смачним механічним «клац» сідає на масивну базу. Жодних дротів, що плутаються під руками. Миттєво оживають три монітори, гігабітний Ethernet, периферія та зарядка.</description>
     </item>
   </channel>
 </rss>

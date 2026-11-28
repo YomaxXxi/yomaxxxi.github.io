@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 28297,
+      "slug": "syla-shtuchnoho-intelektu-marketoloh-stvoryv-zastosunok-dlya-vysh",
+      "title": "Сила штучного інтелекту: маркетолог створив застосунок для вишивання за 5 днів за допомогою Claude Code",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-28T09:12:48Z",
+      "date_formatted": "28 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/17/38/84/38/derived/f31da6014cdb2d11ce59f5ed723228ba.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Маркетолог Максим Кірієнко розробив безкоштовний сервіс Eugene Stitch для вишивання хрестиком, який за перші 10 днів зібрав понад 900 користувачів завдяки можливостям ШІ.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 28298,
       "slug": "yevropeyska-strichka-novyn-vid-ukrayintsiv-yak-pratsyuye-veridoni",
       "title": "Європейська стрічка новин від українців: як працює Veridonia без алгоритмів",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Українська команда запустила нову платформу для новин і тематичних спільнот, де дописи відбирають самі читачі за допомогою жеребкування, а не шкідливі алгоритми.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Засновник Telegram Павло Дуров зробив тривожну заяву про те, що власники iPhone зі старими версіями операційної системи стикаються з масовими атаками.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 24811,
-      "slug": "github-perlyna-dnya-tracer-cloudopensre-potuzhnyy-ahent-dlya-nadi",
-      "title": "GitHub-перлина дня: Tracer-Cloud/opensre — потужний агент для надійності CI/CD, що автоматично діагностує та лагодить падіння білдів замість дорогих Enterprise-платформ спостережуваності.",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-23T09:20:02Z",
-      "date_formatted": "23 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/Tracer-Cloud/opensre",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Коли ваш CI/CD пайплайн червоніє, він зазвичай повідомляє про сам факт збою, але не пояснює його корінь і тим паче не виправляє його. Під тиском дедлайнів розробники просто тисють кнопку рестарту, накопичуючи технічний борг та захаращуючи мейн. OpenSRE вирішує цей біль як CLI-агент, що самостійно аналізує логи падіння, виявляє причину та генерує готовий до рев'ю патч.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/Tracer-Cloud/opensre",
-      "github_repo": "Tracer-Cloud/opensre"
     }
   ]
 }
