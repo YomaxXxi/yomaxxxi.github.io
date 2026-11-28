@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 28299,
+      "slug": "fleetlayer-novyy-freymvork-dlya-masshtabnoho-keruvannya-shi-ahent",
+      "title": "Fleetlayer: новий фреймворк для масштабного керування ШІ-агентами на різних пристроях",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-28T07:34:07Z",
+      "date_formatted": "28 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://fleetlayer.ai/img/dashboard-light.webp",
+      "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
+      "summary": "Сучасні розробники все частіше стикаються з проблемою, коли один локальний інструмент перетворюється на цілу екосистему серверів, ноутбуків та хмарних вузлів. Коли ви запускаєте кілька сесій ШІ на різних машинах, починається класичний хаос: помилки доступу до артефактів, ізольовані сесії, які не бачать одна одну, та постійна потреба перемикатися між акаунтами в браузері. Проєкт Fleetlayer створений спеціально для того, щоб об'єднати цей розрізнений парк інструментів в єдину керовану систему.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 28291,
       "slug": "telegram-poperedyv-pro-masovi-zlamy-iphone-dlya-ataky-dostatno-vi",
       "title": "Telegram попередив про масові злами iPhone: для атаки достатньо відкрити сайт",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Засновник Telegram Павло Дуров зробив тривожну заяву про те, що власники iPhone зі старими версіями операційної системи стикаються з масовими атаками.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Попри жорсткі санкції та заборони, придбати найсучасніше та найпродуктивніше обладнання NVIDIA на китайському ринку виявляється напрочуд просто. Головними умовами є наявність необхідної величезної суми грошей та вихід на потрібних постачальників.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1234,27 +1255,6 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Нове дослідження ринку праці розкриває реальний стан фінансової подушки українських IT-фахівців у поточних умовах.",
       "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 24766,
-      "slug": "promptshield-lokalnyy-instrument-dlya-zvorotnoho-prykhovuvannya-k",
-      "title": "PromptShield: локальний інструмент для зворотного приховування конфіденційних даних у запитах до LLM",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-23T07:49:20Z",
-      "date_formatted": "23 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://hxu129.github.io/scholarcraft-tools/promptshield/icons/icon48.png",
-      "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
-      "summary": "Питання безпеки та захисту персональних даних під час взаємодії зі штучним інтелектом залишається одним із найгостріших для розробників та компаній. Відправлення нефільтрованого коду, ключів доступу чи особистої інформації до хмарних мовних моделей несе критичні ризики витоку. Новий проєкт PromptShield пропонує локальне рішення цієї проблеми, забезпечуючи надійну деінтифікацію конфіденційних даних перед їх обробкою у великих мовних моделях.",
-      "reading_time": "3 хв",
       "featured": false,
       "breaking": false,
       "github_url": null,

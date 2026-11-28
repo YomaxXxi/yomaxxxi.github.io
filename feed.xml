@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:55:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:34:07 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fleetlayer: новий фреймворк для масштабного керування ШІ-агентами на різних пристроях</title>
+      <link>https://yomaxxxi.github.io/news/fleetlayer-novyy-freymvork-dlya-masshtabnoho-keruvannya-shi-ahent/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/fleetlayer-novyy-freymvork-dlya-masshtabnoho-keruvannya-shi-ahent/</guid>
+      <pubDate>Sat, 28 Nov 2026 07:34:07 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Сучасні розробники все частіше стикаються з проблемою, коли один локальний інструмент перетворюється на цілу екосистему серверів, ноутбуків та хмарних вузлів. Коли ви запускаєте кілька сесій ШІ на різних машинах, починається класичний хаос: помилки доступу до артефактів, ізольовані сесії, які не бачать одна одну, та постійна потреба перемикатися між акаунтами в браузері. Проєкт Fleetlayer створений спеціально для того, щоб об&#x27;єднати цей розрізнений парк інструментів в єдину керовану систему.</description>
+    </item>
     <item>
       <title>Telegram попередив про масові злами iPhone: для атаки достатньо відкрити сайт</title>
       <link>https://yomaxxxi.github.io/news/telegram-poperedyv-pro-masovi-zlamy-iphone-dlya-ataky-dostatno-vi/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 25 Nov 2026 12:25:10 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія Apple планує розширити свою лінійку благодійних пристроїв до Всесвітнього дня боротьби зі СНІДом, який відзначається 1 грудня.</description>
-    </item>
-    <item>
-      <title>Microsoft оголошує Code Red через наймасштабніший збій в історії</title>
-      <link>https://yomaxxxi.github.io/news/microsoft-oholoshuye-code-red-cherez-naymasshtabnishyy-zbiy-v-ist/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/microsoft-oholoshuye-code-red-cherez-naymasshtabnishyy-zbiy-v-ist/</guid>
-      <pubDate>Wed, 25 Nov 2026 11:17:26 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія зіткнулася з безпрецедентною кризою в роботі хмарних сервісів.</description>
     </item>
   </channel>
 </rss>
