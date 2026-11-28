@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 28368,
+      "slug": "novyy-ukrayinskyy-servis-zbih-yak-chetvero-rozrobnykiv-stvoryly-p",
+      "title": "Новий український сервіс «Збіг»: як четверо розробників створили платформу для пошуку попутників",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-28T11:48:14Z",
+      "date_formatted": "28 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.ain.ua/ua/articles/2026-11-27/ljKnO3RHjY9CJ2HHtOoFCmCiqDag9jW4v4iqQ0nJ.webp",
+      "image_caption": "Матеріали AIN.ua / Офіційний реліз",
+      "summary": "За тиждень та власним коштом команда розробників запустила сервіс, який допомагає водіям і пасажирам із Києва знаходити попутників зі схожими маршрутами.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 28347,
       "slug": "aleksey-fatyeyev-vydalyv-linux-zarady-24-kb-asemblernoho-seredovy",
       "title": "Алексей Фатєєв видалив Linux заради 24 КБ асемблерного середовища",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "Розробник створив унікальну асемблерну систему для запуску мовних моделей, яка завантажується за мить і працює швидше за звичні ОС.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Українська команда запустила нову платформу для новин і тематичних спільнот, де дописи відбирають самі читачі за допомогою жеребкування, а не шкідливі алгоритми.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/rbu2h6JFJkeByAw3SJAbrg-2500-80.jpg",
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "Новий безплатний інструмент допомагає уникнути перегріву та плавлення кабелів живлення на потужних відеокартах.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 24857,
-      "slug": "plakaty-tse-normalno-ukrayinska-rozrobnytsya-stvoryla-unikalnyy-t",
-      "title": "«Плакати — це нормально»: українська розробниця створила унікальний трекер Sob Story",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-23T10:47:14Z",
-      "date_formatted": "23 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/53/62/87/92/derived/770506e662665c05f300ac013b2d38a7.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Product Motion Illustrator Тетяна Климань презентувала новий застосунок для iPhone під назвою Sob Story, який допомагає відстежувати емоційний стан та фіксувати причини сліз без зайвого стресу та реєстрацій.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

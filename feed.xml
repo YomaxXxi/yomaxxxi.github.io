@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 28 Nov 2026 10:28:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:48:14 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Новий український сервіс «Збіг»: як четверо розробників створили платформу для пошуку попутників</title>
+      <link>https://yomaxxxi.github.io/news/novyy-ukrayinskyy-servis-zbih-yak-chetvero-rozrobnykiv-stvoryly-p/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/novyy-ukrayinskyy-servis-zbih-yak-chetvero-rozrobnykiv-stvoryly-p/</guid>
+      <pubDate>Sat, 28 Nov 2026 11:48:14 +0000</pubDate>
+      <category>Техніка</category>
+      <description>За тиждень та власним коштом команда розробників запустила сервіс, який допомагає водіям і пасажирам із Києва знаходити попутників зі схожими маршрутами.</description>
+    </item>
     <item>
       <title>Алексей Фатєєв видалив Linux заради 24 КБ асемблерного середовища</title>
       <link>https://yomaxxxi.github.io/news/aleksey-fatyeyev-vydalyv-linux-zarady-24-kb-asemblernoho-seredovy/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 26 Nov 2026 06:27:12 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Компанія Nothing готується змінити підхід до запису нотаток за допомогою свого першого ШІ-гаджета.</description>
-    </item>
-    <item>
-      <title>Мікро-ШІ дня: Perplexity AI — розумний пошук з джерелами за 60 секунд</title>
-      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-perplexity-ai-rozumnyy-poshuk-z-dzherelamy-za-60-s/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-perplexity-ai-rozumnyy-poshuk-z-dzherelamy-za-60-s/</guid>
-      <pubDate>Wed, 25 Nov 2026 14:50:57 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Замість того, щоб годинами перегортати десятки рекламних сайтів та сторінок у Google у пошуках точної відповіді, цей ШІ-пошуковик миттєво аналізує мережу та видає чіткий структурований текст із реальними посиланнями на джерела.</description>
     </item>
   </channel>
 </rss>
