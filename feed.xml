@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:48:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:55:45 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Telegram попередив про масові злами iPhone: для атаки достатньо відкрити сайт</title>
+      <link>https://yomaxxxi.github.io/news/telegram-poperedyv-pro-masovi-zlamy-iphone-dlya-ataky-dostatno-vi/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/telegram-poperedyv-pro-masovi-zlamy-iphone-dlya-ataky-dostatno-vi/</guid>
+      <pubDate>Sat, 28 Nov 2026 06:55:45 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Засновник Telegram Павло Дуров зробив тривожну заяву про те, що власники iPhone зі старими версіями операційної системи стикаються з масовими атаками.</description>
+    </item>
     <item>
       <title>Galaxy S27 Ultra: інсайди про нічну зйомку та камери</title>
       <link>https://yomaxxxi.github.io/news/galaxy-s27-ultra-insaydy-pro-nichnu-zyomku-ta-kamery/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 25 Nov 2026 11:17:26 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія зіткнулася з безпрецедентною кризою в роботі хмарних сервісів.</description>
-    </item>
-    <item>
-      <title>«Нуль відповіді»: Telegram не реагує на офіційні звернення ЦПД при РНБО</title>
-      <link>https://yomaxxxi.github.io/news/nul-vidpovidi-telegram-ne-reahuye-na-ofitsiyni-zvernennya-tspd-pr/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/nul-vidpovidi-telegram-ne-reahuye-na-ofitsiyni-zvernennya-tspd-pr/</guid>
-      <pubDate>Wed, 25 Nov 2026 09:58:11 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Державні структури України успішно взаємодіють з більшістю міжнародних технологічних платформ, проте комунікація з популярним месенджером залишається заблокованою.</description>
     </item>
   </channel>
 </rss>
