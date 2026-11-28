@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 28242,
+      "slug": "galaxy-s27-ultra-insaydy-pro-nichnu-zyomku-ta-kamery",
+      "title": "Galaxy S27 Ultra: інсайди про нічну зйомку та камери",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-28T05:48:53Z",
+      "date_formatted": "28 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-s27-ultra-main-camera-details/-952x498w6/gsmarena_000.jpg",
+      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
+      "summary": "Нові витоки розкривають деталі майбутнього флагмана Samsung, роблячи головний акцент на покращенні фотоможливостей.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 28257,
       "slug": "produktyvni-servery-nvidia-b300-duzhe-lehko-znayty-v-kytayi-yaksh",
       "title": "Продуктивні сервери NVIDIA B300 дуже легко знайти в Китаї, якщо знати потрібних людей – The Washington Post",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Попри жорсткі санкції та заборони, придбати найсучасніше та найпродуктивніше обладнання NVIDIA на китайському ринку виявляється напрочуд просто. Головними умовами є наявність необхідної величезної суми грошей та вихід на потрібних постачальників.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Компанія Keychron випустила нову геймерську мишу Keychron G6 HE, яка використовує магнітні перемикачі, подібні до технології у мишах Logitech Superstrike, але з однією помітною проблемою в ергономіці кліків.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://img.mezha.ua/mezha/images/doc/0/8/335523/08b8f03c949100f66d43557bb570912d.jpeg",
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Компанія Tesla почала розгортання масштабного оновлення FSD v15, головною фішкою якого стала революційна візуалізація Reality View. Ілон Маск одразу порівняв її інтерфейс із популярною відеоігрою.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 24727,
-      "slug": "google-zakryvaye-zastosunok-nest-ta-klasychnoho-google-assistant",
-      "title": "Google закриває застосунок Nest та класичного Google Assistant",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-23T06:09:22Z",
-      "date_formatted": "23 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/nest-and-assistant-retiring-google-home-devices/gsmarena_001.jpg",
-      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
-      "summary": "Техногігант продовжує глобальну реструктуризацію своєї розумної екосистеми, оголосивши про остаточне згортання старих платформ та перехід на єдині сервіси управління.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
