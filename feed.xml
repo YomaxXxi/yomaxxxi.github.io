@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 28 Nov 2026 14:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:50:55 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Amazon Echo Show: топ-5 прихованих фішок розумних екранів</title>
+      <link>https://yomaxxxi.github.io/news/amazon-echo-show-top-5-prykhovanykh-fishok-rozumnykh-ekraniv/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/amazon-echo-show-top-5-prykhovanykh-fishok-rozumnykh-ekraniv/</guid>
+      <pubDate>Sat, 28 Nov 2026 14:50:55 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Багато власників використовують розумні дисплеї лише як кухонний годинник чи таймер, але ці пристрої приховують набагато більше корисних можливостей.</description>
+    </item>
     <item>
       <title>Як налаштувати блокування спам-дзвінків на iPhone та Android</title>
       <link>https://yomaxxxi.github.io/news/yak-nalashtuvaty-blokuvannya-spam-dzvinkiv-na-iphone-ta-android/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 26 Nov 2026 10:05:22 +0000</pubDate>
       <category>Техніка</category>
       <description>Моделі вже доступні для попереднього замовлення, а відкриті продажі стартують 3 грудня.</description>
-    </item>
-    <item>
-      <title>Huawei готує до релізу базовий смартфон Osta O1 із процесором Kirin</title>
-      <link>https://yomaxxxi.github.io/news/huawei-hotuye-do-relizu-bazovyy-smartfon-osta-o1-iz-protsesorom-k/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/huawei-hotuye-do-relizu-bazovyy-smartfon-osta-o1-iz-protsesorom-k/</guid>
-      <pubDate>Thu, 26 Nov 2026 08:44:56 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Інсайдер Digital Chat Station поділився першими характеристиками базової моделі Huawei Osta O1, яка стане продовженням розвитку нового суббренда компанії після нещодавнього анонсу Osta O1 Pro.</description>
     </item>
   </channel>
 </rss>
