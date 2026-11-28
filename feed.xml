@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 28 Nov 2026 07:34:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:11:44 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Європейська стрічка новин від українців: як працює Veridonia без алгоритмів</title>
+      <link>https://yomaxxxi.github.io/news/yevropeyska-strichka-novyn-vid-ukrayintsiv-yak-pratsyuye-veridoni/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yevropeyska-strichka-novyn-vid-ukrayintsiv-yak-pratsyuye-veridoni/</guid>
+      <pubDate>Sat, 28 Nov 2026 08:11:44 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Українська команда запустила нову платформу для новин і тематичних спільнот, де дописи відбирають самі читачі за допомогою жеребкування, а не шкідливі алгоритми.</description>
+    </item>
     <item>
       <title>Fleetlayer: новий фреймворк для масштабного керування ШІ-агентами на різних пристроях</title>
       <link>https://yomaxxxi.github.io/news/fleetlayer-novyy-freymvork-dlya-masshtabnoho-keruvannya-shi-ahent/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 25 Nov 2026 12:50:28 +0000</pubDate>
       <category>Техніка</category>
       <description>Прийшли на робоче місце, легкий рух — і ноутбук зі смачним механічним «клац» сідає на масивну базу. Жодних дротів, що плутаються під руками. Миттєво оживають три монітори, гігабітний Ethernet, периферія та зарядка.</description>
-    </item>
-    <item>
-      <title>Apple готує нові версії (Product) Red: анонс HomePod mini 2 та AirPods Max 2 вже наступного тижня</title>
-      <link>https://yomaxxxi.github.io/news/apple-hotuye-novi-versiyi-product-red-anons-homepod-mini-2-ta-air/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/apple-hotuye-novi-versiyi-product-red-anons-homepod-mini-2-ta-air/</guid>
-      <pubDate>Wed, 25 Nov 2026 12:25:10 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія Apple планує розширити свою лінійку благодійних пристроїв до Всесвітнього дня боротьби зі СНІДом, який відзначається 1 грудня.</description>
     </item>
   </channel>
 </rss>

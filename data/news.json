@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 28298,
+      "slug": "yevropeyska-strichka-novyn-vid-ukrayintsiv-yak-pratsyuye-veridoni",
+      "title": "Європейська стрічка новин від українців: як працює Veridonia без алгоритмів",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-28T08:11:44Z",
+      "date_formatted": "28 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/15/96/30/55/derived/be4e64dc5190c7b69aac4593de21c6ca.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Українська команда запустила нову платформу для новин і тематичних спільнот, де дописи відбирають самі читачі за допомогою жеребкування, а не шкідливі алгоритми.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 28299,
       "slug": "fleetlayer-novyy-freymvork-dlya-masshtabnoho-keruvannya-shi-ahent",
       "title": "Fleetlayer: новий фреймворк для масштабного керування ШІ-агентами на різних пристроях",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Hacker News (Show HN Tools) / Офіційний реліз",
       "summary": "Сучасні розробники все частіше стикаються з проблемою, коли один локальний інструмент перетворюється на цілу екосистему серверів, ноутбуків та хмарних вузлів. Коли ви запускаєте кілька сесій ШІ на різних машинах, починається класичний хаос: помилки доступу до артефактів, ізольовані сесії, які не бачать одна одну, та постійна потреба перемикатися між акаунтами в браузері. Проєкт Fleetlayer створений спеціально для того, щоб об'єднати цей розрізнений парк інструментів в єдину керовану систему.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Нові витоки розкривають деталі майбутнього флагмана Samsung, роблячи головний акцент на покращенні фотоможливостей.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/Tracer-Cloud/opensre",
       "github_repo": "Tracer-Cloud/opensre"
-    },
-    {
-      "id": 24765,
-      "slug": "finansy-v-it-44-ukrayinskykh-fakhivtsiv-vytrachayut-use-shcho-zar",
-      "title": "Фінанси в IT: 44% українських фахівців витрачають усе, що заробляють або більше",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-23T08:27:43Z",
-      "date_formatted": "23 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/16/09/34/00/derived/19eb89d7a1730e8f7f50c5bf61649f67.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Нове дослідження ринку праці розкриває реальний стан фінансової подушки українських IT-фахівців у поточних умовах.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }
